@@ -29,6 +29,8 @@ Every draft handed to Wanda MUST end with a block like this:
 
 3–7 receipts, each naming (a) the research file and finding, (b) the specific decision it drove. **A deliverable with no receipts block is not done.** If the research genuinely doesn't apply, the receipts block says so explicitly and why — silence is not allowed.
 
+**Enforcement, not honor system:** finished drafts are saved to `deliverables/`. A Stop hook (`.claude/settings.json` → `scripts/check-deliverables.sh`) blocks any session from ending while a `deliverables/*.md` lacks a receipts block. The harness runs this check outside the model — it cannot be skipped. Work-in-progress that isn't ready for receipts belongs anywhere except `deliverables/`.
+
 ## Rule 3 — Research can veto copy.
 
 If a draft's angle, claim, or positioning contradicts the research (e.g., leading with hype-register claims the 55–65 buyer distrusts, or framing brand voice as something you CONSTRUCT instead of RECOVER), fix it or flag it. Never ship it silently.
