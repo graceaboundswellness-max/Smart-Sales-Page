@@ -20,7 +20,7 @@ Use for: every sales page, website page, funnel, offer, and naming decision.
 - **Voice-first AI.** First-mover window in the faith-messaging middle is live but narrowing. The philosophical distinction: extraction, not replication — a tool needs her voice as input; Wanda finds it as output.
 - **Messaging as the deliverable.** The category itself. (Nicole Frazier borrowing the word proves demand; her inability to deliver it proves the gap.)
 
-**Tier 2 — multipliers:** the 55–65 demographic whitespace + the unreplicable story (five rebuilds, 20 years Revlon, Distinguished Executive at 29, twice International Educator of the Year). The story makes the demographic targeting credible instead of cosmetic.
+**Tier 2 — multipliers:** the 55–65 demographic whitespace + the unreplicable story (five rebuilds, 20 years Revlon, Distinguished Executive of the Year in December 1999, twice International Educator of the Year). The story makes the demographic targeting credible instead of cosmetic. (Canon rule: use the YEAR, never an age — the source doc's "at 29" is wrong; see playbook canonical-facts table.)
 
 **Tier 3 — table stakes that aren't:** faith-forward (Reformed, truth-over-hype — reads as SAFETY to a buyer burned by prosperity-flavored marketing) + certified conversion copywriter (the proof layer under the DFY price).
 

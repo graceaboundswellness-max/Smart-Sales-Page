@@ -154,5 +154,6 @@ Bold **4 things max** per post. No highlighter. Dividers 1–3 total, not betwee
 - [ ] CTA quotes the offers file (verbatim source shown in receipts)
 - [ ] Claims check against `research/positioning.md`; facts check against canonical-facts table in the playbook
 - [ ] **Research Receipts block appended** (3–7 lines: finding → decision)
+- [ ] **Publish body is clean**: the paste-ready body contains ZERO internal blocks — no OFFER SOURCE, receipts, checklist, metadata, or image prompts (Section A/B split per project instructions)
 
 For the GHL publish itself (field order, gotchas, verification), follow `templates/publishing-playbook.md` Phases 2–5.
