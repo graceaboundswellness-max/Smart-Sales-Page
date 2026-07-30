@@ -61,7 +61,7 @@ One section. ~300 words. Positioned *after* the practical content. Doing E-E-A-T
 
 ### Voice rules that bit us
 
-- **"Messaging" is banned in symptom-aware body copy.** Chloe doesn't have that word. Fine in schema and bio — bots read those, she doesn't.
+- ~~**"Messaging" is banned in symptom-aware body copy.**~~ **AMENDED 2026-07-30 (Wanda ruling): not a global ban.** Symptom language leads cold-reader sections (Chloe searches symptoms, not solutions); "messaging" is allowed where it reads naturally.
 - **Symptom language, not solution language.** She searches "why isn't anyone buying," never "brand messaging help."
 - Bold **4 things max**. It stops working when it's everywhere.
 - No highlighter. Clashes with the brand, competes with bold.

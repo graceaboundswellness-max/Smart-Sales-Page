@@ -84,6 +84,8 @@ Each topic lists: the target query → the AEO question a real person types → 
 
 ## Rules for using this list
 
+0. **Age-anchored titles need Wanda's explicit yes** (ruling 2026-07-30): topic 9 and the second-act pillar target age-containing QUERIES — the targeting is internal; putting the age in a published title requires her approval in Phase 0, every time.
+
 1. One topic = one territory = one primary query. Don't blend territories in a single post.
 2. Before writing, re-read that territory's entry in `open-lanes.md` — build to the GAP, not the generic topic.
 3. Every post ends with Research Receipts (see CLAUDE.md / project instructions).

@@ -40,7 +40,7 @@ Author:               Wanda Lambert [+ one-line credential]
 Published / Updated:  [real dates]
 ```
 
-Title patterns that win these SERPs: question-form, number + fix-promise, or first-person proof ("What I Know After Rebuilding Five Times"). Include the age/faith/audience qualifier when the territory supports it — no incumbent does.
+Title patterns that win these SERPs: question-form, number + fix-promise, or first-person proof ("What I Know After Rebuilding Five Times"). Faith qualifier: allowed when the territory supports it. **Audience-age rule (Wanda ruling 2026-07-30): "55–65" is internal targeting — it never appears in copy or titles unless Wanda explicitly requests it. If the target QUERY itself contains an age ("starting an online business at 55"), flag it in Phase 0 and get her explicit yes before the title uses it.**
 
 Categories are the three content pillars — never invent a second taxonomy. Truth Over Hype is a thread through everything, not a category. Brand name on the category label; search language in the category description (that's where the SEO weight is).
 
@@ -50,7 +50,7 @@ A complete 40–60 word answer to the AEO question, before any story or setup. M
 
 ## 3 · The Mirror (2–4 short paragraphs)
 
-Her exact situation in her symptom words. **"Messaging" is banned in symptom-aware body copy** — Chloe doesn't have that word; she searches "why isn't anyone buying." (The word is fine in schema and the author bio — bots read those, she doesn't.) No throat-clearing.
+Her exact situation in her symptom words — she searches "why isn't anyone buying," not "brand messaging help." **Word-choice rule (Wanda ruling 2026-07-30): "messaging" is NOT globally banned.** Default to symptom language in cold-reader sections because it mirrors her search behavior; use "messaging" where it reads naturally. No throat-clearing.
 
 ## 4 · Why the usual answers fail (1 question-shaped H2)
 
@@ -145,7 +145,8 @@ Bold **4 things max** per post. No highlighter. Dividers 1–3 total, not betwee
 - [ ] Every H2 is a typed question and opens with a mini-answer
 - [ ] ≥2 extractable structures (table/checklist/numbered process/framework)
 - [ ] Story ≤300 words, after the practical content (ranking assets)
-- [ ] "Messaging" absent from symptom-aware body copy; symptom language throughout
+- [ ] Symptom language leads the cold-reader sections ("messaging" allowed elsewhere — 2026-07-30 ruling, no global ban)
+- [ ] No audience-age label (55–65 or query-age) in copy or titles without Wanda's explicit Phase 0 approval
 - [ ] ≥3 specific numbers; zero vague quantifiers; zero hype-register phrases
 - [ ] Bold ≤4, dividers ≤3, no highlighter
 - [ ] SEO title 50–60 chars; meta description 150–160 with the answer in it
