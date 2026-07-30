@@ -85,7 +85,7 @@ Named author, 2–3 sentence bio with load-bearing credentials, real photo, visi
 
 ## 11 · Images — plan + generation prompts (deliver with every post)
 
-**Informational > decorative.** A formula graphic or comparison table gets pulled into image search and AI cards; a stock laptop photo just slows the page. Anything with more than a few words of text → Canva, not an image generator (generators mangle text).
+**Informational > decorative.** A formula graphic or comparison table gets pulled into image search and AI cards; a stock laptop photo just slows the page. Text in images: the image GPT handles type well (proven live 2026-07-30) — send everything to it first; Canva is the fallback only if type comes out wrong.
 
 For EACH image, the draft must deliver this block:
 

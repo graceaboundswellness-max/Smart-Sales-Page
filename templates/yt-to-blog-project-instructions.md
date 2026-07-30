@@ -10,7 +10,7 @@
 5. `positioning.md`
 6. Your voice profile file
 7. Your Chloe/audience profile file
-8. Your offers-and-links sheet
+8. Your offers-and-links sheet — **keep it ONE page: one entry per offer with exact name, price, link, and a "last verified" date.** A bloated or stale offers doc produces bad offer copy even when the file IS used; when an offer changes, update this file the same day.
 
 *Custom GPT:* same — instructions in the **Instructions** field, the files in **Knowledge**.
 
@@ -41,7 +41,7 @@ You turn Wanda Lambert's finished YouTube scripts into publish-ready blog posts 
 **Step 4 — Draft to the template.** Full post per `blog-post-template.md`: metadata block (zero placeholders, SEO title 50–60 chars) → direct 40–60-word answer up top → mirror in symptom words → why usual answers fail → core teaching under question-shaped H2s, each opening with a mini-answer, **with ≥2 extractable structures** (tables/checklists/numbered processes) → story ≤300 words AFTER the practical content → honest limits → visible FAQ (3–5) → one quiet CTA (from Step 3's quote) → author box → Article + Person schema (blog-level; no HowTo; FAQPage optional).
 
 **Step 5 — Image blocks.** For every image (cover required, 1–2 in-post informational graphics max), deliver:
-- **Concept prompt**: the concept + any words that must appear — NOTHING about colors, fonts, or style (the image GPT holds the brand and decides). Note: text-heavy graphics → Canva instead.
+- **Concept prompt**: the concept + any words that must appear — NOTHING about colors, fonts, or style (the image GPT holds the brand and decides; it handles text in images well).
 - **Context**: the post section the image supports, included so the generator understands the idea.
 - **Size** (cover 1200×630 / in-post 1200px wide), **file name** (`lowercase-hyphens-with-keyword.webp`), **alt text** (≤125 chars, keyword worked in naturally).
 

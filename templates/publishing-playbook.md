@@ -87,7 +87,7 @@ Have all of this open in one file. Fill everything. **Zero placeholders.**
 ### Image rules
 
 - **Informational > decorative.** A formula graphic or comparison table gets pulled into image search and AI cards. A stock photo of a laptop does nothing but slow the page.
-- **Image generators mangle text.** Anything with words → Canva. Three minutes, clean type.
+- ~~**Image generators mangle text.** Anything with words → Canva.~~ **CORRECTED 2026-07-30:** the image GPT handled type excellently on the first live run. Send everything to it first; Canva is the fallback only if type comes out wrong.
 - Filenames: `lowercase-hyphens-with-keyword.webp`. Never `IMG_4471.png`.
 - WebP if available — ~⅓ the size of PNG, and speed is a ranking factor.
 
@@ -155,6 +155,7 @@ GHL sanitizes script tags there — becomes `&lt;script&gt;`, text *about* a scr
 - Search Console → URL Inspection → **Request Indexing**
 - Delete any placeholder blogs
 - Link to the post from your About page
+- **Blog must be in the site nav menu** (discovered 2026-07-30: posts were live with no nav path to them — invisible to visitors AND to crawlers following internal links). One-time fix, then verify the link survives any header edit.
 
 ---
 
