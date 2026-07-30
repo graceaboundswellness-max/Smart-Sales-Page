@@ -29,7 +29,13 @@ Every draft handed to Wanda MUST end with a block like this:
 
 3–7 receipts, each naming (a) the research file and finding, (b) the specific decision it drove. **A deliverable with no receipts block is not done.** If the research genuinely doesn't apply, the receipts block says so explicitly and why — silence is not allowed.
 
-**Enforcement, not honor system:** finished drafts are saved to `deliverables/`. A Stop hook (`.claude/settings.json` → `scripts/check-deliverables.sh`) blocks any session from ending while a `deliverables/*.md` lacks a receipts block. The harness runs this check outside the model — it cannot be skipped. Work-in-progress that isn't ready for receipts belongs anywhere except `deliverables/`.
+**What is mechanically enforced vs. trusted — exact boundary, do not oversell it:**
+
+A Stop hook (`.claude/settings.json` → `scripts/check-deliverables.sh`) runs outside the model and blocks the session from ending unless every `deliverables/*.md`: (a) has a receipts block, (b) contains ≥3 citations shaped `[file.md → finding]` (or an explicit `[no-research]` line with the reason), and (c) **every cited finding text actually appears in the cited file** — a receipt citing a nonexistent file or an invented/paraphrased finding blocks the session. This kills silent skips and fabricated citations.
+
+The hook does NOT prove the finding truly drove the decision, or that the draft is good. Those are verified by (1) the draft-auditor pass (`templates/draft-auditor-instructions.md`), which checks each receipt's decision-claim against the draft, and (2) Wanda reading it. Receipts are falsifiable claims, not proof — treat any statement that the system "guarantees research was used" as overselling.
+
+Work-in-progress that isn't ready for receipts belongs anywhere except `deliverables/`.
 
 ## Rule 3 — Research can veto copy.
 
