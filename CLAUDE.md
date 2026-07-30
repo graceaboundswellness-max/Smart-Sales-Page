@@ -9,7 +9,8 @@ Before drafting ANY copy, page, funnel, outline, or content plan, read the relev
 | You are building… | Read first |
 |---|---|
 | Sales page, website page, About/Founder page, funnel step | `research/positioning.md` + `research/competitors.md` |
-| Blog post, article, YouTube script, Substack post, SEO/AEO content | `research/open-lanes.md` (find the matching territory) + `research/positioning.md` |
+| Blog post, article, YouTube script, Substack post, SEO/AEO content | `research/open-lanes.md` (find the matching territory) + `research/positioning.md` — and build blog posts to `templates/blog-post-template.md` |
+| Choosing what content to make next | `research/content-topics.md` (priority-ordered, receipt-backed) |
 | Email sequence, opt-in, lead magnet | `research/positioning.md` + the matching territory in `research/open-lanes.md` |
 | Offer design, pricing, naming | `research/positioning.md` (the moat + Tier 1 walls) |
 
