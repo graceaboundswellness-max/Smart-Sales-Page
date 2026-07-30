@@ -56,6 +56,19 @@ If a draft's angle, claim, or positioning contradicts the research (e.g., leadin
 - `scripts/` — enforcement scripts (`check-deliverables.sh`)
 - `01 Daily Logs/` — end-of-day session handoff notes
 
+## Rule 6 — Copy gates are OPT-IN. Operational output bypasses them.
+
+Copy-quality traits — "disarming," "clear," voice scoring, persuasion scoring, power-word passes, Chloe check, catcher, zhuzh — run **only** on customer-facing copy or on output the user explicitly asked to have reviewed as copy.
+
+They must **never** run on: diagnostics, error analysis, status reports, technical explanations, logs, test output, handoffs, session recaps, or system messages. Judging an operational sentence by copy standards is a routing bug, not a quality improvement.
+
+Routing is deterministic — `scripts/classify-output-scope.sh` decides:
+- `deliverables/` → **COPY** · explicit user request or `COPY-REVIEW-REQUESTED` marker → **COPY**
+- `research/`, `templates/`, `scripts/`, `reports/`, `01 Daily Logs/`, `.claude/`, CLAUDE.md → **OPERATIONAL**
+- Unlabeled chat replies → **OPERATIONAL by default** (copy treatment is never assumed)
+
+Regression suite: `bash scripts/test-output-scope.sh` (14 cases, includes the 2026-07-30 false positive verbatim). Run it after touching either script.
+
 ## Rule 5 — Keep the research alive.
 
 When new research is produced in any session (competitor sweeps, SERP checks, audience data), distill it into the matching `research/` file in the same session. Research that only lives in chat output is considered lost.
