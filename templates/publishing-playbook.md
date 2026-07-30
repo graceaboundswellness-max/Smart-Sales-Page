@@ -152,10 +152,12 @@ GHL sanitizes script tags there — becomes `&lt;script&gt;`, text *about* a scr
 
 # PHASE 5 — AFTER
 
-- Search Console → URL Inspection → **Request Indexing**
+- Search Console → URL Inspection → **Test Live URL, then Request Indexing** (the live test matters here: the blog serves 403 to generic bots, so confirm Googlebot fetches it clean)
+- **Bing Webmaster Tools → URL Submission** — Bing feeds ChatGPT/Copilot answers; this is the GEO step
+- **Paste the post's LOG ROW into the content tracker** (the writing project outputs it with every draft)
 - Delete any placeholder blogs
 - Link to the post from your About page
-- **Blog must be in the site nav menu** (discovered 2026-07-30: posts were live with no nav path to them — invisible to visitors AND to crawlers following internal links). One-time fix, then verify the link survives any header edit.
+- **Blog must be in the site nav menu** (discovered 2026-07-30: posts were live with no nav path to them — invisible to visitors AND to crawlers following internal links). The blog lives on the subdomain — nav link points to `https://blog.wandalambert.com`. One-time fix, then verify the link survives any header edit.
 
 ---
 
