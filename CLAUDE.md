@@ -42,6 +42,14 @@ If a draft's angle, claim, or positioning contradicts the research (e.g., leadin
 - Positioning spine: **"Your voice first. AI runs with it."** Voice extraction, not replication. Messaging as the deliverable, DFY as the front door.
 - Grade-7 readability, specific numbers over vague claims, never define her by what she's NOT.
 
+## Folder map
+
+- `research/` — distilled research digests (index, positioning, competitors, open lanes, content topics)
+- `templates/` — blog template, YT→blog project instructions, publishing playbook, draft auditor
+- `deliverables/` — finished drafts only (receipts-gated by the Stop hook)
+- `scripts/` — enforcement scripts (`check-deliverables.sh`)
+- `01 Daily Logs/` — end-of-day session handoff notes
+
 ## Rule 5 — Keep the research alive.
 
 When new research is produced in any session (competitor sweeps, SERP checks, audience data), distill it into the matching `research/` file in the same session. Research that only lives in chat output is considered lost.
