@@ -152,7 +152,7 @@ GHL sanitizes script tags there — becomes `&lt;script&gt;`, text *about* a scr
 
 # PHASE 5 — AFTER
 
-- Search Console → URL Inspection → **Test Live URL, then Request Indexing** (the live test matters here: the blog serves 403 to generic bots, so confirm Googlebot fetches it clean)
+- Search Console → URL Inspection → **Test Live URL, then Request Indexing** (the live test is the ONLY trustworthy fetch check — an automated fetch on 2026-07-30 got a 403 that turned out to be the checking sandbox's own network policy, not the blog; never conclude "the site blocks bots" without GSC's verdict)
 - **Bing Webmaster Tools → URL Submission** — Bing feeds ChatGPT/Copilot answers; this is the GEO step
 - **Paste the post's LOG ROW into the content tracker** (the writing project outputs it with every draft)
 - Delete any placeholder blogs
