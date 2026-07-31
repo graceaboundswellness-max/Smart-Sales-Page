@@ -361,6 +361,31 @@ Field key: 1 Name · 2 Status · 3 Price · 4 Link · 5 Delivery · 6 Included �
 
 ---
 
+## 7B. Content source engine — canon chain + flagged sources [WANDA DECISION 2026-07-31]
+
+The current active content chain, as ruled by Wanda on 2026-07-31 (stated in full — never reduced to "one source, five surfaces"):
+
+**YouTube script (the source asset) → YouTube Community posts → YouTube Shorts → Substack article with the YouTube video embedded → audio version embedded in the Substack article → SEO / AEO / AIO / GEO blog post → Substack Notes → broadcast email.**
+
+Pinterest is **not** part of the active pipeline — parked reference only (consistent with LINKS HQ's "RETIRED — KEEP FOR REFERENCE" row).
+
+This complete chain governs, wherever the final library touches them: content-system descriptions · offer delivery/bonuses · AI-implementation language · CLAIM Your VOICE — Implement and Momentum stages · Be Seen · future AI Brand Messaging Lab language · website/funnel descriptions of the content system · any Founder File, positioning, or Bio Suite reference to the content engine.
+
+**Sources flagged as carrying an older or incomplete chain (for LATER correction — none rewritten in this audit):**
+
+| Source | What it currently says | Gap vs. canon chain |
+|---|---|---|
+| Boldly Convicted (Part 6) | "I chose YouTube, Substack, and email on purpose" | 3 surfaces named; omits Community posts, Shorts, embedded audio, and the SEO/AEO/AIO/GEO blog |
+| Boldly Convicted (Building Blocks, Phases 2–3) | Notes bank, first article, podcast episode | Partial chain; "podcast episode" vs. canon's "audio version embedded in the Substack article" needs reconciling |
+| Operating SOP | Keyword & Discoverability Engine tab + a dedicated **Pinterest Keywords tab** | Pinterest tab is active-looking material for a parked channel — needs a parked-reference label; SOP content-timeline framing predates the full chain |
+| LINKS HQ — Content Tracker tab | Tracks blog posts + Substack articles only | No tracking surface for Community posts, Shorts, Notes, or broadcast emails |
+| Repo `templates/yt-to-blog-project-instructions.md` | Frames the workflow as "YT script → blog post" | One link of the chain presented as the workflow; fine as a single-platform SOP, incomplete as a system description |
+| Repo `templates/publishing-playbook.md` | GHL blog publish steps | Same — single-link scope, should not be read as the engine |
+| Be Seen OPS/HQ | Member-delivery cadence (private voice messages, paid articles, tools) | This is member delivery, not the public engine — but future Be Seen copy describing "how Wanda's content system feeds members" must use the full chain |
+| Founder File / Bio Suite | No content-engine description found | Nothing to correct yet; any future engine reference in either must state the full chain |
+
+---
+
 ## 8. QUESTIONS FOR WANDA — five decision rounds
 
 Everything the sources already answer has been prefilled above and is **not** asked again. These are only the materially unresolved decisions. Recommended pace: Rounds 1+3 in one sitting (they unblock everything); 2, 4, 5 can follow async.
@@ -442,6 +467,7 @@ Rounds 1+3 in one focused sitting (~30–40 min) unblocks drafting; 2, 4, 5 work
 **Next action (Wanda):** answer Round 1 + Round 3 (one sitting). Then: Rounds 2/4/5 async.
 **Next action (AI, after answers):** write the final Offer Message Library — one document, per-offer entries (verified truth · conversion strategy · one-line · short 40–75w · long 125–225w · soft/direct/existing-member CTAs · objections+proof · sources · usage guidance) + library-level voice/banned/proof/routing/versioning sections per §3. Correction notes for losing sources flow from R1-Q1 — with Wanda's explicit yes per Evolution-Mode rules.
 **Standing cautions honored:** GOM is a GPT, never a course · no Breakthrough duration stated · no scarcity numbers · Kristin's curriculum language excluded from customer-facing copy · "whispering in the hurricane" flagged, not reused.
+**Content engine canon (Wanda, 2026-07-31):** YouTube script (source asset) → YT Community posts → YT Shorts → Substack article w/ video embed → embedded audio → SEO/AEO/AIO/GEO blog post → Substack Notes → broadcast email. Pinterest parked. Full chain + flagged stale sources in §7B — flagged for later correction, no workflows rewritten.
 
 ---
 
