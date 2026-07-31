@@ -436,6 +436,43 @@ Everything the sources already answer has been prefilled above and is **not** as
 
 ---
 
+## 8A. INTERVIEW RESULTS — Round 1 ANSWERED (Wanda, 2026-07-31, evening session)
+
+All Round 1 questions are resolved. Rulings below are **[WANDA DECISION 2026-07-31]** unless marked *(delegated — Fable call on Wanda's "figure it out," veto anytime)*.
+
+| # | Question | Ruling |
+|---|---|---|
+| Q1 | Source-of-truth authority | *(delegated)* **Split the job: OFFER TRUTH = rulings + framing rules; LINKS HQ SEND A LINK = live URLs + prices.** All other files (incl. the Offers Inventory) are downstream copies and get correction notes. |
+| Q2 | Be Seen founding seats | **1 of 20 taken (Donina, monthly).** 19 founding seats remain; all 3 annual bonus slots open. Scarcity copy may now use these verified numbers. |
+| Q3 | Get Off Mute format | **GPT only — no course, no email mini-course.** The Inventory's "free 3-day mini-course" line is stale → correction note. Old Messaging Reset welcome emails → cleanup queue. |
+| Q4 | Quiz tier destinations | Unasked after delegation — stands as documented: T1 GOM · T2 FH $27 · T3 /pick-my-brain until rename ships. |
+| Q5 | Visibility Wheel | *(delegated)* **Keep — destination Finally Heard**, matching the 2026-07-30 live-page read. SOP Pillar 3 ladder ("Quiz + Wheel → Be Seen") flagged stale; any re-route to Be Seen is a future deliberate decision. |
+| Q6 | Beat Self-Doubt | **Asset complete — final PDF in Google Drive. Wanda personally delivers via Substack DM (manual).** LINKS HQ "text needs fixing" note is stale → correction note. |
+| Q7a | /pick-my-brain live price | **$297.** LINKS HQ's $97 row is stale → correction note + cleanup queue. |
+| Q7b | Session duration | **60 minutes** — now a stated fact for copy. |
+| Q7c | 3-Session Pack | **Offered privately only** — existing-client/past-client CTA; never public library copy. |
+| Q8a | $995 OTO / bit.ly DFY997 | Wanda: was a one-time new-subscriber offer, zero buyers (cold list + deliverability). Delegated to War Room → **Board ruling: RETIRE.** Both links to never-revive list + cleanup queue. Reversible by deliberate redesign only. |
+| Q8b | Rush pricing | *(delegated)* **Public** — the 7/30 live-page read shows "Rush delivery +25%" on the DFY page; library states it. |
+| Q9 | AI Brand Messaging Lab range | Unasked after delegation — $997–$1,997 planned range stands, internal-only. |
+| Q10 | Messaging Made Easy | **"Both retired!"** — the $17 page AND the $27 GHL course offer. Takedown/redirect → cleanup queue. |
+| Q11 | Self-Love Journal | **Keep — fix later.** Stays a live $7 product; broken funnel (no product delivery, no thank-you) → cleanup queue. |
+
+### Cleanup queue (for a future ops session — NOT this audit)
+1. LINKS HQ: correct the stale $97 Pick My Brain row → $297 Breakthrough Message Session.
+2. Offers Inventory: correct GOM description (GPT only) + add correction note pointing to OFFER TRUTH/SEND A LINK.
+3. GHL: retire MME $17 page + $27 course offer; fix the MME-URL-as-Messaging-Reset-thank-you-page.
+4. GHL: swap remaining Messaging Reset language/links in the GOM welcome sequence.
+5. Remove/redirect bit.ly/DFY997 and the $995 OTO payment link.
+6. LINKS HQ: clear the stale "text needs fixing" note on Beat Self-Doubt.
+7. Self-Love Journal funnel: add product delivery + thank-you step, confirm $7 checkout.
+8. SOP: label the Pinterest Keywords tab parked-reference; update Pillar 3 ladder (Wheel → Finally Heard).
+9. GHL: /pick-my-brain URL + page-copy rename (already Wanda's queued task).
+
+### Delegation posture going forward (Wanda, this session: "figure it out")
+Fable makes the remaining calls where sources support them, labeled *(delegated)* and veto-able. **Four gates stay with Wanda** — they are commitments or facts no one else can make: (1) the Finally Heard promise yes/edit (she set this gate herself in OFFER TRUTH); (2) testimonial permissions + attributions; (3) Be Seen + DFY refund/cancellation terms; (4) credential facts (certifying body; award years). Drafting proceeds around these — copy touching them stays out until answered.
+
+---
+
 ## 9. Recommended interview order
 
 1. **Round 1 (Offer Truth)** — every downstream description depends on it; Q1 (authority) and Q7 (Breakthrough price/page) first.
