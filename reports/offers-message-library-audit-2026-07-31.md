@@ -473,6 +473,32 @@ Fable makes the remaining calls where sources support them, labeled *(delegated)
 
 ---
 
+## 8B. DELEGATED RULINGS — Rounds 2, 3, 5 (Fable calls on Wanda's delegation, 2026-07-31 — veto anytime)
+
+**Round 2 — Buyer + Result**
+- Entering problems adopted as working copy: Quiz "I don't know why I'm invisible" · GOM "I can't say what I do in one sentence" · FH "my content doesn't sound like me" · Be Seen "my marketing isn't getting the response my work deserves" · Breakthrough "I need trained eyes on MY message, now" · DFY "I'm done learning — write it for me."
+- Breakthrough transformation (working draft): she stops guessing — she leaves knowing exactly where her message loses people and holding a plan in her own words. Refined at drafting.
+- Who it's NOT for: the in-the-arena rule (no beginners) applies to **Be Seen, Breakthrough, and DFY**. The free tools and Finally Heard stay open to earlier-stage women (evidence: FH is the entry product; Tanya Foster's testimonial praises its value "for new business owners"). All offers: no vending-machine faith, no overnight-results seekers.
+- ~~R2-Q1 Finally Heard promise~~ — **GATE, stays with Wanda** (she set the pending-yes herself).
+
+**Round 3 — Positioning**
+- **Title: Authority Message Strategist** — Bio Suite v2.0 (July 30) is the newest expressed preference, used across all 18 assets. Founder File's "Christian Messaging Strategist" claim sentence → flagged stale; its exact wording is not used in copy until Wanda reviews §5.
+- **Lead line: "Your voice first. AI runs with it."** (statement B) — already live as the tagline across Bio Suite v2.0. Statement A's DFY category claim is reserved for DFY-page copy; statement C's story lead is reserved for About/founder surfaces.
+- **Front door: dual role.** Be Seen = current campaign priority and default warm CTA; DFY = revenue anchor and the category claim ("I write it for you"). The library writes both; neither erases the other.
+- **"Get clear. Be seen. Get chosen." = deliberate ladder spine** (CSC → Be Seen → Breakthrough/DFY). It is Wanda's own line, the publication is named for it, and the positioning statement ends on it.
+- **CLAIM Your VOICE™ = customer-facing mechanism** (the Be Seen strategy doc already presents it as the method).
+
+**Round 5 — Language**
+- Kristin-attributed Language Bank line ("You're not starting over…"): **rewrite in Wanda's words before any customer-facing use** — the safe default that needs no permission.
+- Metaphor routing confirmed as library law: burial/dig = Be Seen + warm only · ROOM/FEED = cold-surface signature · "whispering in the hurricane" = banned (Boldly Convicted movement message stays flagged for Wanda's sweep).
+- "Connects and converts": **replaced as stock** in new copy; existing live copy untouched until its next revision.
+- Phrase selection per offer: curator's call at drafting, drawing from the §7 bank.
+- Bio Suite live-event intro's "dig out your message" on a cold surface: **rewrite to the ROOM/FEED family** at the Bio Suite's next revision (flag only — Bio Suite is not edited in this assignment).
+
+**Round 4 — Proof + Objections: all four gates remain with Wanda** (testimonial permissions/attributions · public traction facts · Be Seen + DFY risk terms · credential facts). Library drafting proceeds around them; no proof, risk-reversal, or credential-specific copy until answered.
+
+---
+
 ## 9. Recommended interview order
 
 1. **Round 1 (Offer Truth)** — every downstream description depends on it; Q1 (authority) and Q7 (Breakthrough price/page) first.
