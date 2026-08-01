@@ -1,4 +1,4 @@
-# OFFER MESSAGE LIBRARY — DRAFT v0.3 — 2026-07-31
+# OFFER MESSAGE LIBRARY — DRAFT v0.4 — 2026-08-01
 
 **Status: DRAFT — pending Wanda's four gates (testimonial permissions · public traction facts · risk terms · credential facts). Nothing here is published or canonical.**
 
@@ -11,6 +11,14 @@
 ---
 
 ## LIBRARY-LEVEL RULES (read once, apply everywhere)
+
+**WANDA'S CLARITY LAWS (ruled 2026-07-31, from her v0.3 review — these outrank every craft framework above):**
+1. Clear over clever. ALWAYS. If a line makes the reader ask "what do you mean?", it's already dead.
+2. Specific beats smart. No compressed fragments that can be misread — rhythm never buys back a lost meaning.
+3. Every word and phrase must have a CONVERSION reason, or it goes. Spec numbers with no job (question counts), filler adjectives ("honest questions"), and decorative asides do not ship.
+4. When the outcome lands, STOP. No embellishing past the yes.
+5. No crutch comparisons — a comparison used twice in the library is a habit, not a choice.
+6. "Small" never describes her message or how she says it — the brand's enemy is the lie that staying small is humility. The goal word is CLEAR.
 
 **Voice** — all copy obeys `wanda-voice` (voice-core + signature-language + faith-markers). Non-negotiables that shaped every block: faith-coded always · the do-not-use list holds (use "stuck," never the b-word) · no humor in product descriptions · promise presence and clarity, never outcomes beyond the price ("a $297 hour delivers clarity, not a transformed business") · real scarcity with a real reason only · "perfect-fit client," never ICA · Chloe's clients are mixed-gender ("the person") · Revlon first, beauty never fashion · never "just" before a price.
 
@@ -30,63 +38,61 @@
 
 ## 1 · THE VISIBILITY QUIZ — free · wandalambert.com/quiz
 
-**Verified truth** — free, 6 questions, ~2 minutes, scored (not personality). Live H1: "You're saying everything right. Nobody's hearing a thing." Three result tiers (Warming Up / Thiiiis Close to Being Heard / Ready to Be Heard), each with validation + one free micro-action BEFORE any offer appears. Merciful scoring — she can't fail. Tier destinations NEVER named in promotional copy. [Audit §4.1 + quiz blueprint]
+**Verified truth** — free, 6 questions, ~2 minutes, scored (not personality). Live H1: "You're saying everything right. Nobody's hearing a thing." Three result tiers, each with validation + one free micro-action BEFORE any offer appears. Merciful scoring — she can't fail. Tier destinations NEVER named in promotional copy. [Audit §4.1 + quiz blueprint]
 
-**Conversion note** — cold, symptom-aware. The diagnosis IS the product: "specific means fixable" is her conversion moment. Concept sold: *there's a reason — and it has a name.*
+**Conversion note** — cold, symptom-aware. The diagnosis IS the product: "specific means fixable" is her conversion moment.
 
 **One-line** — Find out why the right people keep scrolling past you — free, in 2 minutes, without watching one more training.
 
-**Short (69w)** — You're showing up. The posts, the emails, the whatever-the-algorithm-wants-this-week. And the right people still scroll past. Here's what nobody's told you: stuck comes in versions — and each one needs a different fix. That's why the last fix didn't take. The Visibility Quiz asks 6 honest questions, takes 2 minutes, and names YOUR version — then hands you one next step sized to exactly where you are. Free.
+**Short (57w)** — You're showing up — posting, emailing, doing what the algorithm wants this week — and the right people still scroll past. There's a reason. And there's more than one possible reason, each with a different fix. The Visibility Quiz takes 2 minutes and names YOURS — plus the one next step that fixes it. Free. Stop guessing. Get answers.
 
-**Long (172w)** — You post. You pray. You check the phone — nothing. A like from your mom (God bless). A heart from your cousin. Meanwhile *she's* booking out — and you'd never say it in the group chat, but you've started wondering what she figured out that you haven't.
+**Long (146w)** — You post. You pray. You check your phone — nothing. A like from your mom (God bless). A heart from your cousin. Meanwhile *she's* booking out — and you've started wondering what she figured out that you haven't.
 
-Friend, listen. You are called. You are equipped. You put in the work. The silence isn't proof you heard God wrong — it's a sign you've been fixing the wrong thing.
+Friend, listen. You are called. You are equipped. You put in the work. The silence isn't proof you heard God wrong. It means you've been fixing the wrong thing.
 
-Because stuck comes in versions. Frozen at the blinking cursor. Posting consistently into crickets. Done-all-the-things and still quiet. Different versions need different fixes — and every course you bought was somebody else's fix for somebody else's version.
+Because there's more than one reason the right people scroll past you — and each reason has a different fix. Until you know YOUR reason, everything you try is a guess. Guessing is what's been costing you.
 
-The Visibility Quiz asks 6 honest questions — the 11pm kind, not the marketing-worksheet kind. Two minutes. It names your version of stuck, then hands you ONE next step that fits it. Not seventeen. One.
+The Visibility Quiz finds your reason. Two minutes, and your result names what's actually keeping you unseen — plus the one next step that fixes it.
 
-Stop guessing. Get answers. You can't fix what nobody's ever named for you — so let's name it. Free, and faster than rewriting your bio again.
+Stop guessing. Get answers. It's free.
 
 **Soft CTA** — If you've been guessing at why it's quiet, let the quiz do the naming — 2 minutes, free.
 **Direct CTA** — Take the free Visibility Quiz → wandalambert.com/quiz
 **Existing-client CTA** — Already took it? Do the ONE free action your results page gave you — today, before anything else.
 
-**Objection bridge** — You may be thinking "quizzes are a cute way into somebody's email list." Fair — you've met those. This one is a scored diagnostic, and your results page hands you something you can DO today, free, before anything is ever offered. · "I already know my problem." → Then 2 minutes costs you nothing to be right. Most women find out the block isn't where they thought — and specific means fixable.
+**Objection bridge** — "Another quiz that's really an email-list grab?" → Fair — you've met those. This one is a scored assessment, and your results page hands you something you can DO today, free, before anything is ever offered. · "I already know my problem." → Then 2 minutes costs you nothing to be right. Most women find out the block isn't where they thought — and specific means fixable.
 **Proof** — [GATE] traction facts pending Wanda's yes.
 **Usage** — homepage banner, cold ads, Substack welcome, YouTube descriptions. It IS the ask when used. Tier names and destinations stay OFF promotional surfaces.
 
----
-
 ## 2 · GET OFF MUTE — free AI tool · wandalambert.com/gom
 
-**Verified truth** — free AI tool (a GPT — never "course," never a member perk). Honest guided questions → ONE clear sentence (who you help + why it matters), clarity-checked against real language (it rejects buzzwords), sized per platform with live character counts. ~5 minutes. Former name Messaging Reset — retired. [Audit §4.2, §8A + GPT instructions]
+**Verified truth** — free AI tool (a GPT — never "course," never a member perk). Guided questions → ONE clear sentence (who you help + why it matters), clarity-checked against real language (it rejects buzzwords), sized per platform with live character counts. ~5 minutes. Former name Messaging Reset — retired. [Audit §4.2, §8A + GPT instructions]
 
-**Conversion note** — coldest entry, highest-leverage free asset. The engine (per Wanda): the sentence forces clarity about WHO she serves, WHAT she solves, WHY it matters → that clarity overflows into everything she writes → and it makes her legible to the algorithm, which can't show her work to her people until her line says who it's FOR. Promise = clarity → discoverability → visibility. Her dream in her own words: *"I want to explain what I do in ONE sentence and have someone go 'oh wow, tell me more.'"*
+**Conversion note** — coldest entry, highest-leverage free asset. The engine (per Wanda): the sentence forces clarity about WHO she serves, WHAT she solves, WHY it matters → that clarity overflows into everything she writes → and it makes her findable: people can't say yes to what they can't grasp, and the algorithm can't show her work to her people until her line says who it's FOR. Promise = clarity → discoverability → visibility. Her dream in her own words: *"I want to explain what I do in ONE sentence and have someone go 'oh wow, tell me more.'"*
 
-**One-line** — Say what you do in ONE sentence — and watch the right person's face change to "oh… tell me more." Free, in about 5 minutes.
+**One-line** — Say what you do in ONE clear sentence — the kind that makes the right person stop and say "tell me more." Free, in about 5 minutes.
 
-**Short (74w)** — Someone asks what you do, and you hand them a paragraph. They nod politely — and the moment passes. It's not that you don't know your work. It's that nobody ever helped you say it small. Get Off Mute is a free AI tool that asks a few honest questions and hands back ONE clear sentence — your voice, your faith, sized for every bio box you own. Clear enough that people get it. Clear enough that the algorithm finally knows who to show you to.
+**Short (72w)** — You're good at what you do. But if your bio can't say what that IS in one clear sentence, the right people scroll past without ever knowing you're who they've been looking for. Get Off Mute fixes the sentence. A free AI tool, a few questions, about 5 minutes — and it hands back ONE clear line about what you do, in your voice, sized for every bio box you own. Clear enough that people get it. Clear enough that the algorithm finally knows who to show you to.
 
-**Long (186w)** — Here's a moment you know. Someone at church, at a networking thing, in a DM asks — "so what exactly do you do?" And you feel yourself start the long version. The careful version. The one with a backstory and three qualifiers. Their eyes drift. The moment where they'd have said "tell me more" passes… again.
+**Long (158w)** — "It sounds wonderful… but what exactly do you do?"
 
-You're not unclear because you don't know your work. You're unclear because you know TOO much of it — and nobody ever helped you say it small.
+If you've heard any version of that — after someone read your bio, your About page, your post — you already know where the problem lives. Not in your work. In the sentence about your work.
 
-Get Off Mute fixes the sentence. It's my free AI tool — a few honest questions about who you serve and why it matters, and it hands back ONE clear line. In your voice. With your faith intact. Then it sizes that line for your Instagram bio, your LinkedIn headline, your email signature — character counts and all.
+And that sentence matters more than it looks. People can't say yes to what they can't grasp. The algorithm can't show your work to the right people until your words say who it's FOR. One unclear line, and you're invisible to both.
 
-And that one line works harder than it looks. People can't say yes to what they can't grasp. Platforms can't show your work to your people until your words say who it's FOR. One clear sentence — and being found stops being a mystery.
+Get Off Mute fixes the line. It's my free AI tool. It asks you a few questions about who you serve and why it matters — then hands back ONE clear sentence about what you do. In your voice. With your faith intact. Sized for your Instagram bio, your LinkedIn headline, your email signature — character counts and all.
+
+About 5 minutes. One clear sentence. And being found stops being a mystery.
 
 God didn't give you that voice to keep it on mute.
 
-**Soft CTA** — If your answer to "what do you do?" keeps coming out in paragraphs, I made something free for exactly that.
+**Soft CTA** — If nobody can repeat what you do after reading your bio, I made something free for exactly that.
 **Direct CTA** — Get Off Mute (free) → wandalambert.com/gom
 **Existing-member CTA** — Be Seen members: you get first access when new tools ship — watch the room.
 
-**Objection bridge** — "AI will make me sound generic." → You may have met that AI — the one that writes like a mannequin. This one is built backwards from it: it asks, you answer, and it flags the buzzwords instead of adding them. The words that come out are yours. · "Free usually means useless." → Your first clear sentence shouldn't have a price tag. The paid work starts where one sentence isn't enough.
+**Objection bridge** — "AI will make me sound generic." → You may have met that AI — the one that writes like a mannequin. This one works backwards from it: it asks, you answer, and it flags the buzzwords instead of adding them. The words that come out are yours. · "Free usually means useless." → Your first clear sentence shouldn't have a price tag. The paid work starts where one sentence isn't enough.
 **Proof** — [GATE].
 **Usage** — quiz Tier 1 result, cold content CTAs, YouTube descriptions, guest mentions. NEVER framed as a membership bonus. This one-liner is the front door to everything — headline-level care, always.
-
----
 
 ## 3 · THE VISIBILITY WHEEL — free · wandalambert.com/wheel
 
@@ -104,7 +110,7 @@ The Visibility Wheel points. Spin it, answer honestly, and it surfaces the block
 
 It takes about a minute. It beats another night of "maybe I'll redo the whole website." (You won't. And you don't need to.)
 
-Because the person God's sending you isn't waiting on a prettier site. She's waiting on a clearer signal — and clearer starts with knowing which dial to turn first.
+Because the person God's sending you isn't waiting on a prettier site. She's waiting on clearer words — and clearer starts with knowing the ONE thing to fix first.
 
 One spin. One answer. One faithful next step.
 
@@ -248,13 +254,13 @@ We diagnose what's really happening in your words. Then you leave with a persona
 
 One hour. One clear diagnosis. One plan in YOUR voice.
 
-If you're done collecting advice and ready for answers about YOUR message — this is the room. The business you've been praying for is closer than the rewrite count suggests.
+If you're done collecting advice and ready for answers about YOUR message — this is the room. The business you've been praying for is closer than it feels.
 
 **Soft CTA** — If you want my eyes on your message before you rewrite one more page, this is the room for that.
 **Direct CTA** — Book your Breakthrough Message Session ($297) → wandalambert.com/pick-my-brain
 **Existing-client CTA** — Want ongoing eyes? Ask me about the private 3-session pack — it exists for exactly you.
 
-**Objection bridge** — "Can one hour really fix it?" → One hour diagnoses it — with a plan you keep. You've spent months guessing. Sixty focused minutes beats another season of maybe. · "Why not just join Be Seen?" → Be Seen is the ongoing room. This is the deep, private, just-your-business hour. Many women do both — in either order.
+**Objection bridge** — "Can one hour really fix it?" → One hour diagnoses it — with a plan you keep. You've spent months guessing. Sixty focused minutes beats more months of guessing. · "Why not just join Be Seen?" → Be Seen is the ongoing room. This is the deep, private, just-your-business hour. Many women do both — in either order.
 **Proof** — [GATE] Renee Turner / Katie Greenleaf / Adrienne quotes are the natural fit — pending permission + mapping.
 **Usage** — quiz Tier 3, Be Seen ascension, warm email. Page still carries the retired URL — copy never says "Pick My Brain."
 
@@ -316,7 +322,7 @@ Messaging Made Easy ($17/$27 — both retired) · Messaging Reset (now Get Off M
 
 ## VERSIONING
 
-Owner — Wanda (approvals) · v0.1 (2026-07-31): rulings only — REJECTED for product-blind copy (Wanda's notes preserved in the v0.1 Google Doc) · v0.2 (2026-07-31): rewritten from product truth + VOC · v0.3 (2026-07-31): re-engineered with the full conversion stack per Wanda's directive — Drive extraction packs (Brain Audit, Cialdini, Made to Stick, Bly, Renvoisé, Caples, Sugarman, Storr, Hopkins) + Hook Method + Power Words + Juicy Bennies. One-lines rebuilt outcome-first (mechanism out of the headline slot), objections rebuilt as Gentle Objection Bridges, shorts run Call-Out → Diagnose → Reframe. Linter note — voice_lint flags the real $47/$470 price under its never-47 rule: documented false positive — never "fix" a real price to satisfy the linter. LOCKED once approved: one-lines, spines, prices-as-stated. LIVING: proof (as gates open), objections, seat counts, usage notes. Facts re-verify against OFFER TRUTH + SEND A LINK. Monthly hygiene pass — update THIS document first, assets second.
+Owner — Wanda (approvals) · v0.1 (2026-07-31): rulings only — REJECTED for product-blind copy (Wanda's notes preserved in the v0.1 Google Doc) · v0.2 (2026-07-31): rewritten from product truth + VOC · v0.3 (2026-07-31): re-engineered with the full conversion stack per Wanda's directive · v0.4 (2026-08-01): Wanda's Clarity Laws applied to every block after her v0.3 review — clever fragments, filler adjectives, spec numbers without a conversion job, sell-past-the-yes lines, crutch comparisons, and the word "small" removed — Drive extraction packs (Brain Audit, Cialdini, Made to Stick, Bly, Renvoisé, Caples, Sugarman, Storr, Hopkins) + Hook Method + Power Words + Juicy Bennies. One-lines rebuilt outcome-first (mechanism out of the headline slot), objections rebuilt as Gentle Objection Bridges, shorts run Call-Out → Diagnose → Reframe. Linter note — voice_lint flags the real $47/$470 price under its never-47 rule: documented false positive — never "fix" a real price to satisfy the linter. LOCKED once approved: one-lines, spines, prices-as-stated. LIVING: proof (as gates open), objections, seat counts, usage notes. Facts re-verify against OFFER TRUTH + SEND A LINK. Monthly hygiene pass — update THIS document first, assets second.
 
 --- RESEARCH RECEIPTS ---
 1. [positioning.md → Make DFY the front door] The DFY entry carries the category claim ("I write it for you") and is labeled the positioning front door even while Be Seen holds campaign priority — the dual ruling in audit §8B rather than either extreme.
