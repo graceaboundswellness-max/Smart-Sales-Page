@@ -1,6 +1,10 @@
-# OFFER MESSAGE LIBRARY — DRAFT v0.1 — 2026-07-31
+# OFFER MESSAGE LIBRARY — DRAFT v0.2 — 2026-07-31
 
-**Status: DRAFT — pending Wanda's four gates (testimonial permissions · public traction facts · risk terms · credential facts). Nothing here is published or canonical.** Facts come from the rulings recorded in `reports/offers-message-library-audit-2026-07-31.md` (§8A/§8B, Wanda's 2026-07-31 session). Copy is written to `wanda-voice` canon.
+**Status: DRAFT — pending Wanda's four gates (testimonial permissions · public traction facts · risk terms · credential facts). Nothing here is published or canonical.** Facts come from the rulings in `reports/offers-message-library-audit-2026-07-31.md` (§8A/§8B) — and, new in v0.2, from the ACTUAL PRODUCTS: the live quiz build + question set, the Get Off Mute GPT instructions, the Finally Heard PDF (all 35 pages), both Beat Self-Doubt assets, and the Chloe Master Audience Profile + Voice of Customer docs, read in full on 2026-07-31.
+
+**What changed in v0.2 (Wanda's notes, all addressed)** — the tier ladder is no longer revealed inside quiz copy and no free-tool copy names what gets sold next · the invented "two times out of three" stat is gone (nothing invented anywhere) · Get Off Mute now runs on the real engine: the sentence forces clarity → clarity overflows into her whole business → the algorithm finally knows who to show her to → discoverability and visibility · the hot chocolate is Wanda's alone (first-person aside, where the product itself uses it) · no "fill-in guide"-as-work framing, no "be seen level" jargon, no labeling her pain ("spiral" is gone — pain is described, never named) · copy now harvests the products' own strongest lines instead of inventing parallel ones.
+
+**The conversion spine used (answering "what formulas?")** — every description runs the same architecture, drawn from the validated Chloe rules: (1) AFFIRM the expertise she already carries, (2) NAME the block in her symptom words — mirror, don't expose, (3) make it FIXABLE with a specific mechanism ("specific means fixable"), (4) ONE next step — an open door, never pressure. Awareness staging per Schwartz (cold = symptom only, sales assets = diagnosis named plainly, in her words, never jargon). Product-native language is quoted before new language is written. The test on every block: "wait… how did she know that?" — not "oh, that's nice." 
 
 **How to use this document** — every offer has one message spine at three zoom levels. The one-line is the roof. The short adds the strongest pillar and one specific number. The long unpacks the scene, the mechanism, and the invitation. Copy verbatim into assets — if an asset needs different wording, change it HERE first, then everywhere.
 
@@ -24,137 +28,127 @@
 
 ## 1 · THE VISIBILITY QUIZ — free · wandalambert.com/quiz
 
-**Verified truth** — free 2-minute, 6-question assessment — first touchpoint for cold traffic — tier routing T1 → Get Off Mute, T2 → Finally Heard ($27), T3 → Breakthrough Message Session page (URL rename pending). [Audit §4.1]
+**Verified truth (from the live build + blueprint docs)** — free, 6 questions, ~2 minutes, scored (not personality). Live H1: "You're saying everything right. Nobody's hearing a thing." Results = three versions of stuck — Warming Up / Thiiiis Close to Being Heard / Ready to Be Heard — each with validation + one free micro-action BEFORE any offer appears. Scoring is deliberately merciful (she can't "fail"). Tier destinations exist in the routing but are NEVER named in promotional copy. [Audit §4.1 + quiz blueprint doc]
 
-**Conversion note** — cold, problem-aware. Lead with the symptom (unseen, guessing), never the mechanism.
+**Conversion note** — cold, problem-aware. The live page's own language leads. Never reveal the ladder — the diagnosis IS the product.
 
-**One-line** — A free 2-minute, 6-question quiz that names what's actually keeping you unseen online — so you stop guessing and fix the RIGHT thing.
+**One-line** — You're saying everything right and nobody's hearing a thing — this free 2-minute quiz names your specific version of stuck, and the fix is smaller than you think.
 
-**Short (63w)** — You're not invisible because you're not good enough. The Visibility Quiz is a free, 2-minute, 6-question check that names what's actually keeping you unseen online — then hands you the next step that fits where you are. No essay, no overwhelm. Just answers. Because the person God made you to help can't say yes to someone they never see.
+**Short (72w)** — You show up. The posts, the emails, the reels. And your phone's still quiet — a like from your mom (God bless), a heart from your cousin. You are called. You are equipped. You put in the work. So why the silence? Because it's a specific version of stuck. The Visibility Quiz asks 6 honest questions, takes 2 minutes, and names yours — and once you see which one, the fix is way smaller than you think.
 
-**Long (151w)** — You post. You pray. You wonder why the calendar stays empty. And somewhere around the third quiet week, a thought creeps in — *maybe the problem is me.*
+**Long (158w)** — You post. You pray. And your phone stays quiet — no buzz, no little red number climbing the corner. Just a like from your mom (God bless) and that one supportive friend in the group chat.
 
-Friend. Stop. (It's not. I promise. Keep reading.)
+Meanwhile *she* — the one who doesn't have half your skills — is booking out. And you're standing there wondering what she figured out that you haven't.
 
-Nobody ever showed you WHAT is keeping you unseen — so you keep fixing the wrong thing. New fonts. New niche. New template. Same silence.
+Hear me: you are called. You are equipped. You put in the work. What you're in is a specific version of stuck — and there's more than one kind. The frozen kind. The posting-into-crickets kind. The done-everything-and-still-quiet kind. Each one needs a different fix — which is exactly why the last fix you tried didn't take.
 
-The Visibility Quiz is a free 2-minute, 6-question check that names the real block… then points you to the next step that fits where you are — a free tool if you need one clear sentence, a $27 fix if your words don't sound like you, or my trained eyes on your message if you're past the DIY stage.
+The Visibility Quiz is 6 honest questions. Two minutes. Free. It names your version — then hands you the one next step that matches it. Not seventeen. One.
 
-You've been faithful with the work. Two minutes to find out why the work isn't being SEEN — that's a trade worth making.
+You can't fix what nobody's ever named for you. Let's name it.
 
-**Soft CTA** — Curious what's actually keeping you unseen? The quiz takes 2 minutes — less time than rewriting your bio again.
+**Soft CTA** — Curious which version of stuck you're actually in? The quiz takes 2 minutes — less time than rewriting your bio again.
 **Direct CTA** — Take the free Visibility Quiz → wandalambert.com/quiz
-**Existing-client CTA** — Already took it? Go do the ONE thing your results page named — not all six.
+**Existing-client CTA** — Already took it? Do the ONE free action your results page gave you — today, before anything else.
 
-**Objections** — "Another quiz that just funnels me somewhere?" → It routes you to a FREE tool two times out of three. The only paid path is $27. · "I already know my problem." → Then it costs you 2 minutes to be right. Most women find out the block isn't where they thought.
+**Objections** — "Another quiz that just funnels me somewhere?" → It's a real diagnostic — scored, not vibes — and your result page hands you a free action you can do today before anything is ever offered. · "I already know my problem." → Then it costs you 2 minutes to be right. Most women find out the block isn't where they thought — and specific means fixable.
 **Proof** — [GATE] traction facts pending Wanda's yes.
-**Usage** — homepage banner, cold ads, Substack welcome, YouTube descriptions. Never buried mid-email — it IS the ask when used.
+**Usage** — homepage banner, cold ads, Substack welcome, YouTube descriptions. Never buried mid-email — it IS the ask when used. Result-tier names and destinations stay OFF promotional surfaces.
 
----
+## 2 · GET OFF MUTE — free AI tool · wandalambert.com/gom
 
-## 2 · GET OFF MUTE — free GPT · wandalambert.com/gom
+**Verified truth (from the GPT instructions + locked opt-in copy)** — free AI tool (a GPT — never "course," never a member perk). She answers a few honest questions — it hands back ONE clear sentence about what she does, built on the "I help ___ ___ — so they can ___" spine, run through a clarity checklist (real language, no buzzwords), then sized for every platform with live character counts (IG 150, LinkedIn 220, website hero 8–12 words…). ~5 minutes. Former name Messaging Reset — retired. [Audit §4.2, §8A + GPT instruction doc]
 
-**Verified truth** — free GPT (never "course," never a member perk — early access to new tools is the only member angle) — guided questions, ~5 minutes, produces one clear sentence (who you help + why it matters), adapted per platform. Former name Messaging Reset — retired. [Audit §4.2, §8A]
+**Conversion note** — coldest entry, and the highest-leverage free asset in the ecosystem: the sentence it produces forces clarity about WHO she serves, WHAT she solves, and WHY it matters — and that clarity overflows into everything else she writes. It also makes her legible to the algorithm: platforms can't show her work to her people until her line says who it's FOR. Promise = clarity → discoverability → visibility. Never lead with mechanism.
 
-**Conversion note** — coldest entry. The mute/sound family lives here. Meet the "I can't explain what I do" symptom.
+**One-line** — "It's good… but what exactly do you do?" — Get Off Mute is the free AI tool that ends that question with one clear sentence, in your voice, in about 5 minutes.
 
-**One-line** — A free GPT that takes you from "I can't explain what I do" to one clear sentence — who you help and why it matters — in about 5 minutes.
+**Short (73w)** — You've heard it — "sounds wonderful… but what exactly do you do?" Not because you don't know. Because the answer comes out in paragraphs when it needs to land in a sentence. Get Off Mute asks you a few honest questions and hands back ONE clear sentence about what you do — in your voice, with your faith, sized for every bio box you own. When your line is finally clear, your people can find you. So can the algorithm.
 
-**Short (66w)** — Get Off Mute is a free GPT — not another course, I promise — that asks you a few guided questions and hands back one clear sentence saying who you help and why your work matters. About 5 minutes. Then it adapts that sentence for every platform you're on. Because the calling God gave you deserves better than a bio you keep rewriting at midnight.
+**Long (181w)** — Someone asks what you do — and you give the long version. The careful version. The one with a backstory. And you watch the moment pass where they would have said "oh — tell me more."
 
-**Long (139w)** — Someone asks "so… what do you do?" — and you watch their eyes drift while you're still mid-sentence.
+You know your work. Decades of proof say so. The words are the only thing rambling.
 
-You KNOW your work. You just can't say it small. That's not a knowledge problem. It's a clarity problem — and clarity is fixable.
+Get Off Mute is my free AI tool. It asks you a few honest questions — real ones, about who you serve and why it matters — and hands back ONE clear sentence about what you do. In your voice, with your faith, sized for your Instagram bio, your LinkedIn headline, your "hi, I'm new here" post. Character counts and all.
 
-Get Off Mute is my free GPT. Guided questions, about 5 minutes, and it pulls the one clear sentence out of you… who you help, and why the work matters. Then it adapts that sentence for your bio, your profile, your "hi, I'm new here" post — wherever you need it.
+And here's what that one sentence actually does… it makes you findable. People can't choose what they can't grasp — and the algorithm can't show your work to your people until it knows who your work is FOR. Get the line clear, and visibility stops being a mystery.
 
-No 3-week commitment. No template that sounds like everyone else. Your words — yours — finally out loud.
+God didn't give you that voice to keep it on mute. Say the thing — clearly — and let the right person finally hear you.
 
-God didn't give you that voice to keep it on mute. Say the thing. Let the right person finally hear you.
-
-**Soft CTA** — If you can't say what you do in one sentence yet, I made something free for exactly that.
+**Soft CTA** — If your answer to "what do you do?" keeps coming out in paragraphs, I made something free for exactly that.
 **Direct CTA** — Get Off Mute (free) → wandalambert.com/gom
 **Existing-member CTA** — Be Seen members: you get first access when new tools ship — watch the room.
 
-**Objections** — "AI will make me sound generic." → This one only asks questions. The words that come out are yours — it just helps you find them. · "Free usually means useless." → It's free because your first clear sentence shouldn't have a price tag. The paid work starts where one sentence isn't enough.
+**Objections** — "AI will make me sound generic." → This one flags the buzzwords and pulls YOUR words forward — it's built to reject boss-babe buzzword language, not produce it. · "Free usually means useless." → It's free because your first clear sentence shouldn't have a price tag. The paid work starts where one sentence isn't enough.
 **Proof** — [GATE].
-**Usage** — quiz Tier 1 result, cold content CTAs, YouTube descriptions, guest-appearance mentions. NEVER framed as a membership bonus.
-
----
+**Usage** — quiz Tier 1 result, cold content CTAs, YouTube descriptions, guest-appearance mentions. NEVER framed as a membership bonus. This one-liner is the front door to everything — treat its copy with headline-level care.
 
 ## 3 · THE VISIBILITY WHEEL — free · wandalambert.com/wheel
 
-**Verified truth** — free interactive wheel — surfaces the one thing keeping her unseen — points to Finally Heard ($27). Kept by ruling 2026-07-31. [Audit §8A Q5]
+**Verified truth** — free interactive wheel — surfaces the one thing keeping her unseen and hands her a next step. Kept by ruling 2026-07-31. Internal routing points onward — the destination is never named in the wheel's own copy. [Audit §8A Q5]
 
-**One-line** — A free interactive wheel — one spin surfaces the one thing keeping you unseen, then hands you the fix.
+**One-line** — One spin, one honest answer — the free Visibility Wheel surfaces the one thing keeping you unseen right now, and the single next step that fixes it.
 
-**Short (57w)** — The Visibility Wheel is a free, strangely satisfying little tool. Spin it, and it surfaces the ONE thing keeping you unseen right now — then points you straight at the fix. No 40-page PDF, no 12-step plan. One spin, one insight, one next step. Consider it a nudge of grace for the woman who's tired of guessing.
+**Short (59w)** — The Visibility Wheel is a free, strangely satisfying little tool. Spin it, and it surfaces the ONE thing standing between your work and the people praying to find it — then hands you a single next step. Not a 40-page PDF. Not a 12-step plan. One spin, one answer, one step. Keep it simple — and give yourself some grace.
 
-**Long (128w)** — You've read the posts. Saved the Reels. Downloaded the bundle that's still sitting in your downloads folder.
+**Long (139w)** — You've saved the Reels. Downloaded the freebies. Watched the trainings at 1.5x. And the calendar's still quiet.
 
-And you STILL can't name the one thing keeping you unseen. So you fix everything — which means you fix nothing.
+Not because you aren't trying — because nobody's ever pointed at the ONE thing actually in your way. So you keep polishing everything else.
 
-The Visibility Wheel ends the guessing. It's a free interactive tool… spin it, and it surfaces the block that's actually in your way right now, then points you to Finally Heard — my $27 fix for words that don't sound like you.
+The Visibility Wheel ends the guessing. Spin it, answer honestly, and it surfaces the block that's costing you yeses right now — then hands you one small next step that matches it. That's the whole tool.
 
-It takes less time than refilling your hot chocolate. And it beats one more night of "maybe I'll redo the whole website." (You won't. And you don't need to.)
+It takes about a minute. And it beats another night of "maybe I'll redo the whole website." (You won't. And you don't need to.)
 
-One spin. One answer. One faithful next step. Simple wins — every single time.
+One spin. One answer. One faithful next step — because the person God's sending you can't wait around while you fix seventeen things that were never the problem.
 
-**Soft CTA** — One spin. One answer. That's the whole ask.
+**Soft CTA** — One spin. One answer.
 **Direct CTA** — Spin the Visibility Wheel (free) → wandalambert.com/wheel
-**Existing-client CTA** — Already spun it? The fix it named is waiting — Finally Heard is $27 and takes 15 minutes.
+**Existing-client CTA** — Everybody's got a block — send the link to your biz bestie and compare spins.
 
 **Objections** — "A wheel? Really?" → Really. Because a woman who's overwhelmed doesn't need another workbook — she needs ONE next step she'll actually take.
 **Proof** — [GATE].
-**Usage** — social content, Substack Notes, playful cold entry. Not for the homepage hero (quiz owns that slot).
-
----
+**Usage** — social content, Substack Notes, playful cold entry. Not for the homepage hero (quiz owns that slot). The wheel's copy never names the offer it routes to.
 
 ## 4 · BEAT SELF-DOUBT, MASTER YOUR MESSAGE — free welcome gift (not marketed)
 
-**Verified truth** — free welcome gift for Clear. Seen. Chosen. subscribers — final PDF in Drive — Wanda personally delivers by Substack DM. Not a lead magnet, not on the ladder — never promoted as an offer. [Audit §8A Q6]
+**Verified truth (from the actual PDF + fill-in doc)** — 10 pages, five simple steps, one focused sitting: name the doubt → answer it with Scripture → get clear on who she serves → fill in "I help ___ ___ — because ___" → say it in ONE real place today. She walks out with one clear sentence, written and spoken, plus a verse for every doubt. Cover promise: "from stuck to one clear message that attracts the right people — and brings the yeses." Wanda personally delivers by Substack DM. Never promoted as an offer. [Audit §8A Q6 + product read]
 
-**One-line (for the welcome DM only)** — Your welcome gift — a short fill-in guide that quiets the self-doubt spiral so you can start thinking at the "be seen" level from day one.
+**One-line (welcome DM only)** — Your welcome gift — five simple steps from stuck to one clear message that attracts the right people… with a verse for every doubt along the way.
 
-**Welcome-DM copy (52w)** — So glad you're here, friend. Before anything else — your welcome gift. Beat Self-Doubt, Master Your Message is a short fill-in guide for the voice in your head that says "who am I to be seen?" (We're not letting her run the place.) Make your copy, fill it in messy, and hit reply when something lands.
+**Welcome-DM copy (63w)** — So glad you're here, friend — pull up a chair. Your welcome gift is waiting: Beat Self-Doubt, Master Your Message. Five simple steps, one sitting — and you walk out with one clear sentence about what you do, plus a verse for every doubt that's been talking you out of saying it. Hit reply when something lands. (Me? Hot chocolate in hand, cheering you on.)
 
-**Usage** — DM delivery only. No public sales copy exists or should. If it ever appears on a page, it's one line in the "what free subscribers get" list.
-
----
+**Usage** — DM delivery only. No public sales copy exists or should. If it ever appears on a page, it's one line in the "what free subscribers get" list. The hot-chocolate aside is the product's own welcome-page line — it stays first-person Wanda, always.
 
 ## 5 · FINALLY HEARD — $27 · wandalambert.com/finally-heard
 
-**Verified truth** — LIVE $27 standalone PDF (Wanda ruling 2026-07-18) AND free inclusion for Be Seen paid members (dual status deliberate) — 15-minute fillable PDF producing the Voice Blueprint + 6 bonuses (caption templates, IG bio template, email kit, hook cheat sheet, master prompt template, AI beginner guide). Never $17, never "tripwire." Companion GPT: not shipped — never mentioned. [Audit §4.5]
+**Verified truth (from the actual 35-page PDF)** — LIVE $27 standalone (Wanda ruling 2026-07-18) AND free Be Seen inclusion (dual status deliberate). The hero is the **Voice & Vision Blueprint** — 6 sections she completes ONCE (~15 focused minutes): her business DNA, voice fingerprint (phrases she loves/hates), audience intel in THEIR words, transformation promise, faith integration, brand vibe. The Blueprint feeds a Master Prompt that makes AI sound like her, plus 4 wired template sets — 10 caption templates, the IG bio formula, an email kickstart kit, a hook cheat sheet — and a beginner's ChatGPT guide. Product tagline: "Sound like you. Get noticed." Product rule: "The Blueprint is the hero. Templates are the support system." Never $17, never "tripwire." Companion GPT: not shipped — never mentioned. [Audit §4.5 + product read]
 
-**[GATE — promise upgrade]** Wanda's pending promise direction (OFFER TRUTH, awaiting her yes): *the Blueprint as an OWNED ASSET — decide who you are once, stop rebuilding yourself at every blank screen.* The long copy below stays on the approved-mechanism side of that line. When she says yes, the bolded alternative below replaces the current close.
+**[GATE — promise upgrade]** Wanda's pending promise direction (OFFER TRUTH, awaiting her yes): *the Blueprint as an OWNED ASSET — decide who you are once, stop rebuilding yourself at every blank screen.* The copy below uses the product's own "fill it out once · use it every time you create" language, which is shipped product truth — the deeper identity-promise close stays gated below.
 
-**Conversion note** — Tier-2 quiz outcome, warm-ish. Symptom: "my content doesn't sound like me."
+**Conversion note** — Tier-2 quiz outcome, warm-ish. Symptom: "everything I write sounds like everyone else" — her words: "it's giving robot." The answer-once mechanic is the differentiator — templates are everywhere — a profile that makes AI sound like HER is the buy.
 
-**One-line** — A 15-minute fillable PDF — $27 — that gets your message out of your head and onto the page, so your content finally sounds like YOU.
+**One-line** — Finally Heard — $27 — is your Voice & Vision Blueprint: answer it once, and everything you write (and everything AI writes for you) finally sounds like YOU.
 
-**Short (68w)** — Finally Heard is a 15-minute guided PDF — $27 — that pulls your message out of your head and onto the page. You fill in the blanks (the messier, the better) and out comes your Voice Blueprint plus your first "I need this" post. Then 6 bonuses put it to work — captions, IG bio, email kit, hooks, a master prompt, an AI beginner guide — so your words finally sound like the woman God actually made.
+**Short (71w)** — Finally Heard is the answer-once fix for "why does everything I write sound like everyone else?" You complete your Voice & Vision Blueprint one time — your voice, your people, your faith, about 15 focused minutes — and it becomes the profile every caption, bio, and email gets written from. Ten caption templates, a bio formula, an email kit, and a hook cheat sheet come already wired to it. $27. Sound like you. Get noticed.
 
-**Long (154w)** — You sit down to write, and 30 minutes later you have three deleted drafts and a caption that doesn't sound like you.
+**Long (176w)** — You ask AI to write your bio and it comes back sounding like a stranger describing you at a networking event. Accurate… but dead. So you rewrite. And rewrite. And post nothing.
 
-It's not that you don't know your stuff. It's that your message is still in your head — and every blank screen asks you to start from nothing.
+The problem was never you. It's that nothing you're using knows who you ARE.
 
-Finally Heard fixes that in one sitting. It's a 15-minute guided PDF — $27 — that gets your message out of your head and onto the page, in your words. That's your Voice Blueprint.
+Finally Heard fixes that once. It's a guided Blueprint — about 15 focused minutes — that gets your voice, your people, your faith, and your offer out of your head and onto one page: your Voice & Vision Blueprint. The phrases you love. The phrases you'd never say. Who you serve, in the words THEY use.
 
-Then 6 bonuses put it to work… caption templates, an IG bio template, an email kit, a hook cheat sheet, a master prompt template, and an AI beginner guide.
+Then it goes to work. Paste your Blueprint into the master prompt, and AI finally has YOUR voice to follow — no more arguing with a robot at midnight. Ten caption templates, an IG bio formula, an email kickstart kit, and a hook cheat sheet are wired and ready — so tonight's post takes minutes, not hours.
 
-Write it once. Use it everywhere. And when you're ready to let AI help, it finally has YOUR voice to follow — because the message God gave you was never supposed to sound like everyone else's.
+Answer it once. Use it every time you write. $27 — and the next DM might be the one that says "I don't know how you knew I needed this."
 
 **[Pending-yes close, do not ship]** — *Decide who you are ONCE — and stop rebuilding yourself at every blank screen.*
 
-**Soft CTA** — When you're ready to sound like you on paper, Finally Heard is $27 and takes one sitting.
+**Soft CTA** — When you're ready for your words (and your AI) to finally sound like you, Finally Heard is $27 and one sitting.
 **Direct CTA** — Get Finally Heard ($27) → wandalambert.com/finally-heard
-**Existing-member CTA** — Be Seen members: Finally Heard is already in your welcome stack — fill in your Voice Blueprint before the next Hot Seat and bring it.
+**Existing-member CTA** — Be Seen members: Finally Heard is already in your welcome stack — complete your Voice & Vision Blueprint before the next Hot Seat and bring it.
 
-**Objections** — "I've bought templates before and my copy is still generic." → Templates hand you someone else's words. This pulls out YOURS — that's the whole difference, and the whole 15 minutes. · "$27 for a PDF?" → For a Blueprint you'll reuse in every caption, bio, and email after — plus 6 working bonuses. It earns its keep the first week.
+**Objections** — "I've bought templates before and my copy is still generic." → Templates are everywhere — that's why yours sound like everyone's. The Blueprint is what's missing: it puts YOUR voice in front of every template and every prompt. That's the whole difference. · "$27 for a PDF?" → For the one page you'll reuse every single time you write — plus the templates already wired to it. It earns its keep the first week.
 **Proof** — [GATE] 8-buyer traction fact + Tanya Foster / Julie Rebboah quotes pending permission + mapping.
-**Usage** — quiz Tier 2, Wheel destination, warm email CTAs, Substack recommendations. The only paid entry product — treat it with front-door respect.
-
----
+**Usage** — quiz Tier 2 result, warm email CTAs, Substack recommendations. The only paid entry product — treat it with front-door respect. Note: FH copy may reference Get Off Mute (the product itself does — the Blueprint's first field asks for the GOM one-liner), but free-tool copy never references FH.
 
 ## 6 · CLEAR. SEEN. CHOSEN. — free Substack · wandalambert.substack.com
 
@@ -202,7 +196,7 @@ The name is the whole path… get clear, be seen, get chosen by the people you'r
 
 That question is the whole reason Be Seen exists. It's the live membership inside Clear. Seen. Chosen. where you bring the real thing — the offer, the email, the post that isn't getting the response you expected — and get my trained eyes on the message.
 
-Not more information. Trained feedback… and time to actually implement it.
+Not more information. Trained feedback — and working sessions where you leave with it DONE, not with homework.
 
 Every month — a live Message Extraction Hot Seat, a live implementation session, two private deliveries tied to the month's topic, and the Be Seen Vault holding every replay and tool. Plus the Sisterhood — the relief of asking a business question without translating your faith first.
 
@@ -288,7 +282,7 @@ You lived the expertise. I write it so the right people recognize it — and the
 **Direct CTA** — Apply for Done For You → wandalambert.com/Done-For-You
 **Existing-client CTA** — Past clients: a Copy Refresh keeps everything current — $1,200, priority scheduling, no re-onboarding.
 
-**Objections** — "How do I know it'll sound like me?" → Because we start with extraction, not a blank page — your voice is the raw material, and you approve every word before it ships. · "That's a real investment." → It is. It's also the only door where you're not buying more learning — you're buying the finished words. [GATE — guarantee/revision/timeline language unset — nothing promised until Wanda sets terms.]
+**Objections** — "How do I know it'll sound like me?" → Because we start with extraction, not a blank page — your voice is the raw material, and you approve the direction BEFORE I write a word. · "Done-for-you places always end up handing you the work anyway." → Here's the exact split: you show up for the extraction conversation and the approvals. I do the writing. All of it. · "That's a real investment." → It is. It's also the only door where you're not buying more learning — you're buying the finished words. [GATE — guarantee/revision/timeline language unset — nothing promised until Wanda sets terms.]
 **Proof** — [GATE] certified-conversion-copywriter credential needs its issuer before it appears near a price this size. Founder-era proof (20 years Revlon-first) is cleared and used above.
 **Usage** — DFY page, application follow-ups, Tier-3-adjacent warm email. The positioning front door — the category claim lives here even while Be Seen is the campaign priority.
 
@@ -308,7 +302,7 @@ Messaging Made Easy ($17/$27 — both retired) · Messaging Reset (now Get Off M
 
 ## VERSIONING
 
-Owner — Wanda (approvals) · Draft v0.1 written 2026-07-31 by Fable on delegated rulings. Linter note — voice_lint flags "$47/$470" under its never-47 rule: that rule bans INVENTED example numbers, and this is Be Seen's verified regular price. Documented false positive — never "fix" a real price to satisfy the linter. LOCKED sections once approved: one-lines, spines, prices-as-stated. LIVING sections: proof (as gates open), objections, seat counts, usage notes. Facts re-verify against OFFER TRUTH + SEND A LINK (the ruled authorities). Monthly hygiene pass — update THIS document first, assets second.
+Owner — Wanda (approvals) · v0.1 written 2026-07-31 on delegated rulings — REJECTED by Wanda for product-blind copy (her notes preserved in the v0.1 Google Doc). · v0.2 written 2026-07-31 AFTER full reads of the quiz build + questions, GOM GPT instructions, Finally Heard PDF, both Beat Self-Doubt assets, and the Chloe profile + VOC docs. Linter note — voice_lint flags "$47/$470" under its never-47 rule: that rule bans INVENTED example numbers, and this is Be Seen's verified regular price. Documented false positive — never "fix" a real price to satisfy the linter. LOCKED sections once approved: one-lines, spines, prices-as-stated. LIVING sections: proof (as gates open), objections, seat counts, usage notes. Facts re-verify against OFFER TRUTH + SEND A LINK (the ruled authorities). Monthly hygiene pass — update THIS document first, assets second.
 
 --- RESEARCH RECEIPTS ---
 1. [positioning.md → Make DFY the front door] The DFY entry carries the category claim ("I write it for you") and is labeled the positioning front door even while Be Seen holds campaign priority — the dual ruling in audit §8B rather than either extreme.
