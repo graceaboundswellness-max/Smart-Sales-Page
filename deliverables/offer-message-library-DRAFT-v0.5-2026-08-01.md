@@ -1,4 +1,4 @@
-# OFFER MESSAGE LIBRARY — DRAFT v0.4 — 2026-08-01
+# OFFER MESSAGE LIBRARY — DRAFT v0.5 — 2026-08-01
 
 **Status: DRAFT — pending Wanda's four gates (testimonial permissions · public traction facts · risk terms · credential facts). Nothing here is published or canonical.**
 
@@ -19,6 +19,10 @@
 4. When the outcome lands, STOP. No embellishing past the yes.
 5. No crutch comparisons — a comparison used twice in the library is a habit, not a choice.
 6. "Small" never describes her message or how she says it — the brand's enemy is the lie that staying small is humility. The goal word is CLEAR.
+7. The alternative you name must be the one she ACTUALLY hates — verified in her VOC — never one that merely sounds like effort. (Her true fatigue: freebies and PDFs piling up unopened, courses judging her from the dashboard.)
+8. Her buyer doesn't stop for clear or clever words — she stops when the words show she's UNDERSTOOD (her situation, her aspiration). Clarity is the delivery system for understanding, never the selling point in copy about her audience.
+9. Every verb carries its object on the page ("points" at WHAT?). "Honestly/honest" is a confirmed filler — it never modifies "questions" or "answer" again.
+10. Never assume her business is faith-facing. Chloe is a Christian woman — her copy and clients may not be. Faith-coding lives in how Wanda speaks to HER, never in promises about what her copy will contain.
 
 **Voice** — all copy obeys `wanda-voice` (voice-core + signature-language + faith-markers). Non-negotiables that shaped every block: faith-coded always · the do-not-use list holds (use "stuck," never the b-word) · no humor in product descriptions · promise presence and clarity, never outcomes beyond the price ("a $297 hour delivers clarity, not a transformed business") · real scarcity with a real reason only · "perfect-fit client," never ICA · Chloe's clients are mixed-gender ("the person") · Revlon first, beauty never fashion · never "just" before a price.
 
@@ -42,7 +46,7 @@
 
 **Conversion note** — cold, symptom-aware. The diagnosis IS the product: "specific means fixable" is her conversion moment.
 
-**One-line** — Find out why the right people keep scrolling past you — free, in 2 minutes, without watching one more training.
+**One-line** — Find out why the right people keep scrolling past you — free, 2 minutes, and not another freebie for the pile.
 
 **Short (57w)** — You're showing up — posting, emailing, doing what the algorithm wants this week — and the right people still scroll past. There's a reason. And there's more than one possible reason, each with a different fix. The Visibility Quiz takes 2 minutes and names YOURS — plus the one next step that fixes it. Free. Stop guessing. Get answers.
 
@@ -80,7 +84,7 @@ If you've heard any version of that — after someone read your bio, your About 
 
 And that sentence matters more than it looks. People can't say yes to what they can't grasp. The algorithm can't show your work to the right people until your words say who it's FOR. One unclear line, and you're invisible to both.
 
-Get Off Mute fixes the line. It's my free AI tool. It asks you a few questions about who you serve and why it matters — then hands back ONE clear sentence about what you do. In your voice. With your faith intact. Sized for your Instagram bio, your LinkedIn headline, your email signature — character counts and all.
+Get Off Mute fixes the line. It's my free AI tool. It asks you a few questions about who you serve and why it matters — then hands back ONE clear sentence about what you do. In your voice. Sized for your Instagram bio, your LinkedIn headline, your email signature — character counts and all.
 
 About 5 minutes. One clear sentence. And being found stops being a mystery.
 
@@ -98,19 +102,17 @@ God didn't give you that voice to keep it on mute.
 
 **Verified truth** — free interactive wheel — surfaces the one thing keeping her unseen, hands her a next step. Kept by ruling 2026-07-31. Routing destination never named in the wheel's own copy. [Audit §8A Q5]
 
-**One-line** — Spin once, answer honestly — and know the ONE thing to fix this week, instead of the seventeen things that were never the problem. Free.
+**One-line** — Spin once — and know the ONE thing to fix this week, instead of the seventeen things that were never the problem. Free.
 
-**Short (63w)** — You don't need another 40-page PDF. You need somebody to point. The Visibility Wheel is a free little tool that surfaces the ONE thing standing between your work and the people praying to find it — then hands you a single next step. One spin. One answer. One faithful step. Keep it simple — and give yourself some grace.
+**Short (63w)** — You don't need another 40-page PDF. You need somebody to point. The Visibility Wheel is a free little tool that surfaces the ONE thing standing between your work and the people praying to find it — then hands you a single next step. One spin. One answer. One faithful step.
 
-**Long (136w)** — Saved Reels. Downloaded freebies. A folder of PDFs you've never opened — not because you're lazy, but because every one of them asked you to fix EVERYTHING.
+**Long (124w)** — Saved Reels. Downloaded freebies. A folder of PDFs you've never opened — not because you're lazy, but because every one of them asked you to fix EVERYTHING, and nobody pointed at the one thing to fix first.
 
-Nobody ever pointed.
-
-The Visibility Wheel points. Spin it, answer honestly, and it surfaces the block that's actually costing you yeses this week — then gives you one small step that matches it. Not a strategy overhaul. Not a 12-part checklist. A point, and a step.
+The Visibility Wheel points at it. Spin it, and it names the block that's costing you yeses this week — then gives you one small next step for exactly that block. Not a strategy overhaul. Not a 12-part checklist.
 
 It takes about a minute. It beats another night of "maybe I'll redo the whole website." (You won't. And you don't need to.)
 
-Because the person God's sending you isn't waiting on a prettier site. She's waiting on clearer words — and clearer starts with knowing the ONE thing to fix first.
+Because the person God's sending you isn't waiting on a prettier site. She'll stop the moment your words show her you understand what she's carrying — and fixing the one thing in the way is how she gets to see that.
 
 One spin. One answer. One faithful next step.
 
@@ -152,7 +154,7 @@ One spin. One answer. One faithful next step.
 
 Here's the reframe that changes everything: AI isn't erasing your voice. It never HAD it. Neither do the templates. That's why everything comes out sounding like everyone.
 
-Finally Heard hands them your voice — once. It's a guided Voice & Vision Blueprint, about 15 focused minutes: the phrases you love, the ones you'd never say, who you serve in the words THEY use, how your faith shows up on the page. One page. Yours.
+Finally Heard hands them your voice — once. It's a guided Voice & Vision Blueprint, about 15 focused minutes: the phrases you love, the ones you'd never say, who you serve in the words THEY use — and how your faith shows up on the page, if it shows up at all. That part is your call. One page. Yours.
 
 Then the whole kit runs on it. Paste your Blueprint into the master prompt and AI finally follows YOU — no more arguing with a robot at midnight. Ten caption templates that turn crickets into conversations. A bio formula that makes the right person think "this is exactly what I need." An email kit. A hook cheat sheet. Tonight's post takes minutes, not hours.
 
