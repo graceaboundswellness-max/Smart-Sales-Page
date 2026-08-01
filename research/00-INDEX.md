@@ -22,6 +22,14 @@ Distilled, build-ready versions of Wanda's competitive and market research. Thes
 | SERP Teardown — 15 Topics (full detail) | Local vault: `WEBSITE GENIUS/[C] SERP Teardown — 15 Topics (2026-07-11).md` |
 | Open Lanes full detail | Local vault file referenced from the dashboard |
 
+## CANONICAL LINKS SHEET — ruling 2026-07-31
+
+**The canonical links sheet is the live 20-tab "LINKS HQ — CANONICAL" Google Sheet.** It has received CoWork's verification pass and current edits.
+
+**`WANDA-LINKS-HQ-MASTER.xlsx` (the 10-tab workbook built 2026-07-30) is DEAD. Do not upload it, do not convert it, do not propose it.** It was a consolidation candidate that became stale the moment verification work landed in the live sheet. Uploading it would create exactly the duplicate-master problem the consolidation was meant to end.
+
+Rule going forward: **one canonical sheet, edited in place.** Improvements to its structure are made *inside* the live sheet, never by importing a competing workbook.
+
 ## Freshness
 
 Research reflects the field as of **July 2026**. The Blue Ocean report itself recommends a quarterly re-scan — the faith-AI space is moving fast (watch: Sandra Mosley / Fempreneur Chronicles). If a digest is more than ~3 months old when you use it, say so in the deliverable and flag findings that may be stale.
