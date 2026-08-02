@@ -1,5 +1,16 @@
 # CoWork Prompt — Verify & Refresh the Master Links Sheet
 
+> # ⛔ SUPERSEDED 2026-08-02 — DO NOT RUN
+>
+> This prompt targeted "WANDA LINKS HQ — MASTER," a consolidation workbook that was **retired**. It also instructs CoWork to build an **OFFERS ONE-PAGER** tab — now explicitly retired as a duplicate — and it quotes prices ($97, $17) that are no longer true (Breakthrough Message Session is $297; Messaging Made Easy was retired 2026-07-30).
+>
+> **Current authority:** `LINKS HQ — CURRENT` → `SEND A LINK` tab —
+> `https://docs.google.com/spreadsheets/d/1uPHmG_-F7qlVF6Cxe6OkNOAV4c3ma3HISWseLzqxX48/edit`
+>
+> That sheet was verified on 2026-07-30 (≈45 public URLs personally loaded) and carries its own prioritised **FIX-IT LIST**. The remaining verification work is authenticated GHL / funnelscake payment / bit.ly links, which require Wanda's login. **Work that sheet's FIX-IT LIST top-down instead of running this prompt.**
+>
+> Kept for history per the never-delete rule.
+
 **How to use:** open CoWork, paste everything below the line as your first message. It's self-contained — CoWork does not need this conversation's history.
 
 ---

@@ -14,7 +14,8 @@ Wanda's rulings, recorded so a future build session inherits them instead of red
 
 ## 2. Nav must include the Blog, and the Blog lives on a subdomain
 
-- Blog link target: `https://blog.wandalambert.com` (subdomain — a plain external-style URL, not an internal page path).
+- **Blog link target: `https://blog.wandalambert.com/blog`** — the live blog INDEX. ⚠️ **CORRECTED 2026-08-02:** the bare subdomain `https://blog.wandalambert.com` **returns 404** (verified in LINKS HQ — CURRENT, FIX-IT priority 3: "Redirect the bare blog subdomain to /blog"). The nav link added 2026-08-02 used the bare subdomain and must be re-pointed to `/blog` or the redirect must be built.
+- Individual posts live at `/post/<slug>` (e.g. `/post/how-to-explain-what-you-do`), which is a different path from the index.
 - **Open in New Tab: OFF.** It's her own property; a surprise new tab loses the 55+ reader who then can't find her way back.
 - Blog posts live at `/post/<slug>`, NOT `/blog/`.
 

@@ -22,13 +22,28 @@ Distilled, build-ready versions of Wanda's competitive and market research. Thes
 | SERP Teardown — 15 Topics (full detail) | Local vault: `WEBSITE GENIUS/[C] SERP Teardown — 15 Topics (2026-07-11).md` |
 | Open Lanes full detail | Local vault file referenced from the dashboard |
 
-## CANONICAL LINKS SHEET — ruling 2026-07-31
+## CANONICAL LINKS SHEET — superseded 2026-08-01, verified 2026-08-02
 
-**The canonical links sheet is the live 20-tab "LINKS HQ — CANONICAL" Google Sheet.** It has received CoWork's verification pass and current edits.
+**CURRENT AUTHORITY: `LINKS HQ — CURRENT` (10 tabs)**
+`https://docs.google.com/spreadsheets/d/1uPHmG_-F7qlVF6Cxe6OkNOAV4c3ma3HISWseLzqxX48/edit`
+Filed in WANDA BUSINESS COMMAND CENTER → 05 — OPERATIONS + CLIENT EXPERIENCE.
 
-**`WANDA-LINKS-HQ-MASTER.xlsx` (the 10-tab workbook built 2026-07-30) is DEAD. Do not upload it, do not convert it, do not propose it.** It was a consolidation candidate that became stale the moment verification work landed in the live sheet. Uploading it would create exactly the duplicate-master problem the consolidation was meant to end.
+**Its `SEND A LINK` tab is the ONLY source for offers, prices, and client-facing URLs.** The sheet states this directly: "This is also what your AI projects quote from." Never duplicate a changing URL or price inside a skill, template, or knowledge file — point at SEND A LINK.
 
-Rule going forward: **one canonical sheet, edited in place.** Improvements to its structure are made *inside* the live sheet, never by importing a competing workbook.
+**Superseded — do not use as authority:**
+- The 20-tab sheet `1wy_38hh…` was renamed **"LINKS HQ — ORIGINAL BACKUP — DO NOT USE"** and archived on 2026-08-01. The 2026-07-31 ruling that named it canonical is void.
+- The January reference sheet is archived as "LINKS HQ — HISTORICAL REFERENCE — DO NOT USE".
+- **`WANDA-LINKS-HQ-MASTER.xlsx` (10-tab workbook, 2026-07-30) is DEAD** — never upload, convert, or propose it.
+- **Both "OFFERS ONE-PAGER" sheets are RETIRED** — LINKS HQ — CURRENT records them as "DELETE. Superseded by the SEND A LINK tab."
+- `CANONICAL — Offer Truth (synced 2026-07-21)` is flagged **NEEDS CHECK / CONFLICT** in LINKS HQ: it predates SEND A LINK and still contains the old $97 and Messaging Made Easy. **Do not quote offers from it.**
+
+Rule going forward: **one canonical sheet, edited in place.** Improvements are made *inside* the current sheet, never by importing a competing workbook.
+
+## Current offer truth (from SEND A LINK, verified 2026-07-30) — reference only, always re-check the sheet
+
+Free: Visibility Quiz · Get Off Mute · Visibility Wheel · Clear. Seen. Chosen. · Beat Self-Doubt (Substack welcome gift)
+Paid: **Finally Heard $27** (the only paid entry product) · **Be Seen $37/mo or $370/yr** (founding, first 20) · **Breakthrough Message Session $297** (renamed from Pick My Brain; the old $97 is wrong) · Breakthrough 3-Pack $747 · **DFY: Copy Refresh $1,200 · Foundation $1,750 · Foundation + Copy $2,500** (rush +25%)
+**RETIRED 2026-07-30: Messaging Made Easy** — never quote, link, or reference it as live.
 
 ## Freshness
 

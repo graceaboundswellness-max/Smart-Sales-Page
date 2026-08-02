@@ -1,4 +1,14 @@
 # HANDOFF BRIEF — Wanda Lambert content system
+
+> ## ⚠️ HISTORICAL CONTEXT ONLY — superseded 2026-08-02 (per Wanda's ruling)
+> Two pointers in this document are **wrong** as of 2026-08-02:
+> - **Links authority** — this doc names the 20-tab sheet `1wy_38hh…`. That sheet is archived as **"LINKS HQ — ORIGINAL BACKUP — DO NOT USE."** Current authority is **`LINKS HQ — CURRENT` → `SEND A LINK` tab**: `https://docs.google.com/spreadsheets/d/1uPHmG_-F7qlVF6Cxe6OkNOAV4c3ma3HISWseLzqxX48/edit`
+> - **Blog URL** — the bare subdomain 404s. Index is `/blog`; posts are `/post/<slug>`.
+>
+> Also superseded: voice profile, Chloe profile and an "Offers One-Pager" are described here as missing. **The voice and Chloe profiles exist as canonical synced sources**, and the Offers One-Pager was retired as a duplicate of SEND A LINK.
+>
+> Current re-entry order: newest AI Knowledge Bridge handoff → THE OPERATING SOP → relevant strategy/keyword tabs → current voice / Chloe / offer / link authority.
+
 **For: ChatGPT (or any AI with no prior context) · Written: 2026-08-02 · Author: Claude Code session**
 
 Paste this whole document in. It is self-contained.
@@ -37,11 +47,11 @@ The fix is structural: **every rule must produce a checkable artifact, and verif
 
 | Thing | Canonical location |
 |---|---|
-| Business links | **LINKS HQ — CANONICAL** Google Sheet, ID `1wy_38hhsOwHjkzWmX0TZkFoOpwqa0ovafskRdMsdtOU` |
+| Business links, offers, prices, client-facing URLs | **`LINKS HQ — CURRENT` → `SEND A LINK` tab**, ID `1uPHmG_-F7qlVF6Cxe6OkNOAV4c3ma3HISWseLzqxX48` — the only authority. *(Corrected 2026-08-02. The former 20-tab sheet `1wy_38hh…` is archived "DO NOT USE".)* |
 | Content production | **Ultimate Content Workflow** sheet, ID `1VZU1XRF6tShfjwMBfbY9h0VN1VD_ru4MKioqw9A7S9k` — tabs: CONTENT WORKFLOW HQ · CONTENT TRACKER · IDEAS & KEYWORDS · RESEARCH—WHAT'S WORKING · SOPs & TEMPLATES · PARKED—PINTEREST |
 | AI knowledge kit | Google Drive folder "AI-Ready Research Kit (Claude + GPT)" |
 | Website | wandalambert.com (GoHighLevel / FunnelCakes white-label) |
-| Blog | **blog.wandalambert.com** — posts at `/post/<slug>`, NOT `/blog/` |
+| Blog | Index: **`blog.wandalambert.com/blog`** · posts: **`/post/<slug>`** · ⚠️ the bare subdomain returns 404 *(corrected 2026-08-02)* |
 
 **Hard rule (ruling 2026-07-31):** one canonical sheet per purpose, edited in place. A 10-tab consolidation workbook was built and then deliberately killed because it competed with the live sheet. Never import a competing workbook; improve the canonical one from inside.
 
