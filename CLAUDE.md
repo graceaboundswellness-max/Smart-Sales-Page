@@ -31,7 +31,16 @@ Every draft handed to Wanda MUST end with a block like this:
 
 **What is mechanically enforced vs. trusted — exact boundary, do not oversell it:**
 
-A Stop hook (`.claude/settings.json` → `scripts/check-deliverables.sh`) runs outside the model and blocks the session from ending unless every `deliverables/*.md`: (a) has a receipts block, (b) contains ≥3 citations shaped `[file.md → finding]` (or an explicit `[no-research]` line with the reason), and (c) **every cited finding text actually appears in the cited file** — a receipt citing a nonexistent file or an invented/paraphrased finding blocks the session. This kills silent skips and fabricated citations.
+A Stop hook (`.claude/settings.json` → `scripts/check-deliverables.sh`) runs outside the model and blocks the session from ending unless every `deliverables/*.md`: (a) has a receipts block, (b) contains ≥3 citations shaped `[file.md → finding]`, and (c) **every cited finding text actually appears in the cited file** — a receipt citing a nonexistent file or an invented finding blocks the session. This kills silent skips and fabricated citations.
+
+**Verified limits of the hook (adversarially tested 2026-08-02 — do not describe it as stronger than this):**
+- `[no-research]` appearing anywhere in the file bypasses the whole check, and the code does **not** require a reason even though this rule asks for one.
+- Citation count is instances, not distinct findings — the same citation three times passes.
+- Finding-match is a case-insensitive **substring** check, so a very short fragment satisfies it. It proves the string exists in the file; it does not prove a real finding was cited.
+- Cited files also resolve at the repo root, not only `research/` and `templates/`.
+- Only `deliverables/*.md` is gated — other file types bypass entirely.
+- It fails **open** (exit 127, non-blocking) if `$CLAUDE_PROJECT_DIR` is ever unset.
+- It contains **no** offer, price, or retired-product checks. Nothing stops a fabricated offer claim; that is the auditor's and Wanda's job.
 
 The hook does NOT prove the finding truly drove the decision, or that the draft is good. Those are verified by (1) the draft-auditor pass (`templates/draft-auditor-instructions.md`), which checks each receipt's decision-claim against the draft, and (2) Wanda reading it. Receipts are falsifiable claims, not proof — treat any statement that the system "guarantees research was used" as overselling.
 

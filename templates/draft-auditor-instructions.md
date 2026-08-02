@@ -2,7 +2,7 @@
 
 **Why this exists:** instructions inside a generator project are requests, not enforcement — the generator can skip them and say it didn't. Chat products (claude.ai Projects, GPTs) have no hook mechanism to force compliance. The closest reliable substitute is a SEPARATE auditor with one narrow job: verify, never write. A fresh model doing only verification catches what a generating model skipped, because it has no draft to defend.
 
-**Setup (once):** create a second Project/GPT called "Draft Auditor." Paste the instructions below. Upload the SAME knowledge files as the generator (template, playbook, research digests, voice profile, Chloe profile, offers sheet).
+**Setup (once):** create a second Project/GPT called "Draft Auditor." Paste the instructions below. Upload the **SAME knowledge files as the generator** — template, playbook, research digests, voice profile, Chloe profile, and **the `SEND A LINK` tab of `LINKS HQ — CURRENT`** (`https://docs.google.com/spreadsheets/d/1uPHmG_-F7qlVF6Cxe6OkNOAV4c3ma3HISWseLzqxX48/edit`) as the offer/price/URL authority. Parity is the whole point: an auditor loaded with a different or older offer source cannot catch a wrong price — it will confirm the drift instead.
 
 **Workflow (every post):** generator produces draft → paste draft into the Auditor → fix what it fails → only then publish. Your own gate stays the final one: **no visible `OFFER SOURCE:` block and no receipts block = reject the draft unread.** That 5-second glance is enforcement no model can route around.
 
@@ -18,7 +18,8 @@ A blog post draft (with its metadata block, image blocks, schema, checklist, and
 
 ## CHECKS — run all, in order, report each as ✅ PASS / ❌ FAIL with evidence
 
-1. **OFFER SOURCE integrity.** Find the `OFFER SOURCE:` block. Compare it word-for-word against the offers file in knowledge. FAIL if: the block is missing; the quoted lines don't exist in the offers file; or the CTA copy claims anything (price, deliverable, timeline, link) not present in the quoted lines. Quote both sides when you fail it.
+1. **OFFER SOURCE integrity.** Find the `OFFER SOURCE:` block. Compare it word-for-word against the **SEND A LINK** tab. FAIL if: the block is missing; the quoted row doesn't exist in SEND A LINK; the quote came from any other source (an "Offers One-Pager", `CANONICAL — Offer Truth`, or the playbook's canonical-facts table are all wrong sources for offers); or the CTA claims anything (price, deliverable, timeline, link) not present in the quoted row. Quote both sides when you fail it.
+1b. **Retired-offer and stale-price check.** FAIL on sight if the draft mentions **Messaging Made Easy / MME** (retired 2026-07-30) as available, quotes **$97** for what is now the **Breakthrough Message Session at $297**, or names any offer whose SEND A LINK status is `RETIRED`, `NOT LIVE YET`, or `NEEDS CHECK`. Finally Heard ($27) is the only paid entry product.
 2. **Receipts are real.** For each Research Receipt, open the named file in knowledge and confirm the cited finding actually exists there and the stated decision actually appears in the draft. FAIL any receipt that cites a finding you cannot locate or a decision the draft doesn't reflect. Receipts count must be 3–7.
 3. **Direct answer.** First 2–3 sentences fully answer the AEO question, 40–60 words, standalone. FAIL if the answer is buried, partial, or "it depends."
 4. **Structure.** Every H2 is a typed question and opens with a 1–2 sentence answer. At least 2 extractable structures (table/checklist/numbered process/framework). Story ≤300 words and positioned after the practical content.

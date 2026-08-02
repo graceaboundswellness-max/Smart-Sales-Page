@@ -157,7 +157,7 @@ GHL sanitizes script tags there — becomes `&lt;script&gt;`, text *about* a scr
 - **Paste the post's LOG ROW into the content tracker** (the writing project outputs it with every draft)
 - Delete any placeholder blogs
 - Link to the post from your About page
-- **Blog must be in the site nav menu** (discovered 2026-07-30: posts were live with no nav path to them — invisible to visitors AND to crawlers following internal links). The blog lives on the subdomain — nav link points to `https://blog.wandalambert.com`. One-time fix, then verify the link survives any header edit.
+- **Blog must be in the site nav menu** (discovered 2026-07-30: posts were live with no nav path to them — invisible to visitors AND to crawlers following internal links). ⚠️ **CORRECTED 2026-08-02 — nav link target is `https://blog.wandalambert.com/blog` (the index), NOT the bare subdomain**, which LINKS HQ — CURRENT verified returns 404. Posts sit at `/post/<slug>`. Verify the link resolves after any header edit.
 
 ---
 
