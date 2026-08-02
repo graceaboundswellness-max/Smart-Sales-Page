@@ -69,9 +69,35 @@ AFTER YOU PUBLISH — do these while the tab is still open:
 4. Paste the LOG ROW below into the content tracker
 ```
 
-**Closing block 2 — LOG ROW (always append, one line, tab-separated so it pastes into a spreadsheet as columns):**
-`Date published · Post title · Live URL · Territory · Primary keyword · Asset job · CTA offer · GSC requested? (blank) · Bing submitted? (blank) · In nav/index? (blank) · Notes`
-Fill every field you know; leave the three tracking fields blank for Wanda to tick after doing the prompts above.
+**Closing block 2 — TRACKER FIELDS (always append).** The canonical tracker is the **CONTENT TRACKER** tab of the *Ultimate Content Workflow* sheet. Do NOT invent a row format — output the values for ITS columns, labeled, so Wanda pastes them into the existing structure:
+
+```
+TRACKER FIELDS — CONTENT TRACKER tab
+DATE:                    MM-DD-YYYY
+TITLE:                   <post title>
+TYPE:                    Blog Post
+STATUS:                  PUBLISHED
+✍ BLOG (col G):          <live URL>
+✏ EDIT / BACKSTAGE:      <GHL blog post edit URL>
+-- PLAN band --
+Target keyword:          <primary query>
+Angle:                   <the gap being filled>
+Awareness stage:         <Problem-Aware / Solution-Aware / etc.>
+Content pillar:          <Unbury Your Message | AI Without the Ick | Safe to Be Seen>
+Truth Over Hype lens:    YES/NO — does this cut against hype?
+-- BLOG band (YES / NO / N/A only) --
+Draft repurposed from script:        YES
+SEO: keyword + meta:                 YES
+AEO: FAQ questions answered:         YES
+AIO/GEO: quotable answer + stats:    YES
+Images: featured + main:             YES
+YT embed + internal offer links:     YES/N/A
+PUBLISHED → link in G:               YES
+Blog link → YT description:          <leave for Wanda>
+NOTES:                               <anything worth remembering>
+```
+
+Checklist cells take **YES / NO / N/A only** — never free text. Pillars are the three above; Truth Over Hype is the lens running under all three, never a pillar.
 
 ## WHAT YOU NEVER DO
 
