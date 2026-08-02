@@ -41,7 +41,7 @@ Per `03_BUILD_ORDER_AND_STATUS.md` (Drive ID `1ONKmMctRg9Q1QTG1wq2DCYR9jnQvzvWk`
 | youtube-thumbnail-strategist.zip (2026-07-11) | INSPECT NOW — inspected; DOWNSTREAM PRESERVATION (do not rebuild) | Drive `1DQySo8rWXqKUjnvDJC8HgNTZBJ1h6fyF`; extracted working copy in session scratchpad |
 | Thumbnail Generator GPT instructions + brief template + cheatsheet (2026-05-15/16) | INSPECT NOW — inspected | Drive folder `1JBHUUqpi44aDQCU5H5_xE7FiExia8c7c` |
 | wanda-visual-brand-guide-for-thumbnails.md (2026-05-15) | FOCUSED LIVE REFERENCE (newest canonical visual-brand system found; hex palette, fonts, 4 layouts, face-integrity spec, export filename convention) | Drive `1hkyAaywh14Uvxp7UKniGQigW0UKKchRc` |
-| **LINKS HQ — CANONICAL** (sheet, **2026-07-31** — live yesterday) | FOCUSED LIVE REFERENCE — the canonical offer-and-link registry the handoff asked for. Row-level STATUS flags (LIVE — CURRENT / NEEDS CHECK / RETIRED). URLs must never be duplicated into skills. | Drive `1wy_38hhsOwHjkzWmX0TZkFoOpwqa0ovafskRdMsdtOU` |
+| **LINKS HQ — CURRENT → SEND A LINK** *(repointed 2026-08-02)* | FOCUSED LIVE REFERENCE — the only source for offers, prices and client-facing URLs (THE OPERATING SOP §2). Row-level STATUS flags. URLs must never be duplicated into skills. *(This run referenced the former 20-tab sheet `1wy_38hh…`, archived 2026-08-01 as "ORIGINAL BACKUP — DO NOT USE.")* | Drive `1uPHmG_-F7qlVF6Cxe6OkNOAV4c3ma3HISWseLzqxX48` |
 | 12_SCRIPT_LAB_REFERENCE_GATE_CHECKPOINT.md | LOCKED INPUT (Video 1 packaging) — inspected, not reopened | Drive `1J1dT60adNExfZf6vrBbUAxL0DLJ4vrPM` |
 | Skill Factory Architect GPT package v3 | INSPECT NOW — inspected (governance rules: one job per skill, staged builds, checkpoint before build, QA/smoke-test protocol, retirement thin-pointers) | Drive zip `1kpdPRc-R4mWpLM3G9g18BdOsxg5rsJKg` |
 | MASTER FILE INDEX — UPDATED 2026-07-02 | INSPECT NOW — inspected. Blind spot: none of the thumbnail docs, the GPT knowledge files, or a link registry are indexed in it. | Doc `1lrRRhZ2xVnAeNNVoPkZl4e0OTYRgZWdekwnJU7YXAlk` |
@@ -56,7 +56,7 @@ Per `03_BUILD_ORDER_AND_STATUS.md` (Drive ID `1ONKmMctRg9Q1QTG1wq2DCYR9jnQvzvWk`
 
 ## 3. Sources inspected / inaccessible (IDs)
 
-**Inspected this run:** 03_BUILD_ORDER (`1ONKmMctRg9Q1QTG1wq2DCYR9jnQvzvWk`) · strategist zip (`1DQySo8rWXqKUjnvDJC8HgNTZBJ1h6fyF`) · GPT instructions (`1_hu5tVluDTJKY3Dn6TtM2yz4u81yyXE9`) · visual brand guide (`1hkyAaywh14Uvxp7UKniGQigW0UKKchRc`) · brief template (`1GL1hb8ieJ5nutUaRk6T9XDMLiLGbuzLC`) · cheatsheet (`1QPkRL__LGME2GTS0bwkI4UIOOuUPWB-lTRwK_Gd_s94`) · Master File Index (`1lrRRhZ2xVnAeNNVoPkZl4e0OTYRgZWdekwnJU7YXAlk`) · LINKS HQ — CANONICAL (`1wy_38hhsOwHjkzWmX0TZkFoOpwqa0ovafskRdMsdtOU`) · 12_SCRIPT_LAB checkpoint (`1J1dT60adNExfZf6vrBbUAxL0DLJ4vrPM`) · architect package zip (`1kpdPRc-R4mWpLM3G9g18BdOsxg5rsJKg`) · ACCESS_GAPS.md (`1ln-pZeK_mKfMuCnHChZYSvQPupOs9gAX`) · current official YouTube platform pages (via web search; see §5).
+**Inspected this run:** 03_BUILD_ORDER (`1ONKmMctRg9Q1QTG1wq2DCYR9jnQvzvWk`) · strategist zip (`1DQySo8rWXqKUjnvDJC8HgNTZBJ1h6fyF`) · GPT instructions (`1_hu5tVluDTJKY3Dn6TtM2yz4u81yyXE9`) · visual brand guide (`1hkyAaywh14Uvxp7UKniGQigW0UKKchRc`) · brief template (`1GL1hb8ieJ5nutUaRk6T9XDMLiLGbuzLC`) · cheatsheet (`1QPkRL__LGME2GTS0bwkI4UIOOuUPWB-lTRwK_Gd_s94`) · Master File Index (`1lrRRhZ2xVnAeNNVoPkZl4e0OTYRgZWdekwnJU7YXAlk`) · LINKS HQ — then-current 20-tab sheet (`1wy_38hh…`; archived 2026-08-01 — current authority is LINKS HQ — CURRENT `1uPHmG_-F7qlVF6Cxe6OkNOAV4c3ma3HISWseLzqxX48`) · 12_SCRIPT_LAB checkpoint (`1J1dT60adNExfZf6vrBbUAxL0DLJ4vrPM`) · architect package zip (`1kpdPRc-R4mWpLM3G9g18BdOsxg5rsJKg`) · ACCESS_GAPS.md (`1ln-pZeK_mKfMuCnHChZYSvQPupOs9gAX`) · current official YouTube platform pages (via web search; see §5).
 
 **Located, archived-only (not deep-read this run):** A–Z Masterlist (`1NE4Yhx_nxQJaNijNcLe49hD_q4awUB2wVczFktsF-1g`) · Success Blueprint (`1f6LWwqoCQoYj_P7-aABwQFZ6XRz30JFU0YMUpMhPVek`) · Additional Notes (`1a_VqP4zZMFjDbq2VZisv7YR6U2NZs2Bbo2sGKkkF8X8`) · Kallaway (`1rnxrBiZNcvptLcT3aAGHbrUDc_mfOrLh-NvmI9g2vCM`) · Wes McDowell course (`1KlEAQzVa8TyTl44lSIcCEMtQ9Cq87kazeh9B2uK8nY8`) · Research Strategy (`1piJf5jkPrlVNKN5qPv4juMwkZJzFKq5yUhYW1oeaH3E`) · Pose Checklist (`1Pt0PQ-or9w7fhwhNKkIO1FxsloGuGm0gXbF7LaQSgYA`) · Thumbnails Psychology (`1KSqd213gRetBq1iROsTCwh-Cr16DM98I132fmo9etJs`).
 
@@ -93,7 +93,7 @@ Per `03_BUILD_ORDER_AND_STATUS.md` (Drive ID `1ONKmMctRg9Q1QTG1wq2DCYR9jnQvzvWk`
 10. Text length: GPT "2–5 words, 6 max if guide allows" vs guide "3–6 words" vs strategist validator "≤5 words."
 11. Validator drifted from `thumbnail-banned-terms.md` (md bans `leverage`, `ASAP`, generic `transform`, "It's not just X — it's Y" — absent from the script; script bans `attract` — absent from the md). Also `"note:"` substring match can false-positive.
 12. Strategist `references/README.md` lists 9 references; SKILL.md requires 13. README stale.
-13. Old "YouTube Description + LINKS" doc carries pre-LINKS-HQ prices/URLs — duplicate/stale link source; LINKS HQ — CANONICAL (2026-07-31) supersedes. The handoff's "stale Get Off Mute 'course' wording" test is validated: Get Off Mute is currently a **free GPT**, not a course.
+13. Old "YouTube Description + LINKS" doc carries pre-LINKS-HQ prices/URLs — duplicate/stale link source; **`LINKS HQ — CURRENT` → `SEND A LINK`** supersedes *(repointed 2026-08-02 — this run named the 20-tab sheet, archived 2026-08-01)*. The handoff's "stale Get Off Mute 'course' wording" test is validated: Get Off Mute is currently a **free GPT**, not a course.
 14. Master File Index (the "where every file lives" doc) does not index any thumbnail doc, GPT knowledge file, or the link registry.
 15. 03_BUILD_ORDER last touched 2026-06-04 — predates the 2026-07-02 ICA refresh and voice supersessions; skills' Chloe references may carry old-ICA language.
 
@@ -103,7 +103,7 @@ Per `03_BUILD_ORDER_AND_STATUS.md` (Drive ID `1ONKmMctRg9Q1QTG1wq2DCYR9jnQvzvWk`
 
 **Workstream A (patch/Phase-1, not new build):**
 - `youtube-metadata-platform-rules.md` — **NEW, needed**: the §5 date-stamped rules (hashtag-60, chapters syntax, thumbnail specs, Shorts caveats, 5,000/100 limits, official-vs-heuristic distinction). Must carry "as checked" dates.
-- Link handling — **reuse, do not create**: point at LINKS HQ — CANONICAL as the single URL allowlist; skill must refuse rows not marked LIVE — CURRENT and never inline URLs.
+- Link handling — **reuse, do not create**: point at **`LINKS HQ — CURRENT` → `SEND A LINK`** (`1uPHmG_-F7qlVF6Cxe6OkNOAV4c3ma3HISWseLzqxX48`) as the single URL allowlist *(repointed 2026-08-02 from the 20-tab sheet archived 2026-08-01)*; skill must refuse rows not marked LIVE — CURRENT and never inline URLs.
 - Description/link/pinned-comment rules + output contract — **evaluate against the existing skill's own references first** (blocked on Access Gap: the installed skill folder). Do not author duplicates until it's inspected.
 - Tags/hashtags rules — likely fold into platform-rules file rather than a separate reference (tags are minimal-role; don't make them a star).
 - Exemplar file — defer; no approved metadata packets exist yet beyond locked Video 1.
@@ -151,7 +151,7 @@ Per `03_BUILD_ORDER_AND_STATUS.md` (Drive ID `1ONKmMctRg9Q1QTG1wq2DCYR9jnQvzvWk`
 1. **Export the numbered governance docs** (00, 01, 02, 04-thumbnail-checkpoint, 05, 06, 11) from the ChatGPT project (or wherever they live) to Drive — your own ACCESS_GAPS.md from June 8 already flagged them as never landing on disk. Without them, canonical-status claims rest on 03 + 12 alone.
 2. **Point me at the installed live skills** (the folder/machine/project where `youtube-seo-metadata` and the strategist actually run) — the zip snapshot covers the strategist, but the metadata skill's actual files are unverifiable from here.
 3. **Upload 3–5 approved photos to your Canva asset library** (or confirm they're already there) so the creator test can run identity-safe.
-4. **LINKS HQ pricing pass:** old description docs disagree with LINKS HQ on offer prices (e.g., MME $17 vs $27 rows); confirm LINKS HQ rows marked NEEDS CHECK.
+4. **LINKS HQ pricing pass:** old description docs disagree with current offer truth. *(Updated 2026-08-02: **Messaging Made Easy was RETIRED 2026-07-30** — Finally Heard $27 is the only paid entry product, and Pick My Brain $97 is now Breakthrough Message Session $297. Purge MME and $97 from any description doc; re-verify every price against SEND A LINK.)*
 5. **Vehicle decision** for where this system lives (Claude skill / Project / GPT / ChatGPT skill) — note: ChatGPT Skills (launched July 2026) are Business/Enterprise-plan features, not Plus/Pro, as of this check.
 6. Approve/adjust the §8 test-first thumbnail path and the §9 build order.
 
