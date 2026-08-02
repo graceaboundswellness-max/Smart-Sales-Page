@@ -29,7 +29,7 @@ The Google Drive connector exposes **8 tools**: `copy_file`, `create_file`, `dow
 | 5b | Create from **binary** .xlsx (base64) | `create_file` | new, parent = kit folder | **SUCCESS** — id `1EKb35m2…`, auto-converted to Google Sheet |
 | 5c | Verify binary content survived | `read_file_content` | `1EKb35m2…` | **SUCCESS** — cell values `diag` / `binary path test` intact |
 | 6 | Copy existing file | `copy_file` | copy of `1dfzLzu9…` | **SUCCESS** — id `16g1l_9W…` |
-| 7 | Permissions on a canonical file | `get_file_permissions` | LINKS HQ (`1wy_38hh…`) | **SUCCESS** — `owner: graceaboundswellness@gmail.com` |
+| 7 | Permissions on what was then the canonical file *(that sheet was archived 2026-08-01 as "LINKS HQ — ORIGINAL BACKUP — DO NOT USE"; current authority is LINKS HQ — CURRENT → SEND A LINK)* | `get_file_permissions` | LINKS HQ (`1wy_38hh…`) | **SUCCESS** — `owner: graceaboundswellness@gmail.com` |
 
 **Zero errors returned. No error text to report, because no call failed.**
 

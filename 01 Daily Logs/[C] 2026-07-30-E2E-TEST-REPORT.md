@@ -4,6 +4,11 @@ type: test-report
 date: 2026-07-30
 ---
 
+> ## ⚠️ HISTORICAL RECORD — SUPERSEDED 2026-08-02. Do not execute any instruction in this file.
+> Superseded here: (1) `WANDA-LINKS-HQ-MASTER.xlsx` is **dead** — never upload or convert it; (2) the **Offers One-Pager** was retired as a duplicate — the offer/price/URL authority is `LINKS HQ — CURRENT` → **SEND A LINK**; (3) the blog nav target is **`blog.wandalambert.com/blog`** — the bare subdomain 404s; (4) voice and Chloe profiles are **not missing** — they exist as canonical synced sources; (5) `templates/cowork-prompt-verify-master-sheet.md` is marked DO NOT RUN.
+> Kept unedited below per the never-delete rule.
+
+
 # Seeded End-to-End Test — Report & Merge Recommendation
 
 **What was tested:** the full deliverable pipeline on a seeded (synthetic, clearly-labeled, never-publish) artifact: receipts verification → hook block/pass → publish-strip (Section A/B) → deterministic audit checks. Run live in this session; raw log preserved in the session scratchpad.
