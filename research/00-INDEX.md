@@ -39,6 +39,27 @@ Filed in WANDA BUSINESS COMMAND CENTER → 05 — OPERATIONS + CLIENT EXPERIENCE
 
 Rule going forward: **one canonical sheet, edited in place.** Improvements are made *inside* the current sheet, never by importing a competing workbook.
 
+## CANONICAL PROFILE SOURCES — authority resolved 2026-08-02
+
+The live **AI KNOWLEDGE BRIDGE** (`1xT7jnITglIOGLkIX5f0M8UsQ6t1tqb0r`) is the structure that decides this. It has one folder for live sources and one for archive:
+
+| Folder | ID | Role |
+|---|---|---|
+| `01 — CURRENT APPROVED SOURCES` | `1mtezzSGtFrlsWXHH18uqhN6NFY0Z2gnm` | **Authoritative.** One copy of each canonical file. |
+| `99 — DEPRECATED + ARCHIVE` | `1-UGy70smNKReqPOnoJqOBXwGpMk46wJW` | Duplicate/reference copies. Kept, never deleted, never quoted. |
+
+**Use these IDs. Attach these to Claude/GPT Projects:**
+
+| Profile | AUTHORITATIVE (in `01`) | Duplicate (in `99` — reference only) |
+|---|---|---|
+| Wanda voice | **`1wA4Z4ci-KmQSGFKdpccBqD2sTOMzF6q6`** | `1tAYMh3mgP0ieDpNng8Q7eHJ9dggfDXsu` · `15STLMyY9zAwnfn3qCkB8ysPGZIAQLKL3` |
+| Chloe / audience profile | **`1hi8s9EGPkpiCdDO4fuH7gd9mSrE6Fv3N`** | `12Zkp1c0nqo5oLFO4QJzCUENQWKWJ2Mby` · `1rMdbEnnoOEUey97Spm8pV7flVDwwHX-D` · `1T7cUHPVIOJC8-sghBsu3QWUccepW8w1Z` (*"v2 textContent"*) |
+| Chloe VOC (companion) | **`1_mS2OM17IRC-pwb1pPNjAoyfV9p9kSsX`** | `1omVxe290SfSoDZsP0m_QtC6qia14LMFS` · `1uz2hcwQfs5d84g0bpFnvs43jOPRV1Mbf` |
+
+All copies share the same title and the same `synced 2026-07-21` stamp, and every `01`/`99` pair matches **byte-for-byte in size** (voice 44,324 · Chloe profile 25,596 · Chloe VOC 94,980) — as does every other paired file across the two folders. The archive copies were *created later* than the `01` copies at identical sizes, which is the signature of a repeated upload run, not of independent edits. Verified directly: size, title, sync stamp, location, and the full text of the `01` Chloe profile. **Not** verified: a byte-level diff of each pair.
+
+**⚠️ Open pointer conflict for Wanda (nothing is broken today).** The `AI & KNOWLEDGE` tab of LINKS HQ — CURRENT, under "CANONICAL SOURCES — what your AI should quote from," points at the **`99` archive copies** (`12Zkp1c0…` for Chloe, `1tAYMh3m…` for voice), not the `01` copies. Because the files are the same size and content, both currently load the same material — so this is hygiene, not a live defect. One decision fixes it: either repoint those two sheet rows to the `01` IDs above, or declare the sheet's IDs authoritative and this table follows. **Do not delete either copy** (Wanda ruling 2026-08-02).
+
 ## Current offer truth (from SEND A LINK, verified 2026-07-30) — reference only, always re-check the sheet
 
 Free: Visibility Quiz · Get Off Mute · Visibility Wheel · Clear. Seen. Chosen. · Beat Self-Doubt (Substack welcome gift)
