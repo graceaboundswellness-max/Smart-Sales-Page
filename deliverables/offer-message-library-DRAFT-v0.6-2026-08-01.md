@@ -1,4 +1,4 @@
-# OFFER MESSAGE LIBRARY — DRAFT v0.5 — 2026-08-01
+# OFFER MESSAGE LIBRARY — DRAFT v0.6 — 2026-08-01
 
 **Status: DRAFT — pending Wanda's four gates (testimonial permissions · public traction facts · risk terms · credential facts). Nothing here is published or canonical.**
 
@@ -23,6 +23,11 @@
 8. Her buyer doesn't stop for clear or clever words — she stops when the words show she's UNDERSTOOD (her situation, her aspiration). Clarity is the delivery system for understanding, never the selling point in copy about her audience.
 9. Every verb carries its object on the page ("points" at WHAT?). "Honestly/honest" is a confirmed filler — it never modifies "questions" or "answer" again.
 10. Never assume her business is faith-facing. Chloe is a Christian woman — her copy and clients may not be. Faith-coding lives in how Wanda speaks to HER, never in promises about what her copy will contain.
+11. Wanda's typed-like-this hyphen phrases are VOICE, not clutter — never flatten "the whatever-the-algorithm-wants-this-week thing."
+12. Outcomes sell — contents don't. Never walk the reader through what's inside a product — say what it does for her. And wherever AI is involved, CONSISTENCY is a named benefit: same voice every time, never reinvented draft to draft.
+13. "Crickets" is not Wanda's word — banned in Wanda-voiced copy. (It may appear only inside a quoted real-Chloe line.)
+14. Show the move, never name it — "here's the reframe" is banned. And AI-residue phrases are retired on sight ("a stranger describing you at a networking event" came from AI-Chloe and never ships again).
+15. The FH promise ruling (2026-08-01, Fable recommendation pending Wanda's veto): the outcome is copy that DOES HER EXPERTISE JUSTICE — "in your voice" is the mechanism, stated in the body, never the headline prize.
 
 **Voice** — all copy obeys `wanda-voice` (voice-core + signature-language + faith-markers). Non-negotiables that shaped every block: faith-coded always · the do-not-use list holds (use "stuck," never the b-word) · no humor in product descriptions · promise presence and clarity, never outcomes beyond the price ("a $297 hour delivers clarity, not a transformed business") · real scarcity with a real reason only · "perfect-fit client," never ICA · Chloe's clients are mixed-gender ("the person") · Revlon first, beauty never fashion · never "just" before a price.
 
@@ -48,9 +53,9 @@
 
 **One-line** — Find out why the right people keep scrolling past you — free, 2 minutes, and not another freebie for the pile.
 
-**Short (57w)** — You're showing up — posting, emailing, doing what the algorithm wants this week — and the right people still scroll past. There's a reason. And there's more than one possible reason, each with a different fix. The Visibility Quiz takes 2 minutes and names YOURS — plus the one next step that fixes it. Free. Stop guessing. Get answers.
+**Short (57w)** — You're showing up — posting, emailing, doing the whatever-the-algorithm-wants-this-week thing — and the right people still scroll past. There's a reason. And there's more than one possible reason, each with a different fix. The Visibility Quiz takes 2 minutes and names YOURS — plus the one next step that fixes it. Free. Stop guessing. Get answers.
 
-**Long (146w)** — You post. You pray. You check your phone — nothing. A like from your mom (God bless). A heart from your cousin. Meanwhile *she's* booking out — and you've started wondering what she figured out that you haven't.
+**Long (146w)** — You post. You pray. You check your phone — nothing. A heart from your mom (God bless). A comment from your bestie. Meanwhile *she's* booking out — and you've started wondering what she figured out that you haven't.
 
 Friend, listen. You are called. You are equipped. You put in the work. The silence isn't proof you heard God wrong. It means you've been fixing the wrong thing.
 
@@ -72,19 +77,19 @@ Stop guessing. Get answers. It's free.
 
 **Verified truth** — free AI tool (a GPT — never "course," never a member perk). Guided questions → ONE clear sentence (who you help + why it matters), clarity-checked against real language (it rejects buzzwords), sized per platform with live character counts. ~5 minutes. Former name Messaging Reset — retired. [Audit §4.2, §8A + GPT instructions]
 
-**Conversion note** — coldest entry, highest-leverage free asset. The engine (per Wanda): the sentence forces clarity about WHO she serves, WHAT she solves, WHY it matters → that clarity overflows into everything she writes → and it makes her findable: people can't say yes to what they can't grasp, and the algorithm can't show her work to her people until her line says who it's FOR. Promise = clarity → discoverability → visibility. Her dream in her own words: *"I want to explain what I do in ONE sentence and have someone go 'oh wow, tell me more.'"*
+**Conversion note** — cold entry (the quiz is the coldest touchpoint), highest-leverage free asset. The engine (per Wanda): the sentence forces clarity about WHO she serves, WHAT she solves, WHY it matters → that clarity overflows into everything she writes → and it makes her findable: people can't say yes to what they can't grasp, and the algorithm can't show her work to her people until her line says who it's FOR. Promise = clarity → discoverability → visibility. Her dream in her own words: *"I want to explain what I do in ONE sentence and have someone go 'oh wow, tell me more.'"*
 
 **One-line** — Say what you do in ONE clear sentence — the kind that makes the right person stop and say "tell me more." Free, in about 5 minutes.
 
-**Short (72w)** — You're good at what you do. But if your bio can't say what that IS in one clear sentence, the right people scroll past without ever knowing you're who they've been looking for. Get Off Mute fixes the sentence. A free AI tool, a few questions, about 5 minutes — and it hands back ONE clear line about what you do, in your voice, sized for every bio box you own. Clear enough that people get it. Clear enough that the algorithm finally knows who to show you to.
+**Short (72w)** — You're good at what you do. But if your bio can't say what that IS in one clear sentence, the right people scroll past without ever knowing you're who they've been praying for. Get Off Mute is a free AI one-liner fixer. Answer a few questions and in about 5 minutes — it hands you ONE clear line about what you do, in your voice, sized for every bio box you own. Clear enough that people get it. Clear enough that the algorithm finally knows who to show you to.
 
 **Long (158w)** — "It sounds wonderful… but what exactly do you do?"
 
-If you've heard any version of that — after someone read your bio, your About page, your post — you already know where the problem lives. Not in your work. In the sentence about your work.
+If you've heard any version of that — in a DM, in a comment, or face-to-face — you already know where the problem lives. It's not your work. It's the sentence about your work.
 
-And that sentence matters more than it looks. People can't say yes to what they can't grasp. The algorithm can't show your work to the right people until your words say who it's FOR. One unclear line, and you're invisible to both.
+And that sentence matters more than you'd think. People can't say yes to what they can't grasp. The algorithm can't show your work to the right people until your words say who it's FOR. One unclear line, and you're invisible to both.
 
-Get Off Mute fixes the line. It's my free AI tool. It asks you a few questions about who you serve and why it matters — then hands back ONE clear sentence about what you do. In your voice. Sized for your Instagram bio, your LinkedIn headline, your email signature — character counts and all.
+Get Off Mute fixes the line. It's my free AI tool. It asks you a few questions about who you serve and why it matters — then hands back ONE clear sentence about what you do. In your voice. Adapted for every platform you're on — character counts and all.
 
 About 5 minutes. One clear sentence. And being found stops being a mystery.
 
@@ -104,9 +109,9 @@ God didn't give you that voice to keep it on mute.
 
 **One-line** — Spin once — and know the ONE thing to fix this week, instead of the seventeen things that were never the problem. Free.
 
-**Short (63w)** — You don't need another 40-page PDF. You need somebody to point. The Visibility Wheel is a free little tool that surfaces the ONE thing standing between your work and the people praying to find it — then hands you a single next step. One spin. One answer. One faithful step.
+**Short (63w)** — You don't need another 40-page PDF. You need somebody to point. The Visibility Wheel is a free, fun little tool that surfaces the ONE thing standing between your work and the people praying to find it — then hands you a single next step. One spin. One answer. One faithful step.
 
-**Long (124w)** — Saved Reels. Downloaded freebies. A folder of PDFs you've never opened — not because you're lazy, but because every one of them asked you to fix EVERYTHING, and nobody pointed at the one thing to fix first.
+**Long (124w)** — Saved Reels. Downloaded freebies. AI prompts you've never touched — not because you're unmotivated, but because every one of them asked you to fix EVERYTHING, and nobody pointed at the one thing to fix first.
 
 The Visibility Wheel points at it. Spin it, and it names the block that's costing you yeses this week — then gives you one small next step for exactly that block. Not a strategy overhaul. Not a 12-part checklist.
 
@@ -128,11 +133,11 @@ One spin. One answer. One faithful next step.
 
 ## 4 · BEAT SELF-DOUBT, MASTER YOUR MESSAGE — free welcome gift (not marketed)
 
-**Verified truth** — 10 pages, five simple steps, one focused sitting: name the doubt → answer it with Scripture → get clear on who she serves → fill in "I help ___ ___ — because ___" → say it in ONE real place today. She walks out with one clear sentence, written and spoken, plus a verse for every doubt. Cover promise: "from stuck to one clear message that attracts the right people — and brings the yeses." Wanda personally delivers by Substack DM. Never promoted as an offer. [Audit §8A Q6 + product read]
+**Verified truth** — 10 pages, five simple steps, one focused sitting: name the doubt → answer it with Scripture → get clear on who she serves → fill in "I help ___ ___ — because ___" → say it in ONE place today — a post, an email, or a conversation. She walks out with one clear sentence, written and spoken, plus a verse for every doubt. Cover promise: "from stuck to one clear message that attracts the right people — and brings the yeses." Wanda personally delivers by Substack DM. Never promoted as an offer. [Audit §8A Q6 + product read]
 
 **One-line (welcome DM only)** — Your welcome gift — five simple steps from stuck to one clear message that attracts the right people… with a verse for every doubt along the way.
 
-**Welcome-DM copy (63w)** — So glad you're here, friend — pull up a chair. Your welcome gift is waiting: Beat Self-Doubt, Master Your Message. Five simple steps, one sitting — and you walk out with one clear sentence about what you do, plus a verse for every doubt that's been talking you out of saying it. Hit reply when something lands. (Me? Hot chocolate in hand, cheering you on.)
+**Welcome-DM copy (63w)** — So glad you're here, friend — pull up a chair. Your welcome gift is waiting: Beat Self-Doubt, Master Your Message. Five simple steps, one sitting — and you walk out with one clear sentence about what you do, plus a verse for every doubt that's been talking you out of saying it. And when your sentence is written? Hit reply and show me — I'd love to read it. (Me? Hot chocolate in hand, cheering you on.)
 
 **Usage** — DM delivery only. No public sales copy exists or should. The hot-chocolate aside is the product's own welcome-page line — first-person Wanda, always.
 
@@ -146,23 +151,23 @@ One spin. One answer. One faithful next step.
 
 **Conversion note** — Tier-2 quiz outcome, warm-to-sales (diagnosis may be named plainly). Her words: "It's technically correct but there's no SOUL in it. No me." / "It's giving robot." / "A system that makes AI sound like ME? That's worth $27 all day." The buy = her voice becomes an asset the tools obey.
 
-**One-line** — Stop sounding like a watered-down version of yourself — 15 minutes, one time, and everything you write after finally sounds like YOU. $27.
+**One-line** — 15 minutes, one time — and everything you write after finally does your expertise justice. $27.
 
-**Short (74w)** — You've felt it — the caption that's technically fine with no YOU in it. AI made it worse: twenty polished versions that sound like a mannequin wrote them. Finally Heard ends that in one sitting. Answer your Voice & Vision Blueprint once — about 15 minutes — and it becomes the page that makes every caption, bio, email, and AI draft sound like you. Ten caption templates, a bio formula, an email kit, and hooks come wired to it. $27.
+**Short (79w)** — The caption is technically fine — but with no YOU in it. And AI keeps making it worse: polished words, different every time you ask, none of them yours. Finally Heard fixes both. Answer your Voice & Vision Blueprint once — 15 minutes — and every caption, bio, email, and AI draft after gets written from it. Same voice, every time. BONUS: ten caption templates, a bio formula, an email kit, and hooks, all wired to it. $27. Answer it once. Use it every time you write.
 
-**Long (196w)** — 11:40pm. You ask ChatGPT for a bio — again — and it hands back something that sounds like a stranger describing you at a networking event. Accurate. Polished. Dead. So you rewrite it yourself, hate it, and close the laptop with nothing posted.
+**Long (203w)** — 11:40pm. You ask ChatGPT for a bio — again — and what comes back is polished, correct… and sounds nothing like you. So you rewrite it yourself, hate it, and close the laptop with nothing posted.
 
-Here's the reframe that changes everything: AI isn't erasing your voice. It never HAD it. Neither do the templates. That's why everything comes out sounding like everyone.
+AI isn't erasing your voice. It never had your voice to begin with. That's why everything comes out sounding like… definitely not you!
 
-Finally Heard hands them your voice — once. It's a guided Voice & Vision Blueprint, about 15 focused minutes: the phrases you love, the ones you'd never say, who you serve in the words THEY use — and how your faith shows up on the page, if it shows up at all. That part is your call. One page. Yours.
+Finally Heard fixes that at the source. Your Voice & Vision Blueprint takes about 15 focused minutes, once — and it captures how you actually talk, who you serve, and what you want known about your work. From then on, everything gets written FROM it — by you or by AI. Same voice. Same message. No more starting from nothing at every blank screen, and no more AI drafts that drift further from you each time you ask.
 
-Then the whole kit runs on it. Paste your Blueprint into the master prompt and AI finally follows YOU — no more arguing with a robot at midnight. Ten caption templates that turn crickets into conversations. A bio formula that makes the right person think "this is exactly what I need." An email kit. A hook cheat sheet. Tonight's post takes minutes, not hours.
+Paste your Blueprint into the master prompt, and AI finally does YOU justice. BONUS: ten caption templates, a bio formula that makes the right person think "this is exactly what I need," an email kit, and a hook cheat sheet — all wired to your Blueprint. Tonight's post takes minutes, not hours.
 
-$27 — less than the course still judging you from its dashboard. Answer it once. Sound like you everywhere. And the next DM might read: "I don't know how you knew I needed this."
+$27 — less than the course still judging you from its dashboard. Answer it once. Use it every time. And the next DM might read: "I don't know how you knew I needed this."
 
 **[Pending-yes close, do not ship]** — *Decide who you are ONCE — and stop rebuilding yourself at every blank screen.*
 
-**Soft CTA** — When you're ready for your words (and your AI) to finally sound like you, Finally Heard is $27 and one sitting.
+**Soft CTA** — When you're ready for your words (and your AI) to do your expertise justice, Finally Heard is $27 and one sitting.
 **Direct CTA** — Get Finally Heard ($27) → wandalambert.com/finally-heard
 **Existing-member CTA** — Be Seen members: Finally Heard is already in your welcome stack — complete your Voice & Vision Blueprint before the next Hot Seat and bring it.
 
