@@ -75,7 +75,7 @@ Stop guessing. Get answers. It's free.
 
 ## 2 · GET OFF MUTE — free AI tool · wandalambert.com/gom
 
-**Verified truth** — free AI tool (a GPT — never "course," never a member perk). Guided questions → ONE clear sentence (who you help + why it matters), clarity-checked against real language (it rejects buzzwords), sized per platform with live character counts. ~5 minutes. Former name Messaging Reset — retired. [Audit §4.2, §8A + GPT instructions]
+**Verified truth** — free custom GPT / AI clarity tool (never "course," never a member perk). Guided questions → ONE clear sentence covering **who she helps, the problem she solves, and the result**, then adapted per platform with live character counts. About 5 minutes. Former name Messaging Reset — retired. *(Three-part definition and the explicit "not a three-day mini-course" ruling locked by Wanda 2026-08-02 and now carried in SEND A LINK; this line previously read "who you help + why it matters," which under-described the deliverable. Copy blocks below were already consistent and are unchanged.)* [Audit §4.2, §8A + GPT instructions + WandaOS ruling 2026-08-02]
 
 **Conversion note** — cold entry (the quiz is the coldest touchpoint), highest-leverage free asset. The engine (per Wanda): the sentence forces clarity about WHO she serves, WHAT she solves, WHY it matters → that clarity overflows into everything she writes → and it makes her findable: people can't say yes to what they can't grasp, and the algorithm can't show her work to her people until her line says who it's FOR. Promise = clarity → discoverability → visibility. Her dream in her own words: *"I want to explain what I do in ONE sentence and have someone go 'oh wow, tell me more.'"*
 
