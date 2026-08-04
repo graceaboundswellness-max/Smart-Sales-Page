@@ -1,4 +1,4 @@
-# OFFER MESSAGE LIBRARY — DRAFT v0.6 — 2026-08-01
+# OFFER MESSAGE LIBRARY — DRAFT v0.7 — 2026-08-02
 
 **Status: DRAFT — pending Wanda's four gates (testimonial permissions · public traction facts · risk terms · credential facts). Nothing here is published or canonical.**
 
@@ -23,11 +23,16 @@
 8. Her buyer doesn't stop for clear or clever words — she stops when the words show she's UNDERSTOOD (her situation, her aspiration). Clarity is the delivery system for understanding, never the selling point in copy about her audience.
 9. Every verb carries its object on the page ("points" at WHAT?). "Honestly/honest" is a confirmed filler — it never modifies "questions" or "answer" again.
 10. Never assume her business is faith-facing. Chloe is a Christian woman — her copy and clients may not be. Faith-coding lives in how Wanda speaks to HER, never in promises about what her copy will contain.
-11. Wanda's typed-like-this hyphen phrases are VOICE, not clutter — never flatten "the whatever-the-algorithm-wants-this-week thing."
-12. Outcomes sell — contents don't. Never walk the reader through what's inside a product — say what it does for her. And wherever AI is involved, CONSISTENCY is a named benefit: same voice every time, never reinvented draft to draft.
-13. "Crickets" is not Wanda's word — banned in Wanda-voiced copy. (It may appear only inside a quoted real-Chloe line.)
-14. Show the move, never name it — "here's the reframe" is banned. And AI-residue phrases are retired on sight ("a stranger describing you at a networking event" came from AI-Chloe and never ships again).
-15. The FH promise ruling (2026-08-01, Fable recommendation pending Wanda's veto): the outcome is copy that DOES HER EXPERTISE JUSTICE — "in your voice" is the mechanism, stated in the body, never the headline prize.
+12. Wanda's typed-like-this hyphen phrases are VOICE, not clutter — never flatten "the whatever-the-algorithm-wants-this-week thing."
+13. Outcomes sell — contents don't. Never walk the reader through what's inside a product — say what it does for her. And wherever AI is involved, CONSISTENCY is a named benefit: same voice every time, never reinvented draft to draft.
+14. "Crickets" is not Wanda's word — banned in Wanda-voiced copy. (It may appear only inside a quoted real-Chloe line.)
+15. Show the move, never name it — "here's the reframe" is banned. And AI-residue phrases are retired on sight ("a stranger describing you at a networking event" came from AI-Chloe and never ships again).
+16. NEVER a status adjective as her main identifier — "accomplished," "successful," "high-achieving" are banned in any first line or opening clause. Call out her SITUATION, never her rank.
+17. Don't list what's inside. A features list in prime real estate is easing up on the copy — every sentence there owes her another reason to say yes, weighted toward the outcome she wants, not the pain she's in.
+18. "DONE" is not an outcome. Neither is "implemented" or "finished." Say what DONE gets her — the words work, she sends it, the right person responds.
+19. The settled audience trio (her own words, Boldly Convicted bio): **proven expertise · established offers · inconsistent income.** Not "inconsistent conversions," not "clients aren't converting."
+20. Never name the platform in a description. If she's already there, it's wasted space. If she isn't, it's a word she doesn't know or care about — and she clicks off.
+21. The FH promise ruling (2026-08-01, Fable recommendation pending Wanda's veto): the outcome is copy that DOES HER EXPERTISE JUSTICE — "in your voice" is the mechanism, stated in the body, never the headline prize.
 
 **Voice** — all copy obeys `wanda-voice` (voice-core + signature-language + faith-markers). Non-negotiables that shaped every block: faith-coded always · the do-not-use list holds (use "stuck," never the b-word) · no humor in product descriptions · promise presence and clarity, never outcomes beyond the price ("a $297 hour delivers clarity, not a transformed business") · real scarcity with a real reason only · "perfect-fit client," never ICA · Chloe's clients are mixed-gender ("the person") · Revlon first, beauty never fashion · never "just" before a price.
 
@@ -177,25 +182,27 @@ $27 — less than the course still judging you from its dashboard. Answer it onc
 
 ---
 
-## 6 · CLEAR. SEEN. CHOSEN. — free Substack · wandalambert.substack.com
+## 6 · CLEAR. SEEN. CHOSEN. — free · wandalambert.substack.com
 
 **Verified truth** — free publication — welcome gift by DM — the trust engine toward Be Seen. Positioning statement is Wanda's own (Boldly Convicted). [Audit §4.6]
 
-**Conversion note** — cold-to-warm bridge. ROOM/FEED family lives here.
+**Conversion note** — cold-to-warm bridge. ROOM/FEED family lives here. Audience trio per law 19 (proven expertise · established offers · inconsistent income). Platform never named per law 20 — "free weekly letter" carries it.
 
-**One-line** — My free Substack for the second-career Christian woman with proven expertise whose clients aren't converting — get clear, be seen, get chosen.
+**One-line** — Proven expertise, established offers… and income that swings? Every week, free — the words that make the right people choose you.
 
-**Short (69w)** — Clear. Seen. Chosen. is my free Substack for second-career Christian women with proven expertise, established offers… and not enough yeses. Every week I help you find the words that carry the full weight of what you actually know — without the internet-influencer costume. Subscribe free and your welcome gift lands in your DMs. The name is the path — get clear, be seen, get chosen.
+**Short (73w)** — You have proven expertise. Established offers. And income that's solid one month, silent the next. It's rarely the work — it's the words carrying it. Clear. Seen. Chosen. is my free weekly letter for second-career Christian women who are done being the best-kept secret in their field. Every week, the words that make your value easy to recognize — so the right person stops guessing about what you do. Subscribe free and your welcome gift comes straight to you.
 
-**Long (150w)** — You were trusted in the rooms. The boardroom. The classroom. The ministry meeting.
+**Long (196w)** — You were trusted in the rooms. The boardroom. The classroom. The ministry meeting. People asked for you by name.
 
-Then you brought decades of expertise online… and the feed scrolled right past you.
+Then you brought that same expertise online — and the feed scrolled right past you. Some months the income is solid. Then a stretch so quiet you start wondering what you're doing wrong.
 
-Clear. Seen. Chosen. is my free Substack for the second-career Christian woman with proven expertise, established offers, and inconsistent conversions — the woman whose message should carry the full weight of her authority, and doesn't yet.
+You're not doing anything wrong. The work is as good as it's ever been. The words carrying it just aren't landing yet — so the woman who's been praying for exactly what you do reads your page and can't tell it's her.
 
-Together we disarm the lie that seasoned women need to squeeze into an internet-influencer mold. Your wisdom isn't too old-school for the digital age. It's the premium.
+Clear. Seen. Chosen. is where we fix that, a little at a time, every week. Free.
 
-Inside, I write about making your value easy to recognize — truth over hype, at the pace of grace. Subscribe free and I'll send your welcome gift by DM.
+Your wisdom isn't too old-school for the digital age. It's the premium — and I'll show you how to say it that way, without squeezing yourself into an internet-influencer mold. Truth over hype. At the pace of grace.
+
+Subscribe free, and your welcome gift comes straight to you — five simple steps to one clear sentence about what you do.
 
 The name is the whole path… get clear, be seen, get chosen by the people you're called to serve.
 
@@ -213,25 +220,27 @@ The name is the whole path… get clear, be seen, get chosen by the people you'r
 
 **Verified truth** — paid tier of Clear. Seen. Chosen. Founding: $37/mo or $370/yr, first 20 members, rate locked while active. Then $47/mo or $470/yr. First 3 ANNUAL founding members: 1:1 Breakthrough Message Session ($297 value) in exchange for a documented founding case study — both halves stated, always. Monthly: 2 private Identity-First deliveries + live Hot Seat + live implementation session (2nd/4th Thursdays, noon ET) + Vault + Sisterhood + Finally Heard incl. Voice Blueprint. Seats verified 2026-07-31: 19 of 20 open. [Audit §4.7, §8A]
 
-**Conversion note** — warm only. Burial/dig language allowed HERE. Her buying rule: "I don't buy information. I buy implementation." Never promise finished copy without the with-you qualifier.
+**Conversion note** — warm only. Burial/dig language allowed HERE. Her buying rule: "I don't buy information. I buy implementation." Never promise finished copy without the with-you qualifier. Laws 16–18 govern this block: no status adjectives, no session lists in prime real estate, and DONE always carries its payoff.
 
-**One-line** — Stop marketing alone — bring the page that's getting polite likes and no buyers, get my trained eyes on it live, and leave with it DONE. Founding rate $37/month, first 20 members.
+**One-line** — Every month, trained eyes on your actual marketing — so the page that's been quiet finally brings the yeses. Founding rate $37/month, first 20 members.
 
-**Short (77w)** — Be Seen is the room where accomplished Christian women stop marketing alone. Bring the offer, page, or post that isn't getting the response your work deserves — get my trained eyes on the message in the live monthly Hot Seat — then use the implementation session to leave with it DONE, not sitting on a to-do list. Plus the Vault and a sisterhood that never asks you to translate your faith. Founding rate $37/month or $370/year — first 20 members, locked as long as you stay.
+**Short (74w)** — You've rewritten that page more times than you'll admit, and it's still quiet. In Be Seen, you bring it to me. I show you exactly where the right person loses interest — then we're in the room together while you fix it, so it doesn't land on a someday list. You send it. And you stop wondering whether your words are the problem. Founding rate $37/month or $370/year — first 20 members, locked as long as you stay.
 
-**Long (185w)** — People trust you in the room. So what are they missing on the page?
+**Long (211w)** — You've rewritten that page more times than you'll admit. Changed the headline. Moved the button. Sent it to your biz bestie, who said "looks great!"
 
-That question is the whole reason Be Seen exists. It's the live membership inside Clear. Seen. Chosen. where you bring the real thing — the offer, the email, the post that isn't getting the response you expected — and get my trained eyes on the message.
+And it's still quiet.
 
-Not more information. Trained feedback — and working sessions where you leave with it DONE, not with homework.
+Here's what's actually happening: you can't diagnose your own message from inside it. You know what you MEANT — so your brain fills in every gap on the page. The woman reading it doesn't get that. She only gets the words that are actually there.
 
-Every month — a live Message Extraction Hot Seat, a live implementation session, two private deliveries tied to the month's topic, and the Be Seen Vault holding every replay and tool. Plus the Sisterhood — the relief of asking a business question without translating your faith first.
+Be Seen is where you stop guessing alone. Every month you bring the real thing — the offer, the email, the page that isn't getting the response your work deserves — and I put trained eyes on it and show you exactly where she drifts. Then we work on it together, live, until it's fixed and sent. Not noted. Not saved for later. Sent.
 
-This isn't done-for-you copywriting, and it isn't another course. It's the room where we dig out your message together until the right people recognize what God put in you.
+Twenty years as a global brand spokesperson — Revlon first, then L'Oréal, then Lakmé — taught me where a message loses people. Every month, you get that on YOUR words.
 
-Founding rate — $37/month or $370/year, first 20 members only. As I write this, 19 of those seats are still open. The rate stays locked as long as you stay. That's not a countdown. It's just true.
+And you get a room of women who love Jesus and run real businesses — where "I prayed about this offer" is a completely normal sentence.
 
-**Soft CTA** — If you've read Clear. Seen. Chosen. thinking "I wish she'd look at MY page"… that's literally what Be Seen is.
+Founding rate — $37/month or $370/year, first 20 members only. Nineteen of those seats are still open as I write this. Your rate stays locked as long as you stay.
+
+**Soft CTA** — If you've ever wished someone would look at YOUR page and tell you what's actually wrong — that's the whole point of Be Seen.
 **Direct CTA** — Join Be Seen — founding rate $37/month → wandalambert.substack.com/p/join-be-seen
 **Existing-member CTA** — Bring your messiest draft to this month's Hot Seat. The messier, the better.
 
