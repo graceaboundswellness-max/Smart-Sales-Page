@@ -23,7 +23,7 @@
 8. Her buyer doesn't stop for clear or clever words — she stops when the words show she's UNDERSTOOD (her situation, her aspiration). Clarity is the delivery system for understanding, never the selling point in copy about her audience.
 9. Every verb carries its object on the page ("points" at WHAT?). "Honestly/honest" is a confirmed filler — it never modifies "questions" or "answer" again.
 10. Never assume her business is faith-facing. Chloe is a Christian woman — her copy and clients may not be. Faith-coding lives in how Wanda speaks to HER, never in promises about what her copy will contain.
-12. Wanda's typed-like-this hyphen phrases are VOICE, not clutter — never flatten "the whatever-the-algorithm-wants-this-week thing."
+11. Wanda's typed-like-this hyphen phrases are VOICE, not clutter — never flatten "the whatever-the-algorithm-wants-this-week thing."
 13. Outcomes sell — contents don't. Never walk the reader through what's inside a product — say what it does for her. And wherever AI is involved, CONSISTENCY is a named benefit: same voice every time, never reinvented draft to draft.
 14. "Crickets" is not Wanda's word — banned in Wanda-voiced copy. (It may appear only inside a quoted real-Chloe line.)
 15. Show the move, never name it — "here's the reframe" is banned. And AI-residue phrases are retired on sight ("a stranger describing you at a networking event" came from AI-Chloe and never ships again).
