@@ -24,15 +24,15 @@
 9. Every verb carries its object on the page ("points" at WHAT?). "Honestly/honest" is a confirmed filler — it never modifies "questions" or "answer" again.
 10. Never assume her business is faith-facing. Chloe is a Christian woman — her copy and clients may not be. Faith-coding lives in how Wanda speaks to HER, never in promises about what her copy will contain.
 11. Wanda's typed-like-this hyphen phrases are VOICE, not clutter — never flatten "the whatever-the-algorithm-wants-this-week thing."
-13. Outcomes sell — contents don't. Never walk the reader through what's inside a product — say what it does for her. And wherever AI is involved, CONSISTENCY is a named benefit: same voice every time, never reinvented draft to draft.
-14. "Crickets" is not Wanda's word — banned in Wanda-voiced copy. (It may appear only inside a quoted real-Chloe line.)
-15. Show the move, never name it — "here's the reframe" is banned. And AI-residue phrases are retired on sight ("a stranger describing you at a networking event" came from AI-Chloe and never ships again).
-16. NEVER a status adjective as her main identifier — "accomplished," "successful," "high-achieving" are banned in any first line or opening clause. Call out her SITUATION, never her rank.
-17. Don't list what's inside. A features list in prime real estate is easing up on the copy — every sentence there owes her another reason to say yes, weighted toward the outcome she wants, not the pain she's in.
-18. "DONE" is not an outcome. Neither is "implemented" or "finished." Say what DONE gets her — the words work, she sends it, the right person responds.
-19. The settled audience trio (her own words, Boldly Convicted bio): **proven expertise · established offers · inconsistent income.** Not "inconsistent conversions," not "clients aren't converting."
-20. Never name the platform in a description. If she's already there, it's wasted space. If she isn't, it's a word she doesn't know or care about — and she clicks off.
-21. The FH promise ruling (2026-08-01, Fable recommendation pending Wanda's veto): the outcome is copy that DOES HER EXPERTISE JUSTICE — "in your voice" is the mechanism, stated in the body, never the headline prize.
+12. Outcomes sell — contents don't. Never walk the reader through what's inside a product — say what it does for her. And wherever AI is involved, CONSISTENCY is a named benefit: same voice every time, never reinvented draft to draft.
+13. "Crickets" is not Wanda's word — banned in Wanda-voiced copy. (It may appear only inside a quoted real-Chloe line.)
+14. Show the move, never name it — "here's the reframe" is banned. And AI-residue phrases are retired on sight ("a stranger describing you at a networking event" came from AI-Chloe and never ships again).
+15. NEVER a status adjective as her main identifier — "accomplished," "successful," "high-achieving" are banned in any first line or opening clause. Call out her SITUATION, never her rank.
+16. Don't list what's inside. A features list in prime real estate is easing up on the copy — every sentence there owes her another reason to say yes, weighted toward the outcome she wants, not the pain she's in.
+17. "DONE" is not an outcome. Neither is "implemented" or "finished." Say what DONE gets her — the words work, she sends it, the right person responds.
+18. The settled audience trio (her own words, Boldly Convicted bio): **proven expertise · established offers · inconsistent income.** Not "inconsistent conversions," not "clients aren't converting."
+19. Never name the platform in a description. If she's already there, it's wasted space. If she isn't, it's a word she doesn't know or care about — and she clicks off.
+20. The FH promise ruling (2026-08-01, Fable recommendation pending Wanda's veto): the outcome is copy that DOES HER EXPERTISE JUSTICE — "in your voice" is the mechanism, stated in the body, never the headline prize.
 
 **Voice** — all copy obeys `wanda-voice` (voice-core + signature-language + faith-markers). Non-negotiables that shaped every block: faith-coded always · the do-not-use list holds (use "stuck," never the b-word) · no humor in product descriptions · promise presence and clarity, never outcomes beyond the price ("a $297 hour delivers clarity, not a transformed business") · real scarcity with a real reason only · "perfect-fit client," never ICA · Chloe's clients are mixed-gender ("the person") · Revlon first, beauty never fashion · never "just" before a price.
 
@@ -186,7 +186,7 @@ $27 — less than the course still judging you from its dashboard. Answer it onc
 
 **Verified truth** — free publication — welcome gift by DM — the trust engine toward Be Seen. Positioning statement is Wanda's own (Boldly Convicted). [Audit §4.6]
 
-**Conversion note** — cold-to-warm bridge. ROOM/FEED family lives here. Audience trio per law 19 (proven expertise · established offers · inconsistent income). Platform never named per law 20 — "free weekly letter" carries it.
+**Conversion note** — cold-to-warm bridge. ROOM/FEED family lives here. Audience trio per law 18 (proven expertise · established offers · inconsistent income). Platform never named per law 19 — "free weekly letter" carries it.
 
 **One-line** — Proven expertise, established offers… and income that swings? Every week, free — the words that make the right people choose you.
 
@@ -220,7 +220,7 @@ The name is the whole path… get clear, be seen, get chosen by the people you'r
 
 **Verified truth** — paid tier of Clear. Seen. Chosen. Founding: $37/mo or $370/yr, first 20 members, rate locked while active. Then $47/mo or $470/yr. First 3 ANNUAL founding members: 1:1 Breakthrough Message Session ($297 value) in exchange for a documented founding case study — both halves stated, always. Monthly: 2 private Identity-First deliveries + live Hot Seat + live implementation session (2nd/4th Thursdays, noon ET) + Vault + Sisterhood + Finally Heard incl. Voice Blueprint. Seats verified 2026-07-31: 19 of 20 open. [Audit §4.7, §8A]
 
-**Conversion note** — warm only. Burial/dig language allowed HERE. Her buying rule: "I don't buy information. I buy implementation." Never promise finished copy without the with-you qualifier. Laws 16–18 govern this block: no status adjectives, no session lists in prime real estate, and DONE always carries its payoff.
+**Conversion note** — warm only. Burial/dig language allowed HERE. Her buying rule: "I don't buy information. I buy implementation." Never promise finished copy without the with-you qualifier. Laws 15–17 govern this block: no status adjectives, no session lists in prime real estate, and DONE always carries its payoff.
 
 **One-line** — Every month, trained eyes on your actual marketing — so the page that's been quiet finally brings the yeses. Founding rate $37/month, first 20 members.
 
