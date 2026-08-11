@@ -1,0 +1,17 @@
+{
+  "skill_name": "yt-to-blog",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "ok here's the script from the video i filmed last week about the template thing. repurpose this into the blog post please. The script file is at /tmp/claude-0/-home-user-Smart-Sales-Page/ec1db0c4-d4c4-5d0f-a05b-e935bb553382/scratchpad/yt-to-blog-workspace/fixtures/template-fatigue-script.md",
+      "expected_output": "A publish-ready blog post following the canonical template: paste-ready body (Section A) with 40-60 word direct answer, Key Takeaways, question H2s, extractable structures, FAQ, one quiet CTA only if the live offer sheet was quoted; internal record (Section B) with metadata, image blocks, checked checklist, OFFER SOURCE quote or explicit gap flag, and 3-7 Research Receipts. No retired offers, no invented prices, no audience age in copy.",
+      "files": ["/tmp/claude-0/-home-user-Smart-Sales-Page/ec1db0c4-d4c4-5d0f-a05b-e935bb553382/scratchpad/yt-to-blog-workspace/fixtures/template-fatigue-script.md"]
+    },
+    {
+      "id": 1,
+      "prompt": "I downloaded the captions file from youtube for my brand voice video — it's at /tmp/claude-0/-home-user-Smart-Sales-Page/ec1db0c4-d4c4-5d0f-a05b-e935bb553382/scratchpad/yt-to-blog-workspace/fixtures/voice-recovery-captions.vtt. can you turn it into a blog post",
+      "expected_output": "Same publish-ready structure as eval 0, built from the .vtt with timestamps/speaker tags stripped, matched to the brand-voice-recovery territory (RECOVER not construct), story kept under 300 words after the practical content, honest-limits section preserved from the script's own caveat.",
+      "files": ["/tmp/claude-0/-home-user-Smart-Sales-Page/ec1db0c4-d4c4-5d0f-a05b-e935bb553382/scratchpad/yt-to-blog-workspace/fixtures/voice-recovery-captions.vtt"]
+    }
+  ]
+}

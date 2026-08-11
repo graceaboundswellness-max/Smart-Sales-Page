@@ -54,8 +54,6 @@ A complete 40–60 word answer to the AEO question, before any story or setup. M
 
 Each bullet is a distinct, standalone claim from the post — not a teaser, not the same point restated five ways. Specific numbers where they exist. If a bullet can't survive being quoted alone, out of context, rewrite it until it can. Bullet lists are a second extraction surface — AI answers lift them more readily than prose.
 
-Set this block's heading as an **H3** (or a styled label), not an H2 — so the every-H2-is-a-question rule stays clean. (Wording tension surfaced by skill testing 2026-08-11.)
-
 ## 4 · The Mirror (2–4 short paragraphs)
 
 Her exact situation in her symptom words — she searches "why isn't anyone buying," not "brand messaging help." **Word-choice rule (Wanda ruling 2026-07-30): "messaging" is NOT globally banned.** Default to symptom language in cold-reader sections because it mirrors her search behavior; use "messaging" where it reads naturally. No throat-clearing.
@@ -83,7 +81,7 @@ What this won't fix / when it doesn't apply. Truth Over Hype made structural; pr
 
 ## 9 · FAQ (3–5 questions) — visible on the page
 
-Phrase the on-page FAQ heading itself as a question (e.g., "Still have questions about [topic]?" or "What else do women ask about [topic]?") — it's an H2, so the H2 rule applies to it too. Verbatim-phrased territory questions; each answer 2–4 sentences, standalone. **The visible FAQ does the AEO work — the schema was never the mechanism** (FAQPage rich results removed May 7, 2026; markup is harmless but optional). No special markup is required for AI Overviews — only that structured data match visible text.
+Verbatim-phrased territory questions; each answer 2–4 sentences, standalone. **The visible FAQ does the AEO work — the schema was never the mechanism** (FAQPage rich results removed May 7, 2026; markup is harmless but optional). No special markup is required for AI Overviews — only that structured data match visible text.
 
 ## 10 · CTA (one, quiet)
 
@@ -157,7 +155,7 @@ Bold **4 things max** per post. No highlighter. Dividers 1–3 total, not betwee
 - [ ] Phase 0 done: asset job named, keyword from demand, SERP checked (owner/intent/gap), CTA one step away
 - [ ] Direct answer in first 3 sentences, standalone and quotable
 - [ ] Key Takeaways: 3–5 bullets under the direct answer, each a distinct standalone claim
-- [ ] Every H2 is a typed question and opens with a mini-answer (the FAQ heading included; Key Takeaways rides as an H3)
+- [ ] Every H2 is a typed question and opens with a mini-answer
 - [ ] ≥2 extractable structures (table/checklist/numbered process/framework)
 - [ ] Story ≤300 words, after the practical content (ranking assets)
 - [ ] Symptom language leads the cold-reader sections ("messaging" allowed elsewhere — 2026-07-30 ruling, no global ban)
