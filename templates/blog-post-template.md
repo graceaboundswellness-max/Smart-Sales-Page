@@ -2,7 +2,7 @@
 
 Built from two sources: the cross-territory playbook in `research/open-lanes.md` (July 2026 SERP research) and the lessons from Wanda's first published post (`templates/publishing-playbook.md`, July 28, 2026). Where the two disagreed, the playbook won — it came from a live publish.
 
-Amended 2026-08-11 after a side-by-side against an external GEO/AEO article skill — four elements grafted in: the Key Takeaways block (§3), claim-level reuse and outbound citations (§6), and the cut pass (§14). Input routing from the same comparison went to `yt-to-blog-project-instructions.md` Step 0.
+Amended 2026-08-11 after a side-by-side against an external GEO/AEO article skill — four elements grafted in: the Key Takeaways block (§3), claim-level reuse and outbound citations (§6), and the cut pass (§14). Input routing from the same comparison went to `yt-to-blog-project-instructions.md` Step 0. Same day: three keepers salvaged from the retired Oct 2025 "Blog Post Template 2025 SEO GEO AIO" Doc before its deletion — the YouTube embed rule (§12), affiliate-link tagging (§14), and site-level linking habits (playbook Phase 5).
 
 Optimizes four surfaces at once:
 - **SEO** — classic ranking (title match, structure, freshness, E-E-A-T)
@@ -110,6 +110,8 @@ Alt text:        [describes the image content, works keyword in naturally, ≤12
 
 Cover image is required; 1–2 in-post informational graphics max.
 
+**YouTube embed (the source video):** embed the video near the top of the post — after the Mirror or the first core-teaching H2 — with a 2–3 sentence summary of the video directly beneath it. Use an HTML block in GHL (gotcha: the block's label renders as visible text — leave it blank). Then close the loop the other way: the live blog URL goes into the video's YouTube description (tracker field "Blog link → YT description"). *(Salvaged from the retired Oct 2025 template, 2026-08-11.)*
+
 ## 13 · Schema — Article + Person, at the BLOG level (not the post body)
 
 GHL sanitizes script tags in the post body (`&lt;script&gt;` = text Google ignores) — schema goes at blog level. **Skip HowTo entirely** (rich results removed Sept 2023). FAQPage optional/harmless. What matters:
@@ -142,7 +144,7 @@ Fill knowable fields (`datePublished`, `sameAs`, socials are knowable — omitti
 
 ## 14 · Formatting discipline
 
-Bold **4 things max** per post. No highlighter. Dividers 1–3 total, not between every H2. 2–4 internal links to pillar posts, descriptive anchors.
+Bold **4 things max** per post. No highlighter. Dividers 1–3 total, not between every H2. 2–4 internal links to pillar posts, descriptive anchors. Any affiliate or monetized link gets `rel="sponsored"`.
 
 **The cut pass — run it before the checklist.** Delete: section openers that restate their heading, "as I mentioned" callbacks, recaps that re-list every rule, hedge padding. The 1,800–3,000 range is not a quota — nothing survives that exists only to reach word count.
 
@@ -165,6 +167,7 @@ Bold **4 things max** per post. No highlighter. Dividers 1–3 total, not betwee
 - [ ] SEO title 50–60 chars; meta description 150–160 with the answer in it
 - [ ] Visible FAQ present; schema = Article + Person, blog-level, no placeholders, matches visible text
 - [ ] Image block complete for every image: concept prompt (no colors/style) + context + size + filename + alt text
+- [ ] YouTube embed near the top with a 2–3 sentence video summary (when a source video exists)
 - [ ] CTA quotes the offers file (verbatim source shown in receipts)
 - [ ] Claims check against `research/positioning.md`; facts check against canonical-facts table in the playbook
 - [ ] **Research Receipts block appended** (3–7 lines: finding → decision)

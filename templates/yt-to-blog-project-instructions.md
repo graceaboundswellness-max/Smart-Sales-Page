@@ -77,7 +77,8 @@ AFTER YOU PUBLISH — do these while the tab is still open:
 2. Bing Webmaster Tools → URL Submission → paste the live URL
    (Bing feeds ChatGPT and Copilot answers — this IS the GEO step, don't skip it)
 3. Confirm the Blog link is in the site nav and the new post appears on the blog index page
-4. Paste the LOG ROW below into the content tracker
+4. Edit ONE older related post to add a link to this new post (descriptive anchor — never "click here")
+5. Paste the LOG ROW below into the content tracker
 ```
 
 **Closing block 2 — TRACKER FIELDS (always append).** The canonical tracker is the **CONTENT TRACKER** tab of the *Ultimate Content Workflow* sheet. Do NOT invent a row format — output the values for ITS columns, labeled, so Wanda pastes them into the existing structure:
