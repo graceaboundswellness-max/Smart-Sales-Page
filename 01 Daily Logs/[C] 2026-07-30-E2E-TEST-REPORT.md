@@ -38,7 +38,7 @@ Earlier same-session hook tests (5 cases) also on record: invented finding block
 ## Canon fixes applied before merge (Wanda rulings, 2026-07-30)
 
 - **Age stays internal:** "55–65" (or any query-age) never appears in copy or titles without Wanda's explicit Phase 0 approval. Applied to: template title rules + checklist, project instructions, auditor check 5, content-topics rule 0.
-- **"Messaging" is not globally banned:** symptom language leads cold-reader sections; the word is allowed where natural. Applied to: template §3 + checklist, project instructions, auditor check 5, playbook (amended with strikethrough, history preserved).
+- **"Messaging" is not globally banned:** symptom language leads cold-reader sections; the word is allowed where natural. Applied to: template §3 + checklist, project instructions, auditor check 5, playbook (amended with strikethrough, history preserved). *(Template §3 was The Mirror when this was written; renumbered to §4 on 2026-08-11 when Key Takeaways became §3.)*
 - Also previously fixed this session: "at 29" → December 1999 (canon), publish-strip Section A/B split, retracted unverified bot-block claim, enforcement boundary stated in CLAUDE.md.
 
 ## Recommendation
