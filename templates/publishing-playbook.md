@@ -157,6 +157,8 @@ GHL sanitizes script tags there — becomes `&lt;script&gt;`, text *about* a scr
 - **Paste the post's LOG ROW into the content tracker** (the writing project outputs it with every draft)
 - Delete any placeholder blogs
 - Link to the post from your About page
+- **Link the new post FROM one older related post** (edit the old post, descriptive anchor — never "click here"). Nothing sits orphaned, older posts pass authority forward, and every important page stays within two clicks of the homepage. *(Salvaged from the retired Oct 2025 template, 2026-08-11.)*
+- **Sitemap — one-time check, not per-post:** confirm GHL's XML sitemap is submitted in Search Console; re-verify only if the blog's structure changes
 - **Blog must be in the site nav menu** (discovered 2026-07-30: posts were live with no nav path to them — invisible to visitors AND to crawlers following internal links). ⚠️ **CORRECTED 2026-08-02 — nav link target is `https://blog.wandalambert.com/blog` (the index), NOT the bare subdomain**, which LINKS HQ — CURRENT verified returns 404. Posts sit at `/post/<slug>`. Verify the link resolves after any header edit.
 
 ---
