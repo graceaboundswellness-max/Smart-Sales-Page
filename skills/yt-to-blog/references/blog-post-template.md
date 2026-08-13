@@ -2,7 +2,7 @@
 
 Built from two sources: the cross-territory playbook in `research/open-lanes.md` (July 2026 SERP research) and the lessons from Wanda's first published post (`templates/publishing-playbook.md`, July 28, 2026). Where the two disagreed, the playbook won — it came from a live publish.
 
-Amended 2026-08-11 after a side-by-side against an external GEO/AEO article skill — four elements grafted in: the Key Takeaways block (§3), claim-level reuse and outbound citations (§6), and the cut pass (§14). Input routing from the same comparison went to `yt-to-blog-project-instructions.md` Step 0. Same day: three keepers salvaged from the retired Oct 2025 "Blog Post Template 2025 SEO GEO AIO" Doc before its deletion — the YouTube embed rule (§12), affiliate-link tagging (§14), and site-level linking habits (playbook Phase 5).
+Amended 2026-08-11 after a side-by-side against an external GEO/AEO article skill — four elements grafted in: the Key Takeaways block (§3), claim-level reuse and outbound citations (§6), and the cut pass (§14). Input routing from the same comparison went to `yt-to-blog-project-instructions.md` Step 0. Same day: three keepers salvaged from the retired Oct 2025 "Blog Post Template 2025 SEO GEO AIO" Doc before its deletion — the YouTube embed rule (§12), affiliate-link tagging (§14), and site-level linking habits (playbook Phase 5). Also 2026-08-11: answer-object image rules and the minimal-text cover correction from Wanda's image/AI-search research (§12), plus the comparison-table preference (§6).
 
 Optimizes four surfaces at once:
 - **SEO** — classic ranking (title match, structure, freshness, E-E-A-T)
@@ -54,6 +54,8 @@ A complete 40–60 word answer to the AEO question, before any story or setup. M
 
 Each bullet is a distinct, standalone claim from the post — not a teaser, not the same point restated five ways. Specific numbers where they exist. If a bullet can't survive being quoted alone, out of context, rewrite it until it can. Bullet lists are a second extraction surface — AI answers lift them more readily than prose.
 
+Set this block's heading as an **H3** (or a styled label), not an H2 — so the every-H2-is-a-question rule stays clean. (Wording tension surfaced by skill testing 2026-08-11.)
+
 ## 4 · The Mirror (2–4 short paragraphs)
 
 Her exact situation in her symptom words — she searches "why isn't anyone buying," not "brand messaging help." **Word-choice rule (Wanda ruling 2026-07-30): "messaging" is NOT globally banned.** Default to symptom language in cold-reader sections because it mirrors her search behavior; use "messaging" where it reads naturally. No throat-clearing.
@@ -65,7 +67,7 @@ Name what she's already tried/read and say precisely why it didn't work — cont
 ## 6 · The Core Teaching (2–4 question-shaped H2s)
 
 - Each H2 = a question a searcher would type. Each opens with a 1–2 sentence direct answer, then teaches in voice.
-- **Include at least TWO extractable structures across the post**: tables, checklists, numbered processes, decision frameworks. These are what AI answers pull; prose alone rarely is.
+- **Include at least TWO extractable structures across the post**: tables, checklists, numbered processes, decision frameworks. These are what AI answers pull; prose alone rarely is. Where the topic has a natural comparison, make one of them a comparison table — comparison-shaped content shows the strongest measured association with being pulled into AI answers (2026 cross-platform study; association, not causation).
 - Specific numbers over vague claims. Named framework used consistently (named frameworks get cited).
 - Finished words in the reader's mouth where possible (an actual one-liner, an actual rewritten sentence).
 - **Claim-level reuse:** every non-obvious claim sits in a self-contained 2–4 sentence paragraph with its measurement, scope, and source named in the same chunk. AI engines quote chunks, not pages — a claim that leans on the previous paragraph doesn't travel. This works alongside the extractable structures, not instead of them.
@@ -81,7 +83,7 @@ What this won't fix / when it doesn't apply. Truth Over Hype made structural; pr
 
 ## 9 · FAQ (3–5 questions) — visible on the page
 
-Verbatim-phrased territory questions; each answer 2–4 sentences, standalone. **The visible FAQ does the AEO work — the schema was never the mechanism** (FAQPage rich results removed May 7, 2026; markup is harmless but optional). No special markup is required for AI Overviews — only that structured data match visible text.
+Phrase the on-page FAQ heading itself as a question (e.g., "Still have questions about [topic]?" or "What else do women ask about [topic]?") — it's an H2, so the H2 rule applies to it too. Verbatim-phrased territory questions; each answer 2–4 sentences, standalone. **The visible FAQ does the AEO work — the schema was never the mechanism** (FAQPage rich results removed May 7, 2026; markup is harmless but optional). No special markup is required for AI Overviews — only that structured data match visible text.
 
 ## 10 · CTA (one, quiet)
 
@@ -95,6 +97,13 @@ Named author, 2–3 sentence bio with load-bearing credentials, real photo, visi
 
 **Informational > decorative.** A formula graphic or comparison table gets pulled into image search and AI cards; a stock laptop photo just slows the page. Text in images: the image GPT handles type well (proven live 2026-07-30) — send everything to it first; Canva is the fallback only if type comes out wrong.
 
+**The answer object (Wanda's image/AI-search research, 2026-08-11).** For posts built on steps, frameworks, processes, diagnostics, comparisons, formulas, or checklists — most ranking assets — one in-post graphic is a single comprehensive infographic showing the COMPLETE idea in one visual. Production principle: *blog article = searchable text explanation + one visually complete "answer object."* Two hard rules travel with it:
+
+- **The text never depends on the pixels.** Every substantive step in the graphic must also exist as HTML text near it — the §6 extractable structures already do this job; the graphic packages them, never replaces them. Google reads alt text, surrounding copy, captions, and (less so) filenames to understand images — give it all of them.
+- **The cover and the infographic have different jobs.** Google advises AGAINST text-heavy images as the social/OG preview — and the cover doubles as the OG image here. Cover = clean visual, minimal words (a short title phrase at most, or none). Infographic = the text-dense answer object, inline only, never promoted to the preview slot.
+
+Evidence, stated honestly: a 2026 cross-platform study associates comparison-shaped content with ~55% higher influence in AI answers and how-to content with ~41% (descriptive, not causal); a 2026 preprint measured +17.3% citation rate from structural optimization. Nobody has shown "one infographic ranks better" causally — the answer object is a production rule, not a ranking promise.
+
 For EACH image, the draft must deliver this block:
 
 ```
@@ -106,7 +115,10 @@ Context:         [attach/paste the post section this image supports, so the
 Size:            [cover: 1200×630px (doubles as social share) · in-post: 1200px wide]
 File name:       lowercase-hyphens-with-keyword.webp   (never IMG_4471.png; WebP ≈ ⅓ PNG size, speed is a ranking factor)
 Alt text:        [describes the image content, works keyword in naturally, ≤125 chars]
+Caption:         [in-post infographics only: one line under the graphic, keyword natural — captions are one of the signals Google reads]
 ```
+
+Cover concept prompts specify minimal or no words (the different-jobs rule above). In-post infographic prompts carry the complete framework text. In GHL, insert images through the editor so they land as standard crawlable `<img>` elements — never as background styling.
 
 Cover image is required; 1–2 in-post informational graphics max.
 
@@ -155,7 +167,7 @@ Bold **4 things max** per post. No highlighter. Dividers 1–3 total, not betwee
 - [ ] Phase 0 done: asset job named, keyword from demand, SERP checked (owner/intent/gap), CTA one step away
 - [ ] Direct answer in first 3 sentences, standalone and quotable
 - [ ] Key Takeaways: 3–5 bullets under the direct answer, each a distinct standalone claim
-- [ ] Every H2 is a typed question and opens with a mini-answer
+- [ ] Every H2 is a typed question and opens with a mini-answer (the FAQ heading included; Key Takeaways rides as an H3)
 - [ ] ≥2 extractable structures (table/checklist/numbered process/framework)
 - [ ] Story ≤300 words, after the practical content (ranking assets)
 - [ ] Symptom language leads the cold-reader sections ("messaging" allowed elsewhere — 2026-07-30 ruling, no global ban)
@@ -166,7 +178,9 @@ Bold **4 things max** per post. No highlighter. Dividers 1–3 total, not betwee
 - [ ] Bold ≤4, dividers ≤3, no highlighter
 - [ ] SEO title 50–60 chars; meta description 150–160 with the answer in it
 - [ ] Visible FAQ present; schema = Article + Person, blog-level, no placeholders, matches visible text
-- [ ] Image block complete for every image: concept prompt (no colors/style) + context + size + filename + alt text
+- [ ] Image block complete for every image: concept prompt (no colors/style) + context + size + filename + alt text (+ caption for in-post infographics)
+- [ ] Answer object: posts built on steps/frameworks/comparisons/checklists have ONE complete-concept inline infographic, and every lesson in it also exists as body text
+- [ ] Cover is minimal-text (it doubles as the OG/social preview — no dense sentences on it)
 - [ ] YouTube embed near the top with a 2–3 sentence video summary (when a source video exists)
 - [ ] CTA quotes the offers file (verbatim source shown in receipts)
 - [ ] Claims check against `research/positioning.md`; facts check against canonical-facts table in the playbook
