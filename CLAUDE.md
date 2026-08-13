@@ -31,7 +31,7 @@ Every draft handed to Wanda MUST end with a block like this:
 
 **What is mechanically enforced vs. trusted — exact boundary, do not oversell it:**
 
-A Stop hook (`.claude/settings.json` → `scripts/check-deliverables.sh`) runs outside the model and blocks the session from ending unless every `deliverables/*.md`: (a) has a receipts block, (b) contains ≥3 citations shaped `[file.md → finding]`, and (c) **every cited finding text actually appears in the cited file** — a receipt citing a nonexistent file or an invented finding blocks the session. This kills silent skips and fabricated citations.
+A Stop hook (`.claude/settings.json` → `scripts/check-deliverables.sh`) runs outside the model and blocks the session from ending unless every `deliverables/*.md`: (a) has a receipts block, (b) contains ≥3 citations shaped `[file.md → finding]`, (c) **every cited finding text actually appears in the cited file** — a receipt citing a nonexistent file or an invented finding blocks the session — and (d) if the file is a blog draft (contains a `PASTE-READY BODY` marker), it also passes `skills/yt-to-blog/scripts/check_draft.py`: clean publish body, 40–60-word direct answer, question-shaped H2s, Key Takeaways as H3, visible FAQ, 3–7 receipts, no retired offer strings, no price without an OFFER SOURCE block, no audience-age label. This kills silent skips and fabricated citations.
 
 **Verified limits of the hook (adversarially tested 2026-08-02 — do not describe it as stronger than this):**
 - `[no-research]` appearing anywhere in the file bypasses the whole check, and the code does **not** require a reason even though this rule asks for one.
@@ -40,7 +40,8 @@ A Stop hook (`.claude/settings.json` → `scripts/check-deliverables.sh`) runs o
 - Cited files also resolve at the repo root, not only `research/` and `templates/`.
 - Only `deliverables/*.md` is gated — other file types bypass entirely.
 - It fails **open** (exit 127, non-blocking) if `$CLAUDE_PROJECT_DIR` is ever unset.
-- It contains **no** offer, price, or retired-product checks. Nothing stops a fabricated offer claim; that is the auditor's and Wanda's job.
+- Offer/price checking is **string-level and blog-draft-only**. Non-blog deliverables get no offer checks at all. Even on blog drafts, the checker proves a price has *an* OFFER SOURCE block somewhere in the file and that known retired names don't appear — it cannot tell whether the quoted row is the CURRENT one, or whether the quote matches the live sheet. Verifying that a quoted offer is real remains the auditor's and Wanda's job.
+- The shape checks are skipped, not failed, if `python3` or the checker file is missing — a missing tool never masquerades as a passing draft, but it doesn't block unrelated work either.
 
 The hook does NOT prove the finding truly drove the decision, or that the draft is good. Those are verified by (1) the draft-auditor pass (`templates/draft-auditor-instructions.md`), which checks each receipt's decision-claim against the draft, and (2) Wanda reading it. Receipts are falsifiable claims, not proof — treat any statement that the system "guarantees research was used" as overselling.
 
@@ -60,7 +61,8 @@ If a draft's angle, claim, or positioning contradicts the research (e.g., leadin
 ## Folder map
 
 - `research/` — distilled research digests (index, positioning, competitors, open lanes, content topics)
-- `templates/` — blog template, YT→blog project instructions, publishing playbook, draft auditor
+- `templates/` — blog template, YT→blog workflow, publishing playbook, draft auditor
+- `skills/` — installable skills (`yt-to-blog`): SKILL.md routes → `references/` hold the blueprints → `scripts/` hold the mechanical checks
 - `deliverables/` — finished drafts only (receipts-gated by the Stop hook)
 - `scripts/` — enforcement scripts (`check-deliverables.sh`)
 - `01 Daily Logs/` — end-of-day session handoff notes
