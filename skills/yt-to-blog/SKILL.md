@@ -40,7 +40,7 @@ If the `wanda-voice` skill is installed, apply it for register and phrasing. Eit
 
 Heading discipline: **every H2 in the body reads as a question, including the FAQ heading** (e.g., "What else do women ask about [topic]?" or "Still have questions about [topic]?"). Keep the Key Takeaways block heading as an H3 under the direct answer, not an H2 — the H2 rule stays clean and the takeaways still extract.
 
-**Step 5 — Image blocks.** For every image (cover required, 1–2 in-post informational graphics max): concept prompt (the concept + required words — NOTHING about colors/fonts/style), context (the section it supports), size (cover 1200×630 / in-post 1200px wide), file name (`lowercase-hyphens-with-keyword.webp`), alt text (≤125 chars, keyword natural).
+**Step 5 — Image blocks.** For every image (cover required, 1–2 in-post informational graphics max): concept prompt (NOTHING about colors/fonts/style), context (the section it supports), size (cover 1200×630 / in-post 1200px wide), file name (`lowercase-hyphens-with-keyword.webp`), alt text (≤125 chars, keyword natural), and a one-line caption for in-post infographics. For posts built on steps, frameworks, comparisons, or checklists, one in-post graphic is the **answer object**: a single comprehensive infographic showing the complete idea in one visual. Two rules travel with it: every lesson in the graphic must also exist as body text near it (a reader or crawler never recovers the lesson from pixels), and the **cover stays minimal-text** — it doubles as the social/OG preview, and Google advises against text-heavy preview images. The infographic is inline only, never the preview.
 
 **Step 6 — Run the pre-publish checklist** from the template. Show it checked. Fix failures before presenting.
 

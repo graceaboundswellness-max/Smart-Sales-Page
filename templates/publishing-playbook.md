@@ -179,6 +179,7 @@ GHL sanitizes script tags there — becomes `&lt;script&gt;`, text *about* a scr
 | Keywords field | Comma-separated single paste works ✅ |
 | Categories | Have their own slug, description, and canonical |
 | Meta keywords | Dead since 2009. Skip it |
+| Image insertion | Through the editor → standard crawlable `<img>`, never background styling. Alt + caption + surrounding copy carry the meaning — pixels are never the only copy of a lesson (2026-08-11 image/AI-search research) |
 
 ---
 
