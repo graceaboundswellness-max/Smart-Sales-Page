@@ -40,7 +40,7 @@ The failure mode this section exists to prevent (named 2026-08-13): topics lived
 |---|---|
 | Sessions in this repo | CLAUDE.md Rule 1 already forces loading this file before content work. |
 | `yt-to-blog` skill | Carries a snapshot in `skills/yt-to-blog/references/` and prefers the live repo copy when available. Refresh the snapshot whenever this file changes. |
-| Claude Projects / custom GPTs | This file is uploaded to Project knowledge per `templates/yt-to-blog-project-instructions.md`. Snapshots go stale silently — re-upload when the queue changes. |
+| Claude Projects / custom GPTs | This file is uploaded to Project knowledge per `templates/yt-to-blog-workflow.md`. Snapshots go stale silently — re-upload when the queue changes. |
 | Planning skills (`daily-content-interview`, `youtube-slide-deck-planner`, `substack-article-optimizer`, etc.) | Paste the rule below into each skill's instructions (one-time, Wanda's hand — skills live in claude.ai, not this repo). |
 | Ultimate Content Workflow sheet (CONTENT TRACKER tab) | Stays the publish LOG, never a second queue. On publish: paste the tracker row there AND flip the status row here, same session. |
 

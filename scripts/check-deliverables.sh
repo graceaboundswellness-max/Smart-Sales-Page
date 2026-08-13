@@ -8,6 +8,10 @@
 #   3. Every cited file exists in research/ or templates/, and the cited
 #      finding text actually appears in that file — a receipt citing a
 #      finding that does not exist in the source blocks the session.
+#   4. Blog drafts (any deliverable containing a PASTE-READY BODY marker)
+#      additionally pass scripts/check_draft.py — deterministic shape checks
+#      (clean publish body, direct-answer length, question H2s, receipt
+#      count, retired offer strings, unbacked prices, age labels).
 #
 # WHAT THIS DOES NOT PROVE (by design — do not oversell it):
 #   - that the finding actually drove the decision claimed (auditor's job),
@@ -69,6 +73,22 @@ while IFS= read -r -d '' f; do
   done <<EOF
 $citations
 EOF
+
+  # Blog drafts get the deterministic shape checks too. Gated on the
+  # PASTE-READY BODY marker so non-blog deliverables aren't misjudged.
+  # Skipped (not failed) if python3 or the checker is unavailable — a missing
+  # tool must never masquerade as a passing draft, but it must not block
+  # unrelated work either; the receipts checks above still stand.
+  if grep -q 'PASTE-READY BODY' "$f"; then
+    checker="$repo_root/skills/yt-to-blog/scripts/check_draft.py"
+    if [ -f "$checker" ] && command -v python3 >/dev/null 2>&1; then
+      if ! shape_out="$(python3 "$checker" "$f" 2>&1)"; then
+        shape_fails="$(printf '%s' "$shape_out" | grep '^FAIL' | sed 's/^FAIL  */    · /')"
+        add_failure "${rel}: blog draft failed shape checks —
+$shape_fails"
+      fi
+    fi
+  fi
 
 done < <(find "$deliverables_dir" -type f -name '*.md' -print0 2>/dev/null)
 
