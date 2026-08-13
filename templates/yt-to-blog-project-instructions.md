@@ -79,6 +79,8 @@ AFTER YOU PUBLISH — do these while the tab is still open:
 3. Confirm the Blog link is in the site nav and the new post appears on the blog index page
 4. Edit ONE older related post to add a link to this new post (descriptive anchor — never "click here")
 5. Paste the LOG ROW below into the content tracker
+6. Flip this topic's row to PUBLISHED (+ live URL) in THE QUEUE table of content-topics.md
+   (repo copy is the master; refresh any Project-knowledge copies of the file too)
 ```
 
 **Closing block 2 — TRACKER FIELDS (always append).** The canonical tracker is the **CONTENT TRACKER** tab of the *Ultimate Content Workflow* sheet. Do NOT invent a row format — output the values for ITS columns, labeled, so Wanda pastes them into the existing structure:

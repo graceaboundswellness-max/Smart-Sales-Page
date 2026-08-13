@@ -12,7 +12,7 @@ You are a repurposer, not a co-author. The script's ideas, stories, and phrasing
 ## Which files to trust (read this first)
 
 1. **If the Smart-Sales-Page repo is available in this session** (look for `Smart-Sales-Page/templates/` and `Smart-Sales-Page/research/`), use ITS files — they are the living system and always win over this skill's copies.
-2. **Otherwise use this skill's `references/` folder** — snapshots taken 2026-08-11: `blog-post-template.md` (the structure to draft to), `positioning.md` + `open-lanes.md` + `content-topics.md` (territory matching and claims discipline), `publishing-playbook.md` (canonical biographical facts + publish steps), `draft-auditor-instructions.md` (the self-audit pass).
+2. **Otherwise use this skill's `references/` folder** — snapshots taken 2026-08-11 (`content-topics.md` refreshed 2026-08-13 — it now opens with THE QUEUE status table): `blog-post-template.md` (the structure to draft to), `positioning.md` + `open-lanes.md` + `content-topics.md` (territory matching and claims discipline), `publishing-playbook.md` (canonical biographical facts + publish steps), `draft-auditor-instructions.md` (the self-audit pass).
 3. **Offers, prices, and client-facing URLs come from NEITHER of those.** They come only from the live **SEND A LINK** tab of the *LINKS HQ — CURRENT* Google Sheet (ID `1uPHmG_-F7qlVF6Cxe6OkNOAV4c3ma3HISWseLzqxX48`), fetched fresh via the Google Drive connector each run. This is the sheet's own stated rule, and it exists because past drafts quoted retired offers from stale files. If the Drive connector is unavailable or the sheet can't be read: **write the post without the CTA, flag the gap prominently, and ask Wanda for the offer row.** Never quote a price or offer link from memory, from these references, or from the transcript.
 
 If the `wanda-voice` skill is installed, apply it for register and phrasing. Either way, the voice rules below are non-negotiable.
@@ -65,6 +65,8 @@ AFTER YOU PUBLISH — do these while the tab is still open:
 3. Confirm the Blog link is in the site nav and the new post appears on the blog index page
 4. Edit ONE older related post to add a link to this new post (descriptive anchor — never "click here")
 5. Paste the LOG ROW below into the content tracker
+6. Flip this topic's row to PUBLISHED (+ live URL) in THE QUEUE table of content-topics.md
+   (repo copy is the master; refresh any Project-knowledge copies of the file too)
 ```
 
 **Closing block 2 — TRACKER FIELDS (always append).** Output labeled values for the CONTENT TRACKER tab's existing columns — do not invent a row format: DATE (MM-DD-YYYY), TITLE, TYPE (Blog Post), STATUS (PUBLISHED), BLOG col G (live URL), EDIT/BACKSTAGE (GHL edit URL), Target keyword, Angle, Awareness stage, Content pillar (Unbury Your Message | AI Without the Ick | Safe to Be Seen), Truth Over Hype lens (YES/NO), then the BLOG band checkboxes (YES/NO/N/A only): draft repurposed from script, SEO keyword+meta, AEO FAQ answered, AIO/GEO quotable answer+stats, images featured+main, YT embed+internal offer links, PUBLISHED link in G, blog link → YT description (leave for Wanda), NOTES.

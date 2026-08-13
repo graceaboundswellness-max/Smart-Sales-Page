@@ -4,6 +4,50 @@ Every topic below is receipt-backed: it comes from a mapped search territory (`o
 
 Each topic lists: the target query → the AEO question a real person types → the angle that wins (the gap) → working titles.
 
+## THE QUEUE — live pipeline status (start every content session here)
+
+This table is the one place "what's next" lives. The tiers below hold the WHY (gap, angle, titles); this table holds the STATE. One file, edited in place — never copy the queue into a second document; point other systems at this file (same rule as SEND A LINK).
+
+Statuses: `QUEUED → BRIEFED → SCRIPTED → DRAFTED → PUBLISHED (+ URL)`. A topic Wanda vetoes goes to `SHELVED` with a dated reason.
+
+| # | Topic | Target query | Status |
+|---|---|---|---|
+| 1 ⭐ | Template fatigue | why copywriting templates don't work | BRIEFED 2026-08-13 → `deliverables/topic-brief-01-template-fatigue-2026-08-13.md` |
+| 2 ⭐ | Feeling invisible | feel invisible in my business | QUEUED |
+| 3 ⭐ | Called but exhausted | christian woman burnout business | QUEUED |
+| 4 | Christian AI ethics | is it wrong for Christians to use AI in business | QUEUED — time-sensitive (Fempreneur Chronicles compounding) |
+| 5 | Brand voice discovery | how to find your brand voice | QUEUED |
+| 6 | AI in your own voice | how to make ChatGPT sound like me | QUEUED |
+| 7 | Messaging misdiagnosis | why is my business not getting clients | QUEUED — see reconcile note |
+| 8 | One-liner / explaining what you do | how to explain what you do | QUEUED |
+| 9 | Over-50 online business | starting an online business at 55 | QUEUED — age-in-title needs Wanda's yes (rule 0) |
+| 10 | Salesy vs serving | how to sell without being salesy | QUEUED |
+| 11 | Visibility without social media | grow a business without social media | QUEUED |
+| 12 | Substack for experts | how to grow on Substack | QUEUED |
+| 13 | Email opens | why is nobody opening my emails | QUEUED |
+| 14 | Hiring a coach safely | how to vet a business coach | QUEUED |
+| 15 | AI Overviews for small experts | how to show up in Google AI Overviews small business | QUEUED |
+
+(The standing pillars at the bottom of this file recur — they are lenses across posts, not queue rows.)
+
+**Reconcile on first use (queue initialized 2026-08-13 without full history):** three existing artifacts predate this queue and need mapping to rows — (a) the first live blog post from the 2026-07-28 publish session (the publishing playbook came from it), (b) locked Video 1 packaging "Why Nobody's Buying (Even Though You're Doing Everything Right)" — likely topic 7, (c) Drive doc "YOUTUBE Video 3: Why Your Content Isn't Working & How To Make It Connect With Clients" (2026-08-12) — likely topic 7's territory too. Until Wanda or a Drive-connected session maps them, those rows stay QUEUED — wrong, but visibly wrong rather than silently wrong.
+
+## HOW THE QUEUE REACHES EVERY SURFACE (the wiring)
+
+The failure mode this section exists to prevent (named 2026-08-13): topics lived in this repo, but the surfaces where content actually starts — claude.ai skills, Claude Projects/GPTs, the tracker sheet — never loaded this file, so gap research never fed creation. If a new surface joins the system, add its row here.
+
+| Surface | How it gets the queue |
+|---|---|
+| Sessions in this repo | CLAUDE.md Rule 1 already forces loading this file before content work. |
+| `yt-to-blog` skill | Carries a snapshot in `skills/yt-to-blog/references/` and prefers the live repo copy when available. Refresh the snapshot whenever this file changes. |
+| Claude Projects / custom GPTs | This file is uploaded to Project knowledge per `templates/yt-to-blog-project-instructions.md`. Snapshots go stale silently — re-upload when the queue changes. |
+| Planning skills (`daily-content-interview`, `youtube-slide-deck-planner`, `substack-article-optimizer`, etc.) | Paste the rule below into each skill's instructions (one-time, Wanda's hand — skills live in claude.ai, not this repo). |
+| Ultimate Content Workflow sheet (CONTENT TRACKER tab) | Stays the publish LOG, never a second queue. On publish: paste the tracker row there AND flip the status row here, same session. |
+
+**Paste-in rule for planning skills:**
+
+> Before proposing or choosing any content topic: open `content-topics.md` (repo copy, or the Project-knowledge copy) → THE QUEUE table → take the highest QUEUED row unless Wanda names a different topic. State which row you took. If the copy you can see looks older than ~2 weeks, say so and ask Wanda to refresh it.
+
 ## Tier 1 — Fastest wins (write these first)
 
 **1. ⭐ Template fatigue** — `why copywriting templates don't work`
