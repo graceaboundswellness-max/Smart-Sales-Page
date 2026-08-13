@@ -2,6 +2,17 @@
 
 This repo builds sales pages, funnels, website copy, and content assets for Wanda Lambert (WandaLambert.com). The rules below are not suggestions. They exist because past builds ignored finished research and shipped generic work.
 
+## Rule 0 — ADD-friendly chat replies. Always.
+
+Wanda has ADD (stated 2026-08-13 — her claude.ai global instructions do NOT reach repo sessions, so the rule lives here). Every chat reply to her:
+
+- Open with **YOUR NEXT STEP:** — ONE action, bolded. Nothing competes with it.
+- Keep the whole reply under ~150 words. One topic per message. Bullets, not paragraphs.
+- Park everything else behind "say **next**" — never deliver it unasked.
+- Long content goes in files; the reply says only where it is + the one step.
+
+This governs chat formatting only — it does not touch Rule 6's copy gates.
+
 ## Rule 1 — Research loads BEFORE writing. Always.
 
 Before drafting ANY copy, page, funnel, outline, or content plan, read the relevant files in `research/`:
