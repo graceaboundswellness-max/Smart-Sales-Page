@@ -120,6 +120,8 @@ AFTER YOU PUBLISH — do these while the tab is still open:
 3. Confirm the Blog link is in the site nav and the new post appears on the blog index page
 4. Edit ONE older related post to add a link to this new post (descriptive anchor — never "click here")
 5. Paste the LOG ROW below into the content tracker
+6. Flip this topic's row to PUBLISHED (+ live URL) in THE QUEUE table of content-topics.md
+   (repo copy is the master; refresh any Project-knowledge copies of the file too)
 ```
 
 **Closing block 2 — TRACKER FIELDS.** Output labeled values for the CONTENT TRACKER tab's existing columns — never invent a row format:
