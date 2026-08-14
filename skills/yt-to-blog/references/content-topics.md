@@ -18,7 +18,7 @@ Statuses: `QUEUED → BRIEFED → SCRIPTED → DRAFTED → PUBLISHED (+ URL)`. A
 | 4 | Christian AI ethics | is it wrong for Christians to use AI in business | QUEUED — time-sensitive (Fempreneur Chronicles compounding) |
 | 5 | Brand voice discovery | how to find your brand voice | QUEUED |
 | 6 | AI in your own voice | how to make ChatGPT sound like me | QUEUED |
-| 7 | Messaging misdiagnosis | why is my business not getting clients | **SCRIPTED** — Video 3 "Why Your Content Isn't Working & How To Make It Connect With Clients" (Drive `17k6YHPt…`, script complete 2026-08-13). ⚠️ **DO NOT PUBLISH until the description block is fixed — see the Video 3 note below.** Video 1 packaging also sits in this territory |
+| 7 | Messaging misdiagnosis | why is my business not getting clients | **SCRIPTED** — Video 3 "Why Your Content Isn't Working & How To Make It Connect With Clients" (Drive `17k6YHPt…`, script complete 2026-08-13). Video 1 packaging also sits in this territory — see the note below |
 | 8 | One-liner / explaining what you do | how to explain what you do | QUEUED |
 | 9 | Over-50 online business | starting an online business at 55 | QUEUED — age-in-title needs Wanda's yes (rule 0) |
 | 10 | Salesy vs serving | how to sell without being salesy | QUEUED |
@@ -39,7 +39,7 @@ Statuses: `QUEUED → BRIEFED → SCRIPTED → DRAFTED → PUBLISHED (+ URL)`. A
 **⚠️ Two things a human must settle (do not auto-resolve):**
 
 1. **Territory 7 now has two videos claiming it.** House rule is one topic = one territory = one primary query. Either Video 1 and Video 3 target different queries (in which case Video 3's `my content isn't working` may deserve its own row — it is adjacent to, not identical to, territory 7's `why is my business not getting clients`), or one of them needs re-aiming. Wanda's call.
-2. **Video 3's description block quotes RETIRED offers.** Read directly from the Drive doc 2026-08-14, the description carries: *Messaging Made Easy $27* (retired 2026-07-30 — never quote), *Pick My Brain for an hour* → `/coaching/` (renamed Breakthrough Message Session, $297), the *AI Brand Messaging Lab* waitlist, and a *free AI messaging mini-course* link. The in-script CTA (Language Check inside Be Seen) is fine. **Publishing Video 3 as-written would ship retired offers.** Rebuild the description from the live SEND A LINK tab before upload. Separately, the doc's "Related Keywords" cell still holds neuroplasticity / renew-your-mind keywords left over from a different video.
+2. **Video 3's doc contains stale offer strings — in a placeholder, not in live copy.** The description block carries *Messaging Made Easy $27* (retired 2026-07-30), *Pick My Brain for an hour* → `/coaching/` (now Breakthrough Message Session, $297), the *AI Brand Messaging Lab* waitlist, and a free-mini-course link; the "Related Keywords" cell holds leftover neuroplasticity keywords from another video. **Wanda confirmed 2026-08-14 that this is an old description TEMPLATE she is not using** — so it is not a publish risk. It stays noted only because retired strings sitting in a source doc can be picked up by an AI reading that doc later. The real description gets built from the live SEND A LINK tab at upload time. The in-script CTA (Language Check inside Be Seen) is current and fine.
 
 ## HOW THE QUEUE REACHES EVERY SURFACE (the wiring)
 
