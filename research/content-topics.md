@@ -18,7 +18,7 @@ Statuses: `QUEUED → BRIEFED → SCRIPTED → DRAFTED → PUBLISHED (+ URL)`. A
 | 4 | Christian AI ethics | is it wrong for Christians to use AI in business | QUEUED — time-sensitive (Fempreneur Chronicles compounding) |
 | 5 | Brand voice discovery | how to find your brand voice | QUEUED |
 | 6 | AI in your own voice | how to make ChatGPT sound like me | QUEUED |
-| 7 | Messaging misdiagnosis | why is my business not getting clients | QUEUED — see reconcile note |
+| 7 | Messaging misdiagnosis | why is my business not getting clients | **SCRIPTED** — Video 3 "Why Your Content Isn't Working & How To Make It Connect With Clients" (Drive `17k6YHPt…`, script complete 2026-08-13). ⚠️ **DO NOT PUBLISH until the description block is fixed — see the Video 3 note below.** Video 1 packaging also sits in this territory |
 | 8 | One-liner / explaining what you do | how to explain what you do | QUEUED |
 | 9 | Over-50 online business | starting an online business at 55 | QUEUED — age-in-title needs Wanda's yes (rule 0) |
 | 10 | Salesy vs serving | how to sell without being salesy | QUEUED |
@@ -30,7 +30,16 @@ Statuses: `QUEUED → BRIEFED → SCRIPTED → DRAFTED → PUBLISHED (+ URL)`. A
 
 (The standing pillars at the bottom of this file recur — they are lenses across posts, not queue rows.)
 
-**Reconcile on first use (queue initialized 2026-08-13 without full history):** three existing artifacts predate this queue and need mapping to rows — (a) the first live blog post from the 2026-07-28 publish session (the publishing playbook came from it), (b) locked Video 1 packaging "Why Nobody's Buying (Even Though You're Doing Everything Right)" — likely topic 7, (c) Drive doc "YOUTUBE Video 3: Why Your Content Isn't Working & How To Make It Connect With Clients" (2026-08-12) — likely topic 7's territory too. Until Wanda or a Drive-connected session maps them, those rows stay QUEUED — wrong, but visibly wrong rather than silently wrong.
+**Reconcile — partially done 2026-08-14.** Three artifacts predate this queue:
+
+- **(a) The first live blog post** (2026-07-28 publish session — the publishing playbook came from it). **STILL UNMAPPED** — its live URL and target query weren't recoverable from the repo. Next session with the blog reachable should map it and set the row to PUBLISHED.
+- **(b) Video 1 packaging** — "Why Nobody's Buying (Even Though You're Doing Everything Right)", locked 2026-06-01. Sits in **territory 7**.
+- **(c) Video 3** — mapped to **row 7**, status SCRIPTED. Its own stated search term is `my content isn't working`.
+
+**⚠️ Two things a human must settle (do not auto-resolve):**
+
+1. **Territory 7 now has two videos claiming it.** House rule is one topic = one territory = one primary query. Either Video 1 and Video 3 target different queries (in which case Video 3's `my content isn't working` may deserve its own row — it is adjacent to, not identical to, territory 7's `why is my business not getting clients`), or one of them needs re-aiming. Wanda's call.
+2. **Video 3's description block quotes RETIRED offers.** Read directly from the Drive doc 2026-08-14, the description carries: *Messaging Made Easy $27* (retired 2026-07-30 — never quote), *Pick My Brain for an hour* → `/coaching/` (renamed Breakthrough Message Session, $297), the *AI Brand Messaging Lab* waitlist, and a *free AI messaging mini-course* link. The in-script CTA (Language Check inside Be Seen) is fine. **Publishing Video 3 as-written would ship retired offers.** Rebuild the description from the live SEND A LINK tab before upload. Separately, the doc's "Related Keywords" cell still holds neuroplasticity / renew-your-mind keywords left over from a different video.
 
 ## HOW THE QUEUE REACHES EVERY SURFACE (the wiring)
 
