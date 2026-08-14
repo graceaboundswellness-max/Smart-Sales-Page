@@ -91,6 +91,22 @@ Routing is deterministic — `scripts/classify-output-scope.sh` decides:
 
 Regression suite: `bash scripts/test-output-scope.sh` (14 cases, includes the 2026-07-30 false positive verbatim). Run it after touching either script.
 
+## Rule 7 — Close the loop before the session ends.
+
+Wanda asked for this (2026-08-14): nothing should be left dangling in a chat window she won't remember opening. Before ending any working session, run a pending sweep and write what's left into the day's log.
+
+**The sweep — check all six, every time:**
+1. Uncommitted changes in the working tree, and unpushed commits.
+2. Open PRs from this session — merged, or still waiting? Merge conflicts?
+3. Handoffs issued to another agent/window that haven't reported back.
+4. Things Wanda was asked to do by hand (paste, merge, refresh, install).
+5. Items carried from the previous daily log — **verify each against the repo before repeating it.** A to-do list that recycles finished work is worse than no list.
+6. Work this session started but didn't finish.
+
+**Anything still open goes into `01 Daily Logs/[C] YYYY-MM-DD.md`** under a `PENDING — carried forward` heading. Each item names: what it is · who owns it (Wanda / next session / another agent) · the ONE action that closes it. Items that got verified as already done get recorded as closed, with what proved it.
+
+The chat reply stays Rule 0 shaped — one next step. The log carries the rest; never recite the pending list in chat unless asked.
+
 ## Rule 5 — Keep the research alive.
 
 When new research is produced in any session (competitor sweeps, SERP checks, audience data), distill it into the matching `research/` file in the same session. Research that only lives in chat output is considered lost.
